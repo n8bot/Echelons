@@ -24,5 +24,8 @@
 /Plugins/UIExtension/
 /Saved/
 /Source/
+/.vs/
 /.p4ignore
+/*.sln
 /*.uproject
+/.vsconfig
