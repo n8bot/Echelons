@@ -49,6 +49,7 @@
 *.upk
 *.udk
 *.ubulk
+*.png
 
 # Directories always ignored anywhere
 **/ArtSource/
