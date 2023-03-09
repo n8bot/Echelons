@@ -1,3 +1,4 @@
+# Lyra Starter Game project directories
 /Binaries/
 /Build/
 /Config/
@@ -24,7 +25,32 @@
 /Plugins/UIExtension/
 /Saved/
 /Source/
+
+# Visual Studio files and directories
 /.vs/
-/.p4ignore
-/*.sln
-/.vsconfig
+*.sln
+.vsconfig
+
+# Perforce ignore file
+.p4ignore
+
+# Bnary file formats
+*.exe
+*.dll
+*.lib
+*.app
+*.dylib
+*.stub
+*.ipa
+*.so
+*.pdb
+*.uasset
+*.umap
+*.upk
+*.udk
+*.ubulk
+
+# Directories always ignored anywhere
+**/ArtSource/
+**/Binaries/
+**/Intermediate/
