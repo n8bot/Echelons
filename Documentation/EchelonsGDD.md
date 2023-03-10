@@ -2,7 +2,7 @@
 
 >> ### *Echelons of Deception and Survival*
 >>>> #### *Game Design Document*
->>>>>>>>> ##### *n8bot 2023*
+>>>>> ##### Copyright [**`@n8bot`**](https://github.com/n8bot) 2023
 
 # Introduction
 
@@ -52,3 +52,6 @@ Sarcastic “Server Rules” banner: (Maybe different random banners each time, 
 
 ---
 
+###### Copyright 2023 [**`@n8bot`**](https://github.com/n8bot).
+
+###### *Echelons of Deception and Survival* is a Trademark of [**`@n8bot`**](https://github.com/n8bot).
