@@ -2,7 +2,7 @@
 
 >> ### *Echelons of Deception and Survival*
 >>>> #### *Game Design Document*
->>>>> ##### Copyright [**`@n8bot`**](https://github.com/n8bot) 2023
+>>>>>>> ##### [**`@n8bot`**](https://github.com/n8bot) 2023
 
 # Introduction
 
