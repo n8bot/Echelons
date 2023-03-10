@@ -1,4 +1,4 @@
-# Echelons of Deception and Survival
+# *Echelons of Deception and Survival*
 
 This is the official GitHub repository for the upcoming competitive online multiplayer game *Echelons of Deception and Survival*.
 
