@@ -1,5 +1,10 @@
 # *Echelons of Deception and Survival*
 
+![2022-12-24-22-38-57-2-Echelon_Deception_and_Survival-1740460400-scale8 00-k_lms-v1-5-pruned-emaonly](https://user-images.githubusercontent.com/22458343/222296043-c3471d85-0686-4242-8762-5c27acfb7a25.png)
+
+>> ### *Echelons of Deception and Survival*
+>>>> #### *Official GitHub Repo*
+
 This is the official GitHub repository for the upcoming competitive online multiplayer game *Echelons of Deception and Survival*.
 
 This is an open source community-driven game project. Please, get involved.
