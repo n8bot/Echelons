@@ -9,7 +9,7 @@ This is the official GitHub repository for the upcoming competitive online multi
 
 This is an open source community-driven game project. 
 
-Please get involved.
+You are welcome to be involved.
 
 ### Please see the following links for additional information:
 
