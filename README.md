@@ -7,7 +7,9 @@
 
 This is the official GitHub repository for the upcoming competitive online multiplayer game *Echelons of Deception and Survival*.
 
-This is an open source community-driven game project. Please, get involved.
+This is an open source community-driven game project. 
+
+Please get involved.
 
 ### Please see the following links for additional information:
 
