@@ -158,6 +158,8 @@
 - Hitpeople
   - All players are secretly hit persons. Crazy Ulon Mars has given them all tailored hit lists which contain some AI characters and also all other player characters, but without knowledge of which is which. Winner is the first to complete their list without getting hitted.
 
+![image](https://user-images.githubusercontent.com/22458343/224476328-919a5534-0d16-4a9e-ad9e-42348b0ed29e.png)
+
 
 ---
 
