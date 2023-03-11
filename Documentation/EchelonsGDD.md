@@ -161,6 +161,13 @@
 ![image](https://user-images.githubusercontent.com/22458343/224476328-919a5534-0d16-4a9e-ad9e-42348b0ed29e.png)
 
 
+### Discord Ramblings
+
+- going to try and model the npc ai using Maslow's hierarchy, the biopsychosocial model, and the stress and coping model of human behaviour.
+- I think the game name will be Ulon Mars
+  - and ppl can joke, like they act confused when they hear the name and someone is like "Yeah he changed his name" and they're like oooh yeah yeah ok but we never say the old name lol
+
+
 ---
 
 ###### Copyright 2023 [**`@n8bot`**](https://github.com/n8bot).
