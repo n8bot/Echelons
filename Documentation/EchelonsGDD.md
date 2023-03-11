@@ -68,6 +68,40 @@
 - Roles mapped to chess pieces — 32 Characters total
   - Upper echelon: Kings, Queens, Rooks, Knights, Bishops — VIP Whales, Operations Management, Security Management, Small Business Owners
   - Lower echelon: Pawns — Workers
+- Mental health is modeled with medication as a pickup to buff/debuff certain stats simultaneously (restores mental health with side effects)
+- Picture the routines of all the specific jobs/roles
+- Characters must sleep  
+  - While sleeping characters/players can use their electornic device (phone, "mental probe" implant, etc.) to perform online shopping and other activities
+  - AI-controlled characters can also do this automatically to some extent
+  - This mechanic adds to the narrative as well as gives players something to do when the character is sleeping
+  - Perhaps sleeping pills are required to do activities while sleeping
+  - Maybe other types of pills allow a character to forgoe sleep with some debuff side-effect
+- Maybe the Knights are more like dedicated security/bodyguards for the VIP whales
+- Currency? Digital/Cash?
+  - "Mars Credits"?
+  - Proxy?
+    - Diamonds?
+    - Bullets?
+    - Pills?
+    - Spices?
+    - Booze?
+- Chat? Voice? Text?
+  - "SMS" via phone or "mental probe" implant?
+- Social Credit?
+- Player-paid billboard ads?
+- Business reviews?
+  - Message to/from businesses?
+- Random business names
+  - Players name theirs
+- Battery on phone or "mental probe" implant depletes
+- Camera movement lags AI movement?
+- Phone/ID Device can be lost/stolen
+  - Phone/ID Device is issued by the casino/house/management/colony
+- Entire facility is put under lock down, red lights and sirens, if any glass is broken of the dome, etc.
+  - Roof glass breaking mechanism: multiple layers of glass. Shards of glass rain down on characters causing damage. Red alert, lockdown. Always explained away as thankfully all the layers didn't break. Technical side: Glass planels never do break, they just spawn shards of glass for simplicity.
+- Throwing system
+  - Physical properties like hardness, weight, etc., affect trajectory and damage
+
 
 ---
 
