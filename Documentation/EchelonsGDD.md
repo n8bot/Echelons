@@ -24,6 +24,19 @@
 
 > Echelons of Deception and Survival is a third-person online-only competitive survival battle-royale RPG immersive sim set in a Martian gambling resort colony. Players take on the role of various jobs and tasks around the colony, ultimately catering to the elite VIP guests. The gameplay involves a unique blend of survival mechanics, social-stealth mechanics, and immersive sim economic simulation, all while navigating the dangerous and mysterious world of the colony, where player identities are kept hidden and deception is at every turn. The game features two main game modes: Last One Standing and Team Target Elimination, as well as a third free-mode for casual serious and non-serious RP. With an emphasis on strategy and roleplaying, Echelons of Deception and Survival offers a thrilling and engaging experience for players looking for a new type of online competitive gaming.
 
+> ![image](https://user-images.githubusercontent.com/22458343/224467039-b2ed5043-4fe9-4335-a626-baf47d3253fc.png)
+>>>> ---
+> **Note:** ChatGPT helped name the game.
+
+> ![image](https://user-images.githubusercontent.com/22458343/224467011-ffa1086d-e0d7-49b9-a9dd-882888b3a4bf.png)
+>>>> ---
+
+> ![image](https://user-images.githubusercontent.com/22458343/224467191-71573c7d-8dcb-42bd-9e84-43e9ef44d99e.png)
+>>>> ---
+
+> ![image](https://user-images.githubusercontent.com/22458343/224467298-5da6dad4-69e8-4697-b10a-e244f9119af9.png)
+>>>> ---
+
 ---
 
 ### Game Idea LyraRP
@@ -47,6 +60,14 @@
 > - No arguing with the mods
 > - Report to mods (there actually are no mods)
 
+
+---
+
+### Notebook Notes
+
+- Roles mapped to chess pieces — 32 Characters total
+  - Upper echelon: Kings, Queens, Rooks, Knights, Bishops — VIP Whales, Operations Management, Security Management, Small Business Owners
+  - Lower echelon: Pawns — Workers
 
 ---
 
