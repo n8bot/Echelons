@@ -2,12 +2,6 @@
 
 By downloading, installing, using, or copying the Software, you accept and agree to be bound by the terms of this end user license agreement ("EULA"). If you do not agree to all of the terms of this EULA, you may not download, install, use or copy the Software.
 
-## Source Code/Art Licenses
-
-Some components of the Software are licensed under the terms of the Mozilla Public License, v. 2.0. See LICENSE and source code at https://github.com/n8bot/Echelons
-
-The Epic Materials are licensed under separate agreements as detailed in the Unreal Engine End User License Agreement and the Epic Content License Agreement. Copies of these agreements can be found at the following URL: https://www.unrealengine.com/en-US/eula/unreal and https://www.unrealengine.com/en-US/eula/content
-
 
 ## Disclaimers and Limitation of Liability
 
@@ -16,3 +10,11 @@ Echelons of Deception and Survival (the "Software") includes the Unreal Engine c
 To the maximum extent permitted by applicable law, neither n8bot, Epic, Epic's licensors, nor its or their affiliates, nor any of n8bot's or Epic's service providers, shall be liable in any way for loss or damage of any kind resulting from the use or inability to use the Epic Materials or otherwise in connection with this EULA, including but not limited to loss of goodwill, work stoppage, computer failure, or malfunction, or any and all other commercial damages or losses.  In no event will n8bot, Epic, Epic's licensors, nor its or their affiliates, nor any of n8bot's or Epic's service providers be liable for any loss of profits or any indirect, incidental, consequential, special, punitive, or exemplary damages, or any other damages arising out of or in connection with this EULA or the Epic Materials, or the delay or inability to use or lack of functionality of the Epic Materials, even in the event of n8bot's, Epic's, or Epic's affiliates' fault, tort (including negligence), strict liability, indemnity, product liability, breach of contract, breach of warranty, or otherwise and even if n8bot, Epic or Epic's affiliates have been advised of the possibility of such damages.  These limitations and exclusions regarding damages apply even if any remedy fails to provide adequate compensation.
 
 Because some states or jurisdictions do not allow the exclusion or the limitation of liability for consequential or incidental damages, in such states or jurisdictions, the liability of n8bot, Epic, Epic's licensors, its and their affiliates, and any of n8bot's or Epic's service providers shall be limited to the full extent permitted by law.
+
+
+## Source Code/Art Licenses
+
+Some components of the Software are licensed under the terms of the Mozilla Public License, v. 2.0. See LICENSE and source code at https://github.com/n8bot/Echelons
+
+The Epic Materials are licensed under separate agreements as detailed in the Unreal Engine End User License Agreement and the Epic Content License Agreement. Copies of these agreements can be found at the following URL: https://www.unrealengine.com/en-US/eula/unreal and https://www.unrealengine.com/en-US/eula/content
+
