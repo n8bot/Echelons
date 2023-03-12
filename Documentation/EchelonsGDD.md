@@ -8,8 +8,18 @@
 
 *Echelons of Deception and Survival* is a competitive third-person roleplaying game with elements of survival, social stealth, immersive simulation, and battle-royale.
 
+### New Notes
 
-### Collections of Notes
+#### Ontology
+
+Ontology plays a large part of the themes and tone of the game. The ontology will be precise, yet ambiguous. As in, each use of a term will be well defined, but there will be many uses of a single term all of which can only be determined based on context.
+
+E.g., the word echelon itself. It will be used to describe so many things — upper and lower echelon character roles, numbered echelons of player deaths, referring to physical stories of a building, referring to other individual objects. There could be several ways to use these different terms. Upper/lower echelon, echelon 1, 2, 3, or 4. First echelon/Second echelon. Echelon A, B, C. Your echelon, their echelon.
+
+This kind of ambiguous wordplay will be everywhere.
+
+
+### Collections of Pre-existing Notes
 
 Below is a collection of notes about the game.
 
@@ -122,6 +132,7 @@ These notes are transcribed from handwritten notes, in the order they appear in 
 - Possible mental model of AI/Characters whereby they self-rank themselves in terms of superiority — modelling complexes of narcissists and the opposite
 - Mandatory "mental probe" implants (neurolink)
 
+
 #### Game Types
 
 - Last One Standing
@@ -147,167 +158,167 @@ These notes are transcribed from handwritten notes, in the order they appear in 
 
 #### Prompts and Responses
 
-- Can you help me brainstorm job ideas for a role playing multiplayer video game? It will simulate a small martian colony which is run capitalistically as a tourist destination: a casino-style resort that hosts robot gun battles which can be gambled on. There are 32 characters, each vaguely modelled off the 32 chess pieces and pawns. The Kings and Queens are merely the whale guests of the casino. They have been sold a one-way ticket to live the rest of their lives in luxury, gambling on robot battles on mars. The other members of the colony are the people who facilitate the running of the colony. The Rooks represent "the house" and are the VIP hosts to the whales. They are also basically in charge of the whole operation. Then, the bishops are represented as the business owners who hold private interest over the food, shopping, and other facilities of the small martian colony. The Knights are in charge of security, but they don't themselves perform any policing duties. Robots take care of all direct policing: arresting and protecting with weapons. The pawns are all the low-skilled workers, who tend to the shops and restaurants of the colony, as well as all the manual labour required to run the operation: weapons technician, robot technician, electricty/power generation and distribution, facility maintenance, plumbing, glass repair, etc. I need help determining which roles will be essential to the operation of the colony, and provide interesting, dynamic, and fun gameplay for the players and characters.
+Can you help me brainstorm job ideas for a role playing multiplayer video game? It will simulate a small martian colony which is run capitalistically as a tourist destination: a casino-style resort that hosts robot gun battles which can be gambled on. There are 32 characters, each vaguely modelled off the 32 chess pieces and pawns. The Kings and Queens are merely the whale guests of the casino. They have been sold a one-way ticket to live the rest of their lives in luxury, gambling on robot battles on mars. The other members of the colony are the people who facilitate the running of the colony. The Rooks represent "the house" and are the VIP hosts to the whales. They are also basically in charge of the whole operation. Then, the bishops are represented as the business owners who hold private interest over the food, shopping, and other facilities of the small martian colony. The Knights are in charge of security, but they don't themselves perform any policing duties. Robots take care of all direct policing: arresting and protecting with weapons. The pawns are all the low-skilled workers, who tend to the shops and restaurants of the colony, as well as all the manual labour required to run the operation: weapons technician, robot technician, electricty/power generation and distribution, facility maintenance, plumbing, glass repair, etc. I need help determining which roles will be essential to the operation of the colony, and provide interesting, dynamic, and fun gameplay for the players and characters.
 
-> - There are many potential job ideas for the characters in your role-playing multiplayer video game. Here are a few suggestions:
+> There are many potential job ideas for the characters in your role-playing multiplayer video game. Here are a few suggestions:
 > 
->   - Casino manager: This character would be responsible for overseeing the operations of the casino, including managing the gambling games, setting odds, and handling any issues that arise.
+> 1. Casino manager: This character would be responsible for overseeing the operations of the casino, including managing the gambling games, setting odds, and handling any issues that arise.
 > 
->   - Robot designer: This character would be responsible for designing and building the robots that are used in the gun battles. They would need to be skilled in engineering and have a good understanding of robotics.
+> 2. Robot designer: This character would be responsible for designing and building the robots that are used in the gun battles. They would need to be skilled in engineering and have a good understanding of robotics.
 > 
->   - Robot repair technician: This character would be responsible for maintaining and repairing the robots when they break down or are damaged in battle. They would need to be skilled in mechanics and have a good understanding of robotics.
+> 3. Robot repair technician: This character would be responsible for maintaining and repairing the robots when they break down or are damaged in battle. They would need to be skilled in mechanics and have a good understanding of robotics.
 > 
->   - Weapons technician: This character would be responsible for designing, building, and maintaining the weapons used in the robot battles. They would need to be skilled in engineering and have a good understanding of firearms.
+> 4. Weapons technician: This character would be responsible for designing, building, and maintaining the weapons used in the robot battles. They would need to be skilled in engineering and have a good understanding of firearms.
 > 
->   - Power generation and distribution technician: This character would be responsible for ensuring that the colony has a reliable source of power and that it is distributed effectively. They would need to be skilled in electrical engineering and have a good understanding of power systems.
+> 5. Power generation and distribution technician: This character would be responsible for ensuring that the colony has a reliable source of power and that it is distributed effectively. They would need to be skilled in electrical engineering and have a good understanding of power systems.
 > 
->   - Facility maintenance worker: This character would be responsible for maintaining and repairing the various facilities within the colony, including the casino, shops, and restaurants. They would need to be skilled in a variety of trades, such as plumbing, glass repair, and carpentry.
+> 6. Facility maintenance worker: This character would be responsible for maintaining and repairing the various facilities within the colony, including the casino, shops, and restaurants. They would need to be skilled in a variety of trades, such as plumbing, glass repair, and carpentry.
 > 
->   - Security officer: This character would be responsible for ensuring the safety and security of the colony, including protecting the whales and other VIP guests. They would need to be skilled in security tactics and have a good understanding of emergency procedures.
+> 7. Security officer: This character would be responsible for ensuring the safety and security of the colony, including protecting the whales and other VIP guests. They would need to be skilled in security tactics and have a good understanding of emergency procedures.
 > 
->   - Shop and restaurant owner: This character would be responsible for managing a shop or restaurant within the colony. They would need to be skilled in business management and have a good understanding of customer service.
+> 8. Shop and restaurant owner: This character would be responsible for managing a shop or restaurant within the colony. They would need to be skilled in business management and have a good understanding of customer service.
 > 
->   Overall, it will be important to ensure that the job roles in your game are diverse and interesting, and that they provide players with a sense of progression and accomplishment as they progress through the game.
+> Overall, it will be important to ensure that the job roles in your game are diverse and interesting, and that they provide players with a sense of progression and accomplishment as they progress through the game.
 
-- Can you think of more low-skill jobs for the pawns?
+Can you think of more low-skill jobs for the pawns?
 
-> - Sure, here are a few additional ideas for low-skilled jobs that the pawns in your game could perform:
+> Sure, here are a few additional ideas for low-skilled jobs that the pawns in your game could perform:
 > 
->   - Janitor: This character would be responsible for cleaning and maintaining the facilities within the colony, including the casino, shops, and restaurants. They would need to be able to perform basic cleaning tasks and have a good attention to detail.
+> 1. Janitor: This character would be responsible for cleaning and maintaining the facilities within the colony, including the casino, shops, and restaurants. They would need to be able to perform basic cleaning tasks and have a good attention to detail.
 > 
->   - Food service worker: This character would be responsible for preparing and serving food and beverages in a shop or restaurant within the colony. They would need to be able to follow recipes and have good customer service skills.
+> 2. Food service worker: This character would be responsible for preparing and serving food and beverages in a shop or restaurant within the colony. They would need to be able to follow recipes and have good customer service skills.
 > 
->   - Laundry worker: This character would be responsible for washing, drying, and folding the laundry of the guests and workers in the colony. They would need to be able to follow basic laundry instructions and have good attention to detail.
+> 3. Laundry worker: This character would be responsible for washing, drying, and folding the laundry of the guests and workers in the colony. They would need to be able to follow basic laundry instructions and have good attention to detail.
 > 
->   - Porter: This character would be responsible for carrying luggage and other items for the guests and workers in the colony. They would need to be able to lift and carry heavy objects and have good customer service skills.
+> 4. Porter: This character would be responsible for carrying luggage and other items for the guests and workers in the colony. They would need to be able to lift and carry heavy objects and have good customer service skills.
 > 
->   - Gardener: This character would be responsible for maintaining the gardens and landscaping within the colony. They would need to have a basic understanding of plant care and be able to perform basic gardening tasks.
+> 5. Gardener: This character would be responsible for maintaining the gardens and landscaping within the colony. They would need to have a basic understanding of plant care and be able to perform basic gardening tasks.
 > 
->   - Personal assistant: This character would be responsible for assisting the guests and workers in the colony with tasks such as scheduling appointments, making reservations, and running errands. They would need to be organized and have good customer service skills.
+> 6. Personal assistant: This character would be responsible for assisting the guests and workers in the colony with tasks such as scheduling appointments, making reservations, and running errands. They would need to be organized and have good customer service skills.
 > 
->   - Receptionist: This character would be responsible for greeting and assisting guests as they arrive at the colony. They would need to have good customer service skills and be able to handle basic administrative tasks.
+> 7. Receptionist: This character would be responsible for greeting and assisting guests as they arrive at the colony. They would need to have good customer service skills and be able to handle basic administrative tasks.
 
-- Good! I need more ideas.
+Good! I need more ideas.
 
-> - Sure, here are a few more ideas for low-skilled jobs that the pawns in your game could perform:
+> Sure, here are a few more ideas for low-skilled jobs that the pawns in your game could perform:
 > 
->   - Housekeeper: This character would be responsible for cleaning and maintaining the guest rooms in the colony. They would need to be able to perform basic cleaning tasks and have a good attention to detail.
+> 1. Housekeeper: This character would be responsible for cleaning and maintaining the guest rooms in the colony. They would need to be able to perform basic cleaning tasks and have a good attention to detail.
 > 
->   - Bartender: This character would be responsible for preparing and serving drinks in the casino or other establishments within the colony. They would need to have a basic understanding of mixology and be able to follow recipes.
+> 2. Bartender: This character would be responsible for preparing and serving drinks in the casino or other establishments within the colony. They would need to have a basic understanding of mixology and be able to follow recipes.
 > 
->   - Valet: This character would be responsible for parking and retrieving vehicles for the guests and workers in the colony. They would need to have good customer service skills and be able to safely operate a variety of vehicles.
+> 3. Valet: This character would be responsible for parking and retrieving vehicles for the guests and workers in the colony. They would need to have good customer service skills and be able to safely operate a variety of vehicles.
 > 
->   - Bellhop: This character would be responsible for assisting guests with their luggage and providing information about the colony. They would need to be able to lift and carry heavy objects and have good customer service skills.
+> 4. Bellhop: This character would be responsible for assisting guests with their luggage and providing information about the colony. They would need to be able to lift and carry heavy objects and have good customer service skills.
 > 
->   - Server: This character would be responsible for taking orders and serving food in a restaurant or other establishment within the colony. They would need to have good customer service skills and be able to handle basic food service tasks.
+> 5. Server: This character would be responsible for taking orders and serving food in a restaurant or other establishment within the colony. They would need to have good customer service skills and be able to handle basic food service tasks.
 > 
->   - Concierge: This character would be responsible for assisting guests with making arrangements for activities and services within the colony, such as booking tours or reserving tables at restaurants. They would need to have good customer service skills and be able to handle basic administrative tasks.
+> 6. Concierge: This character would be responsible for assisting guests with making arrangements for activities and services within the colony, such as booking tours or reserving tables at restaurants. They would need to have good customer service skills and be able to handle basic administrative tasks.
 > 
->   - Tour guide: This character would be responsible for leading tours and providing information about the colony to the guests. They would need to have good communication skills and a basic understanding of the colony's history and attractions.
+> 7. Tour guide: This character would be responsible for leading tours and providing information about the colony to the guests. They would need to have good communication skills and a basic understanding of the colony's history and attractions.
 
-- Good. Can you think of any businesses that could be owned and operated in the colony? What kind of amenities would be needed or desired by a small colony of people on mars?
+Good. Can you think of any businesses that could be owned and operated in the colony? What kind of amenities would be needed or desired by a small colony of people on mars?
 
-> - Sure, here are a few ideas for businesses that could be owned and operated in the colony:
+> Sure, here are a few ideas for businesses that could be owned and operated in the colony:
 > 
->   - Casino: As mentioned in your description, the colony could have a casino-style resort that hosts robot gun battles which can be gambled on. The casino could offer a variety of gambling games, such as slot machines, card games, and roulette.
+> 1. Casino: As mentioned in your description, the colony could have a casino-style resort that hosts robot gun battles which can be gambled on. The casino could offer a variety of gambling games, such as slot machines, card games, and roulette.
 > 
->   - Restaurant: The colony could have one or more restaurants that offer a variety of cuisines and dining experiences. Options could include fast food, sit-down meals, and fine dining.
+> 2. Restaurant: The colony could have one or more restaurants that offer a variety of cuisines and dining experiences. Options could include fast food, sit-down meals, and fine dining.
 > 
->   - Bar: The colony could have a bar or nightclub where guests and workers can relax and socialize. The bar could offer a variety of drinks, including cocktails, beer, and wine.
+> 3. Bar: The colony could have a bar or nightclub where guests and workers can relax and socialize. The bar could offer a variety of drinks, including cocktails, beer, and wine.
 > 
->   - Spa: The colony could have a spa that offers a variety of relaxation and beauty treatments, such as massages, facials, and manicures.
+> 4. Spa: The colony could have a spa that offers a variety of relaxation and beauty treatments, such as massages, facials, and manicures.
 > 
->   - Fitness center: The colony could have a fitness center that offers a variety of exercise equipment and classes, such as cardio machines, weight machines, and yoga classes.
+> 5. Fitness center: The colony could have a fitness center that offers a variety of exercise equipment and classes, such as cardio machines, weight machines, and yoga classes.
 > 
->   - Shopping center: The colony could have a shopping center that offers a variety of retail stores, such as clothing, electronics, and souvenirs.
+> 6. Shopping center: The colony could have a shopping center that offers a variety of retail stores, such as clothing, electronics, and souvenirs.
 > 
->   - Entertainment venue: The colony could have an entertainment venue that offers a variety of activities and events, such as live music, movies, and comedy shows.
+> 7. Entertainment venue: The colony could have an entertainment venue that offers a variety of activities and events, such as live music, movies, and comedy shows.
 > 
-> - In terms of amenities, some things that might be needed or desired by a small colony of people on Mars could include:
+> In terms of amenities, some things that might be needed or desired by a small colony of people on Mars could include:
 > 
->   - Medical facilities: The colony could have a clinic or hospital that offers medical care and treatment.
+> 1. Medical facilities: The colony could have a clinic or hospital that offers medical care and treatment.
 > 
->   - Education facilities: The colony could have schools or educational centers that offer classes and training programs.
+> 2. Education facilities: The colony could have schools or educational centers that offer classes and training programs.
 > 
->   - Transportation: The colony could have a variety of transportation options, such as buses, shuttles, and rental cars, to help people get around.
+> 3. Transportation: The colony could have a variety of transportation options, such as buses, shuttles, and rental cars, to help people get around.
 > 
->   - Housing: The colony could offer a range of housing options, such as apartments, townhouses, and single-family homes, to accommodate the needs of its residents.
+> 4. Housing: The colony could offer a range of housing options, such as apartments, townhouses, and single-family homes, to accommodate the needs of its residents.
 > 
->   - Communication and networking: The colony could have a variety of communication and networking technologies, such as internet, phone, and video conferencing, to help people stay connected with each other and the rest of the world.
+> 5. Communication and networking: The colony could have a variety of communication and networking technologies, such as internet, phone, and video conferencing, to help people stay connected with each other and the rest of the world.
 
-- Thank you! Good ideas. Can you give me more?
+Thank you! Good ideas. Can you give me more?
 
-> - Sure, here are a few more ideas for businesses and amenities that could be present in the colony:
+> Sure, here are a few more ideas for businesses and amenities that could be present in the colony:
 > 
->   - Grocery store: The colony could have a grocery store that offers a variety of fresh and non-perishable food items.
+> 1. Grocery store: The colony could have a grocery store that offers a variety of fresh and non-perishable food items.
 > 
->   - Convenience store: The colony could have a convenience store that offers a variety of everyday items, such as snacks, drinks, and household supplies.
+> 2. Convenience store: The colony could have a convenience store that offers a variety of everyday items, such as snacks, drinks, and household supplies.
 > 
->   - Hardware store: The colony could have a hardware store that offers a variety of tools and supplies for home repair and maintenance.
+> 3. Hardware store: The colony could have a hardware store that offers a variety of tools and supplies for home repair and maintenance.
 > 
->   - Library: The colony could have a library that offers a variety of books, magazines, and other media for borrowing or reading on-site.
+> 4. Library: The colony could have a library that offers a variety of books, magazines, and other media for borrowing or reading on-site.
 > 
->   - Community center: The colony could have a community center that offers a variety of recreational activities, such as sports, arts and crafts, and classes.
+> 5. Community center: The colony could have a community center that offers a variety of recreational activities, such as sports, arts and crafts, and classes.
 > 
->   - Daycare center: The colony could have a daycare center that offers child care services for the children of workers and guests.
+> 6. Daycare center: The colony could have a daycare center that offers child care services for the children of workers and guests.
 > 
->   - Pet care services: The colony could have a pet care service that offers grooming, boarding, and training for pets.
+> 7. Pet care services: The colony could have a pet care service that offers grooming, boarding, and training for pets.
 > 
->   - Laundromat: The colony could have a laundromat that offers washing and drying services for the laundry of workers and guests.
+> 8. Laundromat: The colony could have a laundromat that offers washing and drying services for the laundry of workers and guests.
 > 
->   - Post office: The colony could have a post office that offers mail and package delivery services.
+> 9. Post office: The colony could have a post office that offers mail and package delivery services.
 > 
->   - Banking services: The colony could have a bank or financial institution that offers a variety of banking services, such as checking and savings accounts, loans, and investment options.
+> 10. Banking services: The colony could have a bank or financial institution that offers a variety of banking services, such as checking and savings accounts, loans, and investment options.
 
-- This is amazing. More ideas please!
+This is amazing. More ideas please!
 
-> - Sure, here are a few more ideas for businesses and amenities that could be present in the colony:
+> Sure, here are a few more ideas for businesses and amenities that could be present in the colony:
 > 
->   - Salon: The colony could have a salon that offers a variety of hair, makeup, and beauty services.
+> 1. Salon: The colony could have a salon that offers a variety of hair, makeup, and beauty services.
 > 
->   - Barbershop: The colony could have a barbershop that offers haircuts and grooming services for men.
+> 2. Barbershop: The colony could have a barbershop that offers haircuts and grooming services for men.
 > 
->   - Car dealership: The colony could have a car dealership that offers a variety of new and used vehicles for purchase or lease.
+> 3. Car dealership: The colony could have a car dealership that offers a variety of new and used vehicles for purchase or lease.
 > 
->   - Rent-a-car: The colony could have a rent-a-car service that offers a variety of vehicles for short-term rental.
+> 4. Rent-a-car: The colony could have a rent-a-car service that offers a variety of vehicles for short-term rental.
 > 
->   - Taxi service: The colony could have a taxi service that offers transportation services to workers and guests within the colony.
+> 5. Taxi service: The colony could have a taxi service that offers transportation services to workers and guests within the colony.
 > 
->   - Travel agency: The colony could have a travel agency that offers a variety of travel packages and services, such as booking flights, hotels, and tours.
+> 6. Travel agency: The colony could have a travel agency that offers a variety of travel packages and services, such as booking flights, hotels, and tours.
 > 
->   - Tour operator: The colony could have a tour operator that offers a variety of guided tours of the colony and its surrounding area.
+> 7. Tour operator: The colony could have a tour operator that offers a variety of guided tours of the colony and its surrounding area.
 > 
->   - Rent-a-bike: The colony could have a rent-a-bike service that offers a variety of bikes for short-term rental.
+> 8. Rent-a-bike: The colony could have a rent-a-bike service that offers a variety of bikes for short-term rental.
 > 
->   - Sporting goods store: The colony could have a sporting goods store that offers a variety of sports equipment and apparel.
+> 9. Sporting goods store: The colony could have a sporting goods store that offers a variety of sports equipment and apparel.
 > 
->   - Art gallery: The colony could have an art gallery that displays and sells a variety of artwork from local and international artists.
+> 10. Art gallery: The colony could have an art gallery that displays and sells a variety of artwork from local and international artists.
 
-- Thank you. Keep in mind, this is a small colony on mars. There are only 32 people in total, and the area is small enough that they can walk everywhere. No transportation or cars or vehicles are needed. With that in mind, do you have any more ideas for shops, services, amenities, or essential systems on the colony that would be required for survival?
+Thank you. Keep in mind, this is a small colony on mars. There are only 32 people in total, and the area is small enough that they can walk everywhere. No transportation or cars or vehicles are needed. With that in mind, do you have any more ideas for shops, services, amenities, or essential systems on the colony that would be required for survival?
 
-> - Sure, here are a few more ideas for shops, services, amenities, or essential systems that could be present in the colony:
+> Sure, here are a few more ideas for shops, services, amenities, or essential systems that could be present in the colony:
 > 
->   - Hydroponics farm: Given the limited space available in the colony, a hydroponics farm could be a good way to produce fresh produce for the residents.
+> 1. Hydroponics farm: Given the limited space available in the colony, a hydroponics farm could be a good way to produce fresh produce for the residents.
 > 
->   - Water treatment facility: The colony would need a water treatment facility to ensure that the water is safe for consumption and use.
+> 2. Water treatment facility: The colony would need a water treatment facility to ensure that the water is safe for consumption and use.
 > 
->   - Recycling and waste management: The colony would need a system for recycling and properly disposing of waste to reduce its impact on the environment.
+> 3. Recycling and waste management: The colony would need a system for recycling and properly disposing of waste to reduce its impact on the environment.
 > 
->   - Solar panel array: Given that the colony is on Mars, a solar panel array could be used to generate electricity for the colony.
+> 4. Solar panel array: Given that the colony is on Mars, a solar panel array could be used to generate electricity for the colony.
 > 
->   - Oxygen generation system: The colony would need a system for generating oxygen to sustain the residents.
+> 5. Oxygen generation system: The colony would need a system for generating oxygen to sustain the residents.
 > 
->   - Greenhouse: A greenhouse could be used to grow plants and produce fresh produce for the residents.
+> 6. Greenhouse: A greenhouse could be used to grow plants and produce fresh produce for the residents.
 > 
->   - Laboratory: The colony could have a laboratory for conducting research and experimentation.
+> 7. Laboratory: The colony could have a laboratory for conducting research and experimentation.
 > 
->   - Medical clinic: The colony could have a medical clinic that offers basic medical care and treatment to the residents.
+> 8. Medical clinic: The colony could have a medical clinic that offers basic medical care and treatment to the residents.
 > 
->   - Education center: The colony could have an education center that offers classes and training programs for the residents.
+> 9. Education center: The colony could have an education center that offers classes and training programs for the residents.
 > 
->   - Community garden: The colony could have a community garden where residents can grow their own produce and plants.
+> 10. Community garden: The colony could have a community garden where residents can grow their own produce and plants.
 
-- How could all of these shops, services, systems, and amenities be presented to the player in a fun and challenging way? Keep in mind, we're making a multiplayer online game that is meant to be competitive. The players would possess the different characters to try and be the last one standing at the end of the round. The score of the players will take into account the number of times they died, and thus switched characters. The last person alive with the least number of deaths is the winner. They will be pre-occupied with survival tasks and other duties around the colony. What would the core game loop be?
+How could all of these shops, services, systems, and amenities be presented to the player in a fun and challenging way? Keep in mind, we're making a multiplayer online game that is meant to be competitive. The players would possess the different characters to try and be the last one standing at the end of the round. The score of the players will take into account the number of times they died, and thus switched characters. The last person alive with the least number of deaths is the winner. They will be pre-occupied with survival tasks and other duties around the colony. What would the core game loop be?
 
 > - One way to present the various shops, services, systems, and amenities to the players in a fun and challenging way would be to have them complete tasks and missions related to these aspects of the colony. For example, players could be assigned tasks such as repairing a malfunctioning solar panel array, tending to the plants in the hydroponics farm, or conducting research in the laboratory.
 > 
@@ -1373,6 +1384,4 @@ Sarcastic “Server Rules” banner: (Maybe different random banners each time, 
 
 ---
 
-###### Copyright 2023 [**`@n8bot`**](https://github.com/n8bot).
-
-###### *Echelons of Deception and Survival* is a Trademark of [**`@n8bot`**](https://github.com/n8bot).
+###### Copyright 2023 [**`@n8bot`**](https://github.com/n8bot). *Echelons*, *Echelons Online*, and *Echelons of Deception and Survival* are Trademarks of [**`@n8bot`**](https://github.com/n8bot).
