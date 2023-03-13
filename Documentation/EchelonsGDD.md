@@ -19,28 +19,12 @@ E.g., the word echelon itself. It will be used to describe so many things — up
 This kind of ambiguous wordplay will be everywhere.
 
 
+---
+
 ### Collections of Pre-existing Notes
 
 Below is a collection of notes about the game.
 
-
-### ChatGPT
-
-#### Prompts
-
-- The game is called Echelons of Deception and Survival, and it s a third-person competitive online RPG with elements of survival and battle-royale, social-stealth mechanics,  immersive sim economic simulation, and serious/non-serious RP.
-
-- It is a third-person online-only competitive survival battle-royal RPG immersive sim with two main game modes: Last One Standing and Team Target Elimination, and a third free-mode for casual serious and non-serious RP. The first setting that will be introduced as the only setting of the first version of the game will be a Martian gambling resort colony. The gameplay involves roleplaying jobs and tasks around the colony, mostly ultimately catering to the few elite VIP guests. Survival mechanics involve eating, sleeping, etc. There is an effort to discourage the use of direct pvp violence with guns etc, but that potential is always there. The identities of player-controlled opponents is not explicitly revealed. There is an element of mystery in determining who is a player or just an AI-controlled character. There is also strategy surrounding concealment of your identity as a player-controlled character. And, as always, even the player-controlled characters will be driven by game AI automatically. The player can choose to subtly make small decisions without fully overriding control, or if they make too much of a decision or take full control of the character, the player must remain in control until the player gets a full nights rest or takes some psychoactive medication. Some of the roles and jobs that the characters will need to fill are shopkeeper, cook/chef/waiter/food service, weapons manufacturing, robot manufacturing, facility maintenance, garbage removal, sewage system maintenance, logistics (importing goods from earth). There are some upper level roles such as VIP host and security manager, but they are not starting roles for the players. The physical security is all taken care of by extremely lethal humanoid robots. These robots also serve as the rules of play for the gambling operation: robot battle arena. Simple wagers are placed on the outcomes of robot battles. The entire colony is built upon this gambling operation. Massive energy and money is spent keeping this running. Perhaps, in secrecy, some of these robots and weapons are being manufactured in excess and potentially used for some other purpose or sold for profit. This is one of the meanings of the "Echelons of Deception." The entire colony is essential a giant deception, with layers of deception at every layer in between. The rules of the colony will disallow any human from possessing weapons, but of course some people are criminals and will possess them anyway, and some people are VIP and are deemed so important that rules basically don't apply. The rules become very selectively enforced: mostly as a way to keep the poor servants of the lower echelons of the colony in check.
-
-> **Note:** There is also maybe a third game mode, hitperson, where each player is given a hit list of people, without any knowledge of who is player or AI, and so each player has all the other players on their list but they don't know which ones...
-
-
-#### Responses
-
-> - Echelons of Deception and Survival is a third-person online-only competitive survival battle-royale RPG immersive sim set in a Martian gambling resort colony. Players take on the role of various jobs and tasks around the colony, ultimately catering to the elite VIP guests. The gameplay involves a unique blend of survival mechanics, social-stealth mechanics, and immersive sim economic simulation, all while navigating the dangerous and mysterious world of the colony, where player identities are kept hidden and deception is at every turn. The game features two main game modes: Last One Standing and Team Target Elimination, as well as a third free-mode for casual serious and non-serious RP. With an emphasis on strategy and roleplaying, Echelons of Deception and Survival offers a thrilling and engaging experience for players looking for a new type of online competitive gaming.
-
-
----
 
 ### Notebook Notes
 
@@ -154,9 +138,37 @@ These notes are transcribed from handwritten notes, in the order they appear in 
 
 ---
 
-### More ChatGPT
+### Game Idea LyraRP
 
-#### Prompts and Responses
+To build off of Lyra Sample Project…
+
+Multiplayer non-serious economy/crime simulator RP. Players take on a random role of a character in a scenario (town, etc. in this case martian outpost that is privateer-based, capitalist pay your way kinda thing to support Elon Musk’s martian robot fighting league, formerly Unreal Tournaments he bought from Epic Games.
+
+Sarcastic “Server Rules” banner: (Maybe different random banners each time, with similar joke rules)
+
+"Server Rules:"
+- No killing
+- No guns
+- No shooting guns
+- No stealing
+- No talking
+- Go to your job
+- No bad behaviour
+- No selling stuff without permission from the mods
+- No drugs
+- No arguing with the mods
+- Report to mods (there actually are no mods)
+
+
+---
+
+### ChatGPT 1
+
+Prompt
+
+> Response
+
+---
 
 Can you help me brainstorm job ideas for a role playing multiplayer video game? It will simulate a small martian colony which is run capitalistically as a tourist destination: a casino-style resort that hosts robot gun battles which can be gambled on. There are 32 characters, each vaguely modelled off the 32 chess pieces and pawns. The Kings and Queens are merely the whale guests of the casino. They have been sold a one-way ticket to live the rest of their lives in luxury, gambling on robot battles on mars. The other members of the colony are the people who facilitate the running of the colony. The Rooks represent "the house" and are the VIP hosts to the whales. They are also basically in charge of the whole operation. Then, the bishops are represented as the business owners who hold private interest over the food, shopping, and other facilities of the small martian colony. The Knights are in charge of security, but they don't themselves perform any policing duties. Robots take care of all direct policing: arresting and protecting with weapons. The pawns are all the low-skilled workers, who tend to the shops and restaurants of the colony, as well as all the manual labour required to run the operation: weapons technician, robot technician, electricty/power generation and distribution, facility maintenance, plumbing, glass repair, etc. I need help determining which roles will be essential to the operation of the colony, and provide interesting, dynamic, and fun gameplay for the players and characters.
 
@@ -320,185 +332,185 @@ Thank you. Keep in mind, this is a small colony on mars. There are only 32 peopl
 
 How could all of these shops, services, systems, and amenities be presented to the player in a fun and challenging way? Keep in mind, we're making a multiplayer online game that is meant to be competitive. The players would possess the different characters to try and be the last one standing at the end of the round. The score of the players will take into account the number of times they died, and thus switched characters. The last person alive with the least number of deaths is the winner. They will be pre-occupied with survival tasks and other duties around the colony. What would the core game loop be?
 
-> - One way to present the various shops, services, systems, and amenities to the players in a fun and challenging way would be to have them complete tasks and missions related to these aspects of the colony. For example, players could be assigned tasks such as repairing a malfunctioning solar panel array, tending to the plants in the hydroponics farm, or conducting research in the laboratory.
+> One way to present the various shops, services, systems, and amenities to the players in a fun and challenging way would be to have them complete tasks and missions related to these aspects of the colony. For example, players could be assigned tasks such as repairing a malfunctioning solar panel array, tending to the plants in the hydroponics farm, or conducting research in the laboratory.
 > 
-> - In order to make the game more competitive, players could be given rewards for completing tasks and missions successfully, such as points or in-game currency. These rewards could be used to purchase upgrades or items that will help the player survive longer in the game.
+> In order to make the game more competitive, players could be given rewards for completing tasks and missions successfully, such as points or in-game currency. These rewards could be used to purchase upgrades or items that will help the player survive longer in the game.
 > 
-> - The core game loop could involve players completing tasks and missions to earn rewards, while also trying to survive as long as possible by avoiding dangers such as attacks from other players or malfunctioning equipment. The player who lasts the longest and has the fewest deaths would be the winner.
+> The core game loop could involve players completing tasks and missions to earn rewards, while also trying to survive as long as possible by avoiding dangers such as attacks from other players or malfunctioning equipment. The player who lasts the longest and has the fewest deaths would be the winner.
 > 
-> - To make the game more dynamic and interesting, the tasks and missions could be randomly generated or changed on a regular basis, so that players always have something new to do. The colony could also have events or challenges that take place periodically, such as robot battles or survival challenges, which would provide players with additional opportunities to earn rewards and compete against each other.
+> To make the game more dynamic and interesting, the tasks and missions could be randomly generated or changed on a regular basis, so that players always have something new to do. The colony could also have events or challenges that take place periodically, such as robot battles or survival challenges, which would provide players with additional opportunities to earn rewards and compete against each other.
 
-- Describe the game in full.
+Describe the game in full.
 
-> - In this role-playing multiplayer video game, players take on the roles of characters in a small Martian colony that is run as a capitalist resort and tourist destination. The colony features a casino-style resort that hosts robot gun battles which can be gambled on, as well as a variety of shops, services, and amenities such as restaurants, bars, spas, and fitness centers.
+> In this role-playing multiplayer video game, players take on the roles of characters in a small Martian colony that is run as a capitalist resort and tourist destination. The colony features a casino-style resort that hosts robot gun battles which can be gambled on, as well as a variety of shops, services, and amenities such as restaurants, bars, spas, and fitness centers.
 > 
-> - Players can choose from 32 different characters, each of which is vaguely modeled after a chess piece or pawn. The Kings and Queens are the whale guests of the casino, who have been sold a one-way ticket to live the rest of their lives in luxury on Mars. The Rooks represent "the house" and are the VIP hosts to the whales, while the Bishops are the business owners who hold private interests in the various facilities of the colony. The Knights are in charge of security, while the Pawns are the low-skilled workers who tend to the shops and restaurants, as well as perform all the manual labor required to run the operation.
+> Players can choose from 32 different characters, each of which is vaguely modeled after a chess piece or pawn. The Kings and Queens are the whale guests of the casino, who have been sold a one-way ticket to live the rest of their lives in luxury on Mars. The Rooks represent "the house" and are the VIP hosts to the whales, while the Bishops are the business owners who hold private interests in the various facilities of the colony. The Knights are in charge of security, while the Pawns are the low-skilled workers who tend to the shops and restaurants, as well as perform all the manual labor required to run the operation.
 > 
-> - As players progress through the game, they will be given tasks and missions to complete, such as repairing equipment or conducting research in the laboratory. They will also need to survive dangers such as attacks from other players or malfunctioning equipment. The player who lasts the longest and has the fewest deaths will be the winner.
+> As players progress through the game, they will be given tasks and missions to complete, such as repairing equipment or conducting research in the laboratory. They will also need to survive dangers such as attacks from other players or malfunctioning equipment. The player who lasts the longest and has the fewest deaths will be the winner.
 > 
-> - To make the game more dynamic and interesting, the tasks and missions will be randomly generated or changed on a regular basis, and the colony will host events and challenges that provide players with additional opportunities to earn rewards and compete against each other. The game will have a strong focus on survival and resource management, as players will need to carefully manage their resources and make strategic decisions to ensure their success.
+> To make the game more dynamic and interesting, the tasks and missions will be randomly generated or changed on a regular basis, and the colony will host events and challenges that provide players with additional opportunities to earn rewards and compete against each other. The game will have a strong focus on survival and resource management, as players will need to carefully manage their resources and make strategic decisions to ensure their success.
 
-- The players do not choose the role. They start as a random pawn, who as a randomly-assigned job. The players can change roles only when their current character dies. They then possess the nearest character who is not already possessed by another player.
+The players do not choose the role. They start as a random pawn, who as a randomly-assigned job. The players can change roles only when their current character dies. They then possess the nearest character who is not already possessed by another player.
 
-> - Understood. This adds an additional layer of strategy and risk to the game, as players will need to carefully consider their actions and the potential consequences of those actions. For example, a player may need to weigh the benefits of taking on a high-risk mission with the possibility of a big reward against the risk of losing their current character and having to start over with a new one.
+> Understood. This adds an additional layer of strategy and risk to the game, as players will need to carefully consider their actions and the potential consequences of those actions. For example, a player may need to weigh the benefits of taking on a high-risk mission with the possibility of a big reward against the risk of losing their current character and having to start over with a new one.
 > 
-> - To make the game more interesting, the various roles and jobs within the colony could have different abilities and skills that allow them to excel in certain tasks or situations. For example, the Knights may have better combat abilities, making them more effective at defending the colony against threats, while the Pawns may have more specialized skills such as electrical repair or medical treatment, which could be useful in certain situations.
+> To make the game more interesting, the various roles and jobs within the colony could have different abilities and skills that allow them to excel in certain tasks or situations. For example, the Knights may have better combat abilities, making them more effective at defending the colony against threats, while the Pawns may have more specialized skills such as electrical repair or medical treatment, which could be useful in certain situations.
 > 
-> - Additionally, the various shops, services, and amenities within the colony could offer different benefits or resources to players. For example, the restaurant could provide food and water to help players survive longer, while the laboratory could offer access to advanced technology or research that could give players an edge in certain tasks.
+> Additionally, the various shops, services, and amenities within the colony could offer different benefits or resources to players. For example, the restaurant could provide food and water to help players survive longer, while the laboratory could offer access to advanced technology or research that could give players an edge in certain tasks.
 > 
-> - Overall, the game would involve a combination of resource management, strategic decision-making, and risk management as players try to survive and thrive within the small Martian colony.
+> Overall, the game would involve a combination of resource management, strategic decision-making, and risk management as players try to survive and thrive within the small Martian colony.
 
-- There is less of a focus on combat. No human characters will be authorized to have weapons, except when providing them to the robots. The robots will provide the physical security. The knights are merely in charge of all the robots. The economic simulation of the game is a key factor. The players actions in performing their task have impacts on the overall economic scenario. If players sabotage their duties. they can indirectly attack opponent players.
+There is less of a focus on combat. No human characters will be authorized to have weapons, except when providing them to the robots. The robots will provide the physical security. The knights are merely in charge of all the robots. The economic simulation of the game is a key factor. The players actions in performing their task have impacts on the overall economic scenario. If players sabotage their duties. they can indirectly attack opponent players.
 
-- Social stealth will also play a key role in the game. None of the other players are explicitly labelled for the other players. The AI-controlled characters and the player-controlled characters appear the same. A large part of the game will be deducing who is a player character or an AI character, and attempting to hamper the player characters. A player wants their opponents to die more times than they do, so they can be winner at the end. But, directly attacking players will cause the robot guards to quickly defeat the attacking player. Weapons will be scarce in the game, and ammo scarce as well. So lots of deep. covert strategy will be needed to win. Also, there will be a black market that provides goods and services to the characters. Any ideas how to implement that?
+Social stealth will also play a key role in the game. None of the other players are explicitly labelled for the other players. The AI-controlled characters and the player-controlled characters appear the same. A large part of the game will be deducing who is a player character or an AI character, and attempting to hamper the player characters. A player wants their opponents to die more times than they do, so they can be winner at the end. But, directly attacking players will cause the robot guards to quickly defeat the attacking player. Weapons will be scarce in the game, and ammo scarce as well. So lots of deep. covert strategy will be needed to win. Also, there will be a black market that provides goods and services to the characters. Any ideas how to implement that?
 
-> - It sounds like the game will have a strong focus on economic simulation and social stealth, with players having to carefully manage their tasks and resources while also attempting to gather information about their opponents and hinder their progress.
+> It sounds like the game will have a strong focus on economic simulation and social stealth, with players having to carefully manage their tasks and resources while also attempting to gather information about their opponents and hinder their progress.
 > 
-> - To implement the black market, one option could be to have it operate as a separate system within the game that is accessed through a covert interface. Players could use the black market to purchase or sell illegal or rare items, such as weapons or ammunition, at a premium price. Access to the black market could be gained through completing certain tasks or missions, or by earning favor with certain NPCs within the colony.
+> To implement the black market, one option could be to have it operate as a separate system within the game that is accessed through a covert interface. Players could use the black market to purchase or sell illegal or rare items, such as weapons or ammunition, at a premium price. Access to the black market could be gained through completing certain tasks or missions, or by earning favor with certain NPCs within the colony.
 > 
-> - To make the game more challenging and interesting, the black market could be operated by a group of NPCs who are more difficult to deal with than the regular characters in the colony. These NPCs could have their own agendas and motivations, and players would need to be careful in their interactions with them in order to avoid being caught or double-crossed.
+> To make the game more challenging and interesting, the black market could be operated by a group of NPCs who are more difficult to deal with than the regular characters in the colony. These NPCs could have their own agendas and motivations, and players would need to be careful in their interactions with them in order to avoid being caught or double-crossed.
 > 
-> - In addition to the black market, the game could also have other covert systems or activities that players can engage in, such as hacking into the colony's computer systems or sabotaging equipment. These activities could provide players with an edge in the game, but could also come with risks if they are caught by the robot guards or other players.
+> In addition to the black market, the game could also have other covert systems or activities that players can engage in, such as hacking into the colony's computer systems or sabotaging equipment. These activities could provide players with an edge in the game, but could also come with risks if they are caught by the robot guards or other players.
 > 
-> - Overall, the game could be a mix of economic simulation, social stealth, and resource management, with players having to balance the need to perform their duties and gather resources with the need to gather information and hinder their opponents in order to emerge as the ultimate winner.
+> Overall, the game could be a mix of economic simulation, social stealth, and resource management, with players having to balance the need to perform their duties and gather resources with the need to gather information and hinder their opponents in order to emerge as the ultimate winner.
 
-- There will be no quests or missions beyond the basic economic duties of the roles assigned to the character at the time. The story will be emergent based on the actions taken by player-controlled characters. The AI-controlled characters will mostly perform their tasks diligently, although some of them will secretly operate in the black market. The AI and Player characters all perform the same actions and tasks, to make the job of distinguishing the two more difficult.
+There will be no quests or missions beyond the basic economic duties of the roles assigned to the character at the time. The story will be emergent based on the actions taken by player-controlled characters. The AI-controlled characters will mostly perform their tasks diligently, although some of them will secretly operate in the black market. The AI and Player characters all perform the same actions and tasks, to make the job of distinguishing the two more difficult.
 
-> - Understood. In this case, the game could focus on the emergent story and interactions between the player-controlled and AI-controlled characters as they go about their tasks and duties within the colony. Players would need to carefully observe the actions and behaviors of the other characters in order to try and deduce which ones are controlled by other players and which ones are controlled by the AI.
+> Understood. In this case, the game could focus on the emergent story and interactions between the player-controlled and AI-controlled characters as they go about their tasks and duties within the colony. Players would need to carefully observe the actions and behaviors of the other characters in order to try and deduce which ones are controlled by other players and which ones are controlled by the AI.
 > 
-> - To make the game more challenging and interesting, the AI-controlled characters could have different personalities and behaviors that reflect their role within the colony. For example, the Bishops who are business owners could be more calculating and selfish, while the Pawns who are low-skilled workers could be more desperate and willing to take risks.
+> To make the game more challenging and interesting, the AI-controlled characters could have different personalities and behaviors that reflect their role within the colony. For example, the Bishops who are business owners could be more calculating and selfish, while the Pawns who are low-skilled workers could be more desperate and willing to take risks.
 > 
-> - The game could also have a variety of events or encounters that occur randomly or on a regular basis, which could provide players with opportunities to gather information or disrupt the plans of their opponents. For example, a malfunctioning piece of equipment could cause a temporary shutdown of a key facility, forcing players to scramble to find a solution and possibly revealing information about who is behind the problem.
+> The game could also have a variety of events or encounters that occur randomly or on a regular basis, which could provide players with opportunities to gather information or disrupt the plans of their opponents. For example, a malfunctioning piece of equipment could cause a temporary shutdown of a key facility, forcing players to scramble to find a solution and possibly revealing information about who is behind the problem.
 > 
-> - Overall, the game would involve a mix of social stealth, resource management, and observation as players try to gather information and outmaneuver their opponents in order to emerge as the ultimate winner.
+> Overall, the game would involve a mix of social stealth, resource management, and observation as players try to gather information and outmaneuver their opponents in order to emerge as the ultimate winner.
 
-- How could these systems be modelled?
+How could these systems be modelled?
 
-> - There are several ways that the systems in this game could be modeled in order to create a challenging and dynamic experience for players.
+> There are several ways that the systems in this game could be modeled in order to create a challenging and dynamic experience for players.
 > 
-> - One approach would be to use a simulation-based model, in which the various systems and activities within the colony are simulated in real time based on a set of rules and algorithms. For example, the hydroponics farm could be modeled to produce a certain amount of produce per day based on factors such as the number of plants being grown, the amount of water and nutrients available, and the ambient temperature and light conditions.
+> One approach would be to use a simulation-based model, in which the various systems and activities within the colony are simulated in real time based on a set of rules and algorithms. For example, the hydroponics farm could be modeled to produce a certain amount of produce per day based on factors such as the number of plants being grown, the amount of water and nutrients available, and the ambient temperature and light conditions.
 > 
-> - Another approach could be to use a role-playing game (RPG)-style model, in which the various tasks and activities within the colony are structured as quests or missions that players can choose to undertake. These quests could be generated randomly or based on the actions and decisions of the players, and could involve tasks such as repairing equipment, conducting research, or interacting with NPCs.
+> Another approach could be to use a role-playing game (RPG)-style model, in which the various tasks and activities within the colony are structured as quests or missions that players can choose to undertake. These quests could be generated randomly or based on the actions and decisions of the players, and could involve tasks such as repairing equipment, conducting research, or interacting with NPCs.
 > 
-> - Alternatively, the game could use a combination of both approaches, with some systems being simulated in real time and others being structured as quests or missions. This would allow for a mix of dynamic, emergent gameplay and more structured, goal-oriented gameplay.
+> Alternatively, the game could use a combination of both approaches, with some systems being simulated in real time and others being structured as quests or missions. This would allow for a mix of dynamic, emergent gameplay and more structured, goal-oriented gameplay.
 > 
-> - Overall, the key to modeling the systems in this game would be to create a balance between complexity and accessibility, so that players feel challenged and engaged, but are not overwhelmed by the various systems and mechanics. This could involve using a range of tools and techniques, such as simulation algorithms, random number generators, and branching dialogue systems, to create a dynamic and immersive gameplay experience.
+> Overall, the key to modeling the systems in this game would be to create a balance between complexity and accessibility, so that players feel challenged and engaged, but are not overwhelmed by the various systems and mechanics. This could involve using a range of tools and techniques, such as simulation algorithms, random number generators, and branching dialogue systems, to create a dynamic and immersive gameplay experience.
 
-- We will take the fully-simulated approach. How can the personality system for the AI characters be modelled?
+We will take the fully-simulated approach. How can the personality system for the AI characters be modelled?
 
-> - To model the personalities of the AI characters in a fully-simulated game, one option could be to use a combination of rules and algorithms that govern their behavior and decision-making.
+> To model the personalities of the AI characters in a fully-simulated game, one option could be to use a combination of rules and algorithms that govern their behavior and decision-making.
 > 
-> - One approach could be to define a set of personality traits for each AI character, such as greed, ambition, kindness, or cowardice. These traits could be used to influence the decisions and actions of the AI characters, based on the context and circumstances they are facing. For example, an AI character with a greedy personality might be more likely to prioritize their own self-interest over the needs of the colony, while an AI character with a kind personality might be more willing to help others and put the needs of the colony first.
+> One approach could be to define a set of personality traits for each AI character, such as greed, ambition, kindness, or cowardice. These traits could be used to influence the decisions and actions of the AI characters, based on the context and circumstances they are facing. For example, an AI character with a greedy personality might be more likely to prioritize their own self-interest over the needs of the colony, while an AI character with a kind personality might be more willing to help others and put the needs of the colony first.
 > 
-> - Another approach could be to use a dialogue system to allow the AI characters to interact with each other and the player characters in a more natural and lifelike way. This could involve using branching dialogue options, where the AI characters have different responses based on their personality traits and the context of the conversation.
+> Another approach could be to use a dialogue system to allow the AI characters to interact with each other and the player characters in a more natural and lifelike way. This could involve using branching dialogue options, where the AI characters have different responses based on their personality traits and the context of the conversation.
 > 
-> - Overall, the key to modeling the personalities of the AI characters would be to create a range of realistic and believable behaviors and decision-making processes that are consistent with the personality traits of the characters. This could involve using a combination of rules, algorithms, and dialogue systems to create a dynamic and immersive gameplay experience.
+> Overall, the key to modeling the personalities of the AI characters would be to create a range of realistic and believable behaviors and decision-making processes that are consistent with the personality traits of the characters. This could involve using a combination of rules, algorithms, and dialogue systems to create a dynamic and immersive gameplay experience.
 
-- There will be no branching dialogue, though there might be some limited transactional interaction between the characters. What would be the most important traits to model for the AI characters?
+There will be no branching dialogue, though there might be some limited transactional interaction between the characters. What would be the most important traits to model for the AI characters?
 
-> - In a game where there is no branching dialogue and limited transactional interaction between the characters, the most important traits to model for the AI characters would likely be those that influence their behavior and decision-making in a more general sense.
+> In a game where there is no branching dialogue and limited transactional interaction between the characters, the most important traits to model for the AI characters would likely be those that influence their behavior and decision-making in a more general sense.
 > 
-> - Some examples of important traits to consider might include:
+> Some examples of important traits to consider might include:
 > 
->   - Loyalty: How loyal is the AI character to the colony and its goals? Are they more likely to prioritize their own interests or the interests of the colony?
+> 1. Loyalty: How loyal is the AI character to the colony and its goals? Are they more likely to prioritize their own interests or the interests of the colony?
 > 
->   - Greed: How greedy is the AI character? Are they more likely to prioritize their own financial gain over the needs of the colony?
+> 2. Greed: How greedy is the AI character? Are they more likely to prioritize their own financial gain over the needs of the colony?
 > 
->   - Altruism: How altruistic is the AI character? Are they more likely to help others and put the needs of the colony first?
+> 3. Altruism: How altruistic is the AI character? Are they more likely to help others and put the needs of the colony first?
 > 
->   - Aggression: How aggressive is the AI character? Are they more likely to take risks or be confrontational in order to achieve their goals?
+> 4. Aggression: How aggressive is the AI character? Are they more likely to take risks or be confrontational in order to achieve their goals?
 > 
->   - Cowardice: How cowardly is the AI character? Are they more likely to avoid risks and back down in the face of danger?
+> 5. Cowardice: How cowardly is the AI character? Are they more likely to avoid risks and back down in the face of danger?
 > 
-> - These traits could be used to influence the general behavior and decision-making of the AI characters, as well as their responses to events and challenges within the game. For example, an AI character with a greedy personality might be more likely to take risks in order to earn a financial reward, while an AI character with a cowardly personality might be more likely to avoid risks and stick to safer, more predictable tasks.
+> These traits could be used to influence the general behavior and decision-making of the AI characters, as well as their responses to events and challenges within the game. For example, an AI character with a greedy personality might be more likely to take risks in order to earn a financial reward, while an AI character with a cowardly personality might be more likely to avoid risks and stick to safer, more predictable tasks.
 > 
-> - Overall, the key would be to create a range of believable and consistent personality traits that influence the behavior and decision-making of the AI characters in a meaningful way. This could help to make the game more immersive and dynamic, as players have to consider the personalities of the AI characters in their interactions with them.
+> Overall, the key would be to create a range of believable and consistent personality traits that influence the behavior and decision-making of the AI characters in a meaningful way. This could help to make the game more immersive and dynamic, as players have to consider the personalities of the AI characters in their interactions with them.
 
-- How can we reduce the number of traits to the minimum, while distilling the representation to a pure form?
+How can we reduce the number of traits to the minimum, while distilling the representation to a pure form?
 
-> - To reduce the number of traits to the minimum while still distilling the representation of the AI characters' personalities to a pure form, one option could be to use a binary system where each AI character is assigned either a "positive" trait or a "negative" trait.
+> To reduce the number of traits to the minimum while still distilling the representation of the AI characters' personalities to a pure form, one option could be to use a binary system where each AI character is assigned either a "positive" trait or a "negative" trait.
 > 
-> - For example, the positive traits could include loyalty, altruism, and bravery, while the negative traits could include greed, aggression, and cowardice. This would allow for a clear and concise representation of each AI character's personality, while still providing enough depth and complexity to influence their behavior and decision-making in a meaningful way.
+> For example, the positive traits could include loyalty, altruism, and bravery, while the negative traits could include greed, aggression, and cowardice. This would allow for a clear and concise representation of each AI character's personality, while still providing enough depth and complexity to influence their behavior and decision-making in a meaningful way.
 > 
-> - To further reduce the number of traits, you could consider combining some of the traits into more general categories. For example, rather than having separate traits for loyalty, altruism, and bravery, you could have a single "positive" trait that encompasses all of these qualities. Similarly, rather than having separate traits for greed, aggression, and cowardice, you could have a single "negative" trait that encompasses all of these qualities.
+> To further reduce the number of traits, you could consider combining some of the traits into more general categories. For example, rather than having separate traits for loyalty, altruism, and bravery, you could have a single "positive" trait that encompasses all of these qualities. Similarly, rather than having separate traits for greed, aggression, and cowardice, you could have a single "negative" trait that encompasses all of these qualities.
 > 
-> - Overall, the key would be to find the right balance between simplicity and complexity, so that the AI characters' personalities are represented in a clear and concise way, but still have enough depth and nuance to influence their behavior and decision-making in a believable and immersive way.
+> Overall, the key would be to find the right balance between simplicity and complexity, so that the AI characters' personalities are represented in a clear and concise way, but still have enough depth and nuance to influence their behavior and decision-making in a believable and immersive way.
 
-- So each character cam be described as either positive or negative?
+So each character cam be described as either positive or negative?
 
-> - Yes, using a binary system where each AI character is assigned either a "positive" trait or a "negative" trait could be a simple and effective way to represent the personalities of the AI characters.
+> Yes, using a binary system where each AI character is assigned either a "positive" trait or a "negative" trait could be a simple and effective way to represent the personalities of the AI characters.
 > 
-> - The positive traits could represent qualities such as loyalty, altruism, and bravery, while the negative traits could represent qualities such as greed, aggression, and cowardice. These traits could influence the behavior and decision-making of the AI characters in a clear and consistent way, while still providing enough depth and complexity to make the game immersive and dynamic.
+> The positive traits could represent qualities such as loyalty, altruism, and bravery, while the negative traits could represent qualities such as greed, aggression, and cowardice. These traits could influence the behavior and decision-making of the AI characters in a clear and consistent way, while still providing enough depth and complexity to make the game immersive and dynamic.
 > 
-> - For example, an AI character with a positive personality trait might be more likely to prioritize the needs of the colony and help others, while an AI character with a negative personality trait might be more likely to prioritize their own interests and take risks in order to achieve their goals.
+> For example, an AI character with a positive personality trait might be more likely to prioritize the needs of the colony and help others, while an AI character with a negative personality trait might be more likely to prioritize their own interests and take risks in order to achieve their goals.
 > 
-> - Overall, this approach would provide a simple and concise way to represent the personalities of the AI characters, while still allowing for enough depth and complexity to create a believable and immersive gameplay experience.
+> Overall, this approach would provide a simple and concise way to represent the personalities of the AI characters, while still allowing for enough depth and complexity to create a believable and immersive gameplay experience.
 
-- I like that idea. What proportion of the characters should be negative vs. positive, on average?
+I like that idea. What proportion of the characters should be negative vs. positive, on average?
 
-> - The proportion of AI characters with positive vs. negative personality traits will depend on the desired balance and tone of the game.
+> The proportion of AI characters with positive vs. negative personality traits will depend on the desired balance and tone of the game.
 > 
-> - If you want the game to have a more positive and cooperative atmosphere, you might consider having a higher proportion of AI characters with positive personality traits. This could encourage players to work together and rely on each other in order to achieve their goals, rather than competing against each other in a more aggressive or selfish manner.
+> If you want the game to have a more positive and cooperative atmosphere, you might consider having a higher proportion of AI characters with positive personality traits. This could encourage players to work together and rely on each other in order to achieve their goals, rather than competing against each other in a more aggressive or selfish manner.
 > 
-> - On the other hand, if you want the game to have a more competitive and cutthroat atmosphere, you might consider having a higher proportion of AI characters with negative personality traits. This could create more tension and conflict between the players and the AI characters, as they try to outmaneuver and outwit each other in order to succeed.
+> On the other hand, if you want the game to have a more competitive and cutthroat atmosphere, you might consider having a higher proportion of AI characters with negative personality traits. This could create more tension and conflict between the players and the AI characters, as they try to outmaneuver and outwit each other in order to succeed.
 > 
-> - Ultimately, the best proportion of positive vs. negative AI characters will depend on the desired balance and tone of the game, as well as the preferences and playstyle of the players. It could be helpful to experiment with different ratios and see how they impact the gameplay experience, and then adjust accordingly based on feedback from players.
+> Ultimately, the best proportion of positive vs. negative AI characters will depend on the desired balance and tone of the game, as well as the preferences and playstyle of the players. It could be helpful to experiment with different ratios and see how they impact the gameplay experience, and then adjust accordingly based on feedback from players.
 
-- Do you think it would make for compelling gameplay if each AI character had a 50% chance of being positive or negative? In each round, the distribution might not be exactly 50:50, but overall across rounds it would tend to equal.
+Do you think it would make for compelling gameplay if each AI character had a 50% chance of being positive or negative? In each round, the distribution might not be exactly 50:50, but overall across rounds it would tend to equal.
 
-> - Having each AI character have a 50% chance of being positive or negative could potentially create an interesting and dynamic gameplay experience, as players would have to adapt their strategies and approaches based on the personalities of the AI characters they encounter.
+> Having each AI character have a 50% chance of being positive or negative could potentially create an interesting and dynamic gameplay experience, as players would have to adapt their strategies and approaches based on the personalities of the AI characters they encounter.
 > 
-> - However, it's worth noting that this approach could also introduce an element of randomness or unpredictability to the game, as players would not be able to rely on consistent patterns of behavior from the AI characters. This could make the game more challenging, but it could also make it less strategic and more reliant on luck.
+> However, it's worth noting that this approach could also introduce an element of randomness or unpredictability to the game, as players would not be able to rely on consistent patterns of behavior from the AI characters. This could make the game more challenging, but it could also make it less strategic and more reliant on luck.
 > 
-> - One way to mitigate this issue could be to provide players with more information or context about the AI characters, so that they can make more informed decisions about how to interact with them. For example, you could provide players with hints or clues about the personalities of the AI characters based on their appearance, behavior, or dialogue, which could help them to better anticipate how the AI characters will respond in different situations.
+> One way to mitigate this issue could be to provide players with more information or context about the AI characters, so that they can make more informed decisions about how to interact with them. For example, you could provide players with hints or clues about the personalities of the AI characters based on their appearance, behavior, or dialogue, which could help them to better anticipate how the AI characters will respond in different situations.
 > 
-> - Overall, whether or not having each AI character have a 50% chance of being positive or negative would make for compelling gameplay will depend on the desired balance and tone of the game, as well as the preferences and playstyle of the players. It could be worth experimenting with this approach and seeing how it impacts the gameplay experience, and then adjusting accordingly based on feedback from players.
+> Overall, whether or not having each AI character have a 50% chance of being positive or negative would make for compelling gameplay will depend on the desired balance and tone of the game, as well as the preferences and playstyle of the players. It could be worth experimenting with this approach and seeing how it impacts the gameplay experience, and then adjusting accordingly based on feedback from players.
 
-- Can you describe the core gameplay loop of this game?
+Can you describe the core gameplay loop of this game?
 
-> - The core gameplay loop of this game could involve the following elements:
+> The core gameplay loop of this game could involve the following elements:
 > 
->   - Players start as a randomly-assigned character and are given a role or job within the colony.
+> 1. Players start as a randomly-assigned character and are given a role or job within the colony.
 > 
->   - Players perform their assigned duties and tasks, which could involve managing resources, completing quests or missions, or interacting with other characters.
+> 2. Players perform their assigned duties and tasks, which could involve managing resources, completing quests or missions, or interacting with other characters.
 > 
->   - Players observe the actions and behaviors of the other characters, including both player-controlled and AI-controlled characters, in order to try and deduce which ones are controlled by other players and which ones are controlled by the AI.
+> 3. Players observe the actions and behaviors of the other characters, including both player-controlled and AI-controlled characters, in order to try and deduce which ones are controlled by other players and which ones are controlled by the AI.
 > 
->   - Players make strategic decisions about how to interact with the other characters, based on their personalities and the goals of their own character.
+> 4. Players make strategic decisions about how to interact with the other characters, based on their personalities and the goals of their own character.
 > 
->   - Players score points based on their performance of their duties, their interactions with the other characters, and their survival within the colony.
+> 5. Players score points based on their performance of their duties, their interactions with the other characters, and their survival within the colony.
 > 
->   - Players compete to see who can score the most points over the course of the round, with the player who has the highest score and the least number of deaths declared the winner.
+> 6. Players compete to see who can score the most points over the course of the round, with the player who has the highest score and the least number of deaths declared the winner.
 > 
-> - This core gameplay loop could be supplemented by a variety of events or encounters that occur randomly or on a regular basis, which could provide players with opportunities to gather information or disrupt the plans of their opponents.
+> This core gameplay loop could be supplemented by a variety of events or encounters that occur randomly or on a regular basis, which could provide players with opportunities to gather information or disrupt the plans of their opponents.
 > 
-> - Overall, the game would involve a mix of resource management, observation, and strategic decision-making as players try to outmaneuver their opponents and emerge as the ultimate winner.
+> Overall, the game would involve a mix of resource management, observation, and strategic decision-making as players try to outmaneuver their opponents and emerge as the ultimate winner.
 
-- I think we should have no missions or quests. Also, the player-controlled characters can still have some AI control. Maybe the jobs and duties and regular activities of the character will play out until the player provides input otherwise. Then, once the player has taken over control of the character for the day, the AI will not automatically perform actions until after the player sleeps and allows the character to wake up on their own. The player can not change characters, but can choose when, during the character's daily routine, to take control and alter the actions of the character.
+I think we should have no missions or quests. Also, the player-controlled characters can still have some AI control. Maybe the jobs and duties and regular activities of the character will play out until the player provides input otherwise. Then, once the player has taken over control of the character for the day, the AI will not automatically perform actions until after the player sleeps and allows the character to wake up on their own. The player can not change characters, but can choose when, during the character's daily routine, to take control and alter the actions of the character.
 
-> - Removing missions or quests from the game and allowing players to take control of their characters at different points in their daily routines could create a more open-ended and flexible gameplay experience, as players have more freedom to explore the colony and interact with the other characters in a more spontaneous and dynamic way.
+> Removing missions or quests from the game and allowing players to take control of their characters at different points in their daily routines could create a more open-ended and flexible gameplay experience, as players have more freedom to explore the colony and interact with the other characters in a more spontaneous and dynamic way.
 > 
-> - Allowing the player-controlled characters to have some AI control when the player is not actively controlling them could also help to create a more immersive and believable game world, as the characters would still be performing their duties and activities even when the player is not directly controlling them.
+> Allowing the player-controlled characters to have some AI control when the player is not actively controlling them could also help to create a more immersive and believable game world, as the characters would still be performing their duties and activities even when the player is not directly controlling them.
 > 
-> - To make this system work, you could consider using a combination of rules and algorithms to govern the behavior and actions of the AI-controlled characters, as well as a set of triggers or conditions that allow the player to take control of their character at different points in their daily routine. For example, you could allow the player to take control of their character whenever they are idle or performing a routine task, or when they are faced with a decision or challenge that requires their input.
+> To make this system work, you could consider using a combination of rules and algorithms to govern the behavior and actions of the AI-controlled characters, as well as a set of triggers or conditions that allow the player to take control of their character at different points in their daily routine. For example, you could allow the player to take control of their character whenever they are idle or performing a routine task, or when they are faced with a decision or challenge that requires their input.
 > 
-> - Overall, this approach could create a more open-ended and flexible gameplay experience, as players have more control over the actions and activities of their characters, but are still subject to the constraints and limitations of their character's role and duties within the colony.
+> Overall, this approach could create a more open-ended and flexible gameplay experience, as players have more control over the actions and activities of their characters, but are still subject to the constraints and limitations of their character's role and duties within the colony.
 
-- That is a good idea, allowing idle behavior to be temporarily overridden by the player, without taken full control of the character, thus allowing the AI control to continue after the small interaction.
+That is a good idea, allowing idle behavior to be temporarily overridden by the player, without taken full control of the character, thus allowing the AI control to continue after the small interaction.
 
-- Perhaps the player could also make decisions for the character while it is being AI controlled. Declining food options, or quickly pushing a button or flipping a switch as the character walks by, without usurping full control of the character.
+Perhaps the player could also make decisions for the character while it is being AI controlled. Declining food options, or quickly pushing a button or flipping a switch as the character walks by, without usurping full control of the character.
 
-- The player's control of a character can be seen as a metaphor for psychosis. The player represents the unwilling actions a character may take due to the extreme circumstances.
+The player's control of a character can be seen as a metaphor for psychosis. The player represents the unwilling actions a character may take due to the extreme circumstances.
 
-> - Allowing players to make decisions for their characters while they are being AI controlled could create a more interactive and immersive gameplay experience, as players have more opportunities to influence the actions and behaviors of their characters without necessarily taking full control of them.
+> Allowing players to make decisions for their characters while they are being AI controlled could create a more interactive and immersive gameplay experience, as players have more opportunities to influence the actions and behaviors of their characters without necessarily taking full control of them.
 > 
-> - For example, you could allow players to make simple choices or decisions for their characters while they are performing routine tasks or behaviors, such as declining food options or quickly interacting with objects or controls in the environment. This could help to make the game feel more responsive and dynamic, as players have more agency and control over their characters' actions.
+> For example, you could allow players to make simple choices or decisions for their characters while they are performing routine tasks or behaviors, such as declining food options or quickly interacting with objects or controls in the environment. This could help to make the game feel more responsive and dynamic, as players have more agency and control over their characters' actions.
 > 
-> - Using the player's control of a character as a metaphor for psychosis could also add an interesting layer of depth and meaning to the gameplay experience. This could be used to explore themes of mental health, identity, and the impact of extreme circumstances on an individual's behavior and decision-making.
+> Using the player's control of a character as a metaphor for psychosis could also add an interesting layer of depth and meaning to the gameplay experience. This could be used to explore themes of mental health, identity, and the impact of extreme circumstances on an individual's behavior and decision-making.
 > 
-> - Overall, allowing players to make decisions for their characters while they are being AI controlled could create a more interactive and immersive gameplay experience, while also potentially providing opportunities to explore deeper themes and ideas through the metaphor of psychosis.
+> Overall, allowing players to make decisions for their characters while they are being AI controlled could create a more interactive and immersive gameplay experience, while also potentially providing opportunities to explore deeper themes and ideas through the metaphor of psychosis.
 
-- Can you summarize the game in full?
+Can you summarize the game in full?
 
 > Here is a summary of the game as it has been described:
 > 
@@ -562,11 +574,11 @@ What is the genre of the game?
 
 > It is difficult to assign a specific genre to the game you have described, as it combines elements from a variety of different genres. Some of the elements that could potentially be included in the game are:
 > 
-> 1. Resource management: Players must manage the resources of the colony and make strategic decisions about how to allocate them in order to survive and thrive.
+> - Resource management: Players must manage the resources of the colony and make strategic decisions about how to allocate them in order to survive and thrive.
 > 
-> 1. Social stealth: Players must navigate the complex social dynamics of the colony and use social stealth to avoid drawing attention to themselves, while also trying to sabotage the duties of other characters and cause disasters that will eliminate their opponents.
+> - Social stealth: Players must navigate the complex social dynamics of the colony and use social stealth to avoid drawing attention to themselves, while also trying to sabotage the duties of other characters and cause disasters that will eliminate their opponents.
 > 
-> 1. Strategy: Players must make strategic decisions about how to interact with the other characters, based on their personalities and the goals of their own character, in order to survive and emerge as the last character standing.
+> - Strategy: Players must make strategic decisions about how to interact with the other characters, based on their personalities and the goals of their own character, in order to survive and emerge as the last character standing.
 > 
 > Overall, the game could potentially be classified as a combination of survival, strategy, and social simulation elements, with a focus on resource management, social stealth, and strategic decision-making.
 
@@ -1146,7 +1158,7 @@ Describe the game, and add elements of contemporary urban survival
 
 > Echelon: Deception and Survival is a online competitive roleplaying game set in a futuristic urban environment. Players take on the role of different characters, each with their own unique abilities and skills, and must navigate a world filled with danger and deception. The game features multiple game modes, including Last One Standing, Team Target Elimination, and Free-mode, all of which require strategic decision-making and fast-paced action. As players progress through the game, they must use their wits to outmaneuver their opponents, gather resources, and survive against all odds. With its focus on survival and deception, Echelon: Deception and Survival offers a unique and exciting gameplay experience for players looking for a fresh take on the urban survival genre.
 
--- 
+---
 
 Describe this game, emphasizing the competitive survival in the simulated economy, the scarcity and lethality of weapons, the social stealth elements, the AI characters, the goal of being last one standing, using strategy and assuming different characters when the player dies.
 
@@ -1170,7 +1182,7 @@ If we were to extract the game mechanics from the setting, tone, and themes, wha
 > 
 > In terms of making the name more broad, universal, and timeless, one option could be to focus on the core gameplay mechanics rather than specific themes or settings. For example, a name like "Echelon: Strategy and Deception" could potentially apply to a wider range of settings and themes while still capturing the key elements of the game. Alternatively, the name could be made more broad by omitting specific themes or settings altogether, such as "Echelon: Online Survival Game." Ultimately, the best name will depend on the specific goals and focus of the game.
 
---- 
+---
 
 Can you help me write a game design document for this game, for the purpose of the developers to use to build the game, updating the live document as design decisions are made and changed?
 
@@ -1178,7 +1190,7 @@ Can you help me write a game design document for this game, for the purpose of t
 > 
 > Here is a template for a GDD that you can use as a starting point:
 > 
-> ##### Game Overview
+> #### Game Overview
 > 
 > - Game title: Echelon: Deception and Survival
 > - Genre: Competitive survival
@@ -1187,7 +1199,7 @@ Can you help me write a game design document for this game, for the purpose of t
 > - Game modes: Single player, multiplayer
 > - Overview: Echelon is a game that combines elements of survival, strategy, and deception. Players are placed in a simulated economy where resources are scarce and weapons are lethal. The goal is to be the last one standing by using strategy and social stealth, and assuming different characters when the player dies.
 > 
-> ##### Game Mechanics
+> #### Game Mechanics
 > 
 > - Scarcity and lethality of weapons
 > - Social stealth elements
@@ -1196,13 +1208,13 @@ Can you help me write a game design document for this game, for the purpose of t
 > - Layers of strategy
 > - Time compression
 > 
-> ##### Art Style
+> #### Art Style
 > 
 > - Medieval Castle
 > - Detailed and realistic
 > - Dark and atmospheric
 > 
-> ##### Features
+> #### Features
 > 
 > - Single player and multiplayer modes
 > - AI characters
@@ -1210,18 +1222,18 @@ Can you help me write a game design document for this game, for the purpose of t
 > - Layers of strategy
 > - Time compression
 > 
-> ##### Technical Requirements
+> #### Technical Requirements
 > 
 > - PC or Console
 > - Internet connection for multiplayer
 > 
-> ##### Development Timeline
+> #### Development Timeline
 > 
 > - Pre-production: Concept development, prototyping, and planning
 > - Production: Art and asset creation, programming, and testing
 > - Post-production: Bug fixing, polishing, and finalizing the game
 > 
-> ##### Conclusion
+> #### Conclusion
 > 
 > The game Echelon: Deception and Survival is a competitive survival game that combines elements of survival, strategy, and deception. Players are placed in a simulated economy where resources are scarce and weapons are lethal. The goal is to be the last one standing by using strategy and social stealth, and assuming different characters when the player dies. The game's art style is medieval castle, detailed and realistic, dark and atmospheric. The game will be released for PC, Console, with single player and multiplayer modes, AI characters, progression through different characters, layers of strategy, time compression.
 > 
@@ -1342,26 +1354,177 @@ continue with that 8. monetization response
 
 ---
 
-### Game Idea LyraRP
 
-To build off of Lyra Sample Project…
+### ChatGPT 2
 
-Multiplayer non-serious economy/crime simulator RP. Players take on a random role of a character in a scenario (town, etc. in this case martian outpost that is privateer-based, capitalist pay your way kinda thing to support Elon Musk’s martian robot fighting league, formerly Unreal Tournaments he bought from Epic Games.
+Prompt
 
-Sarcastic “Server Rules” banner: (Maybe different random banners each time, with similar joke rules)
+> Response
 
-"Server Rules:"
-- No killing
-- No guns
-- No shooting guns
-- No stealing
-- No talking
-- Go to your job
-- No bad behaviour
-- No selling stuff without permission from the mods
-- No drugs
-- No arguing with the mods
-- Report to mods (there actually are no mods)
+---
+
+What is a good outline for a game design document for a first-time solo developer who might collaborate with a few people at times? 
+
+The game is called Echelons of Deception and Survival, and it s a third-person competitive online RPG with elements of survival and battle-royale, social-stealth mechanics,  immersive sim economic simulation, and serious/non-serious RP.
+
+> Here is a general outline for a game design document for Echelons of Deception and Survival:
+> 
+> I. Introduction
+> 
+> - Brief overview of the game concept and its unique features
+> - Target audience and intended platform(s)
+> 
+> II. Gameplay
+> 
+> - Description of core gameplay mechanics (e.g. survival, battle-royale, social-stealth, economic simulation)
+> - Explanation of how these mechanics interact with one another and contribute to the overall player experience
+> - Examples of different types of gameplay scenarios that players might encounter
+> 
+> III. Characters and Progression
+> 
+> - Description of character classes and abilities
+> - Explanation of how players can level up and acquire new abilities or equipment
+> - Information on how the game's economy and social systems will work
+> - Explanation of the serious/non-serious RP mechanics
+> 
+> IV. Art and Audio
+> 
+> - Concept art or sketches of characters, environments, and other assets
+> - Description of the game's visual style and aesthetic
+> - Information on any pre-existing assets that will be used in the game
+> - Explanation of how sound and music will be used to enhance the gameplay experience
+> 
+> V. Technology
+> 
+> - Information on the game engine or development platform(s) that will be used
+> - Explanation of any technical challenges that will need to be overcome during development
+> 
+> VI. Conclusion
+> 
+> - Summary of the game concept and its key features
+> - Discussion of any potential future developments or expansions for the game
+> - Acknowledgment of the resources you will use to collaborate with other people and how you plan to manage the development process.
+> 
+> This is a general outline, you can adjust and add more information as you see fit for your specific game. And also, it's important to have a clear development plan and milestones, which is not listed here.
+
+Can you provide some alternatives?
+
+> Here are a few alternative outlines for a game design document:
+> 
+> 1. High-level first, detailed second: This outline begins with a broad overview of the game's concept and key features, followed by more detailed sections on gameplay mechanics, characters, art, audio, and technology.
+> 
+> 2. Chronological development: This outline is organized around the different stages of development, from initial concept and prototyping to final polish and testing. It covers the same topics as the previous outline, but in the order in which they will be tackled during development.
+> 
+> 3. Gameplay-focused: This outline prioritizes gameplay mechanics and player experience, with sections on core mechanics, player progression, and different types of gameplay scenarios. It also includes sections on characters, art, audio, and technology, but they are secondary to the gameplay information.
+> 
+> 4. Technical-focused: This outline is focused on the technical aspects of the game, detailing the development tools, engines, and other technology used to build the game.
+> 
+> 5. Game-world-focused: This outline is focused on the game's world-building and lore, detailing the game's setting, characters, and the overarching story.
+> 
+> Ultimately, the best outline for you will depend on your personal development process and the specific needs of your game. You can take elements from different outlines and combine them to make the one that fits you and your game best.
+
+For a first-time solo dev, who might collaborate with a few people on this project, but whose main goal is to document the design for their own use and internal consistency, what would be a good bare-bones first draft outline of a Game Design Document for an online competitive battle-royale roleplaying game?
+
+> Here is a bare-bones first draft outline for a Game Design Document for an online competitive battle-royale roleplaying game:
+> 
+> I. Introduction
+> 
+> - Brief overview of the game concept and its unique features
+> - Target audience and intended platform(s)
+> 
+> II. Gameplay
+> 
+> - Description of core gameplay mechanics (e.g. battle-royale, roleplaying)
+> - Explanation of how the mechanics interact with one another and contribute to the overall player experience
+> - Examples of different types of gameplay scenarios that players might encounter
+> 
+> III. Characters and Progression
+> 
+> - Description of character classes and abilities
+> - Explanation of how players can level up and acquire new abilities or equipment
+> 
+> IV. Technical
+> 
+> - Information on the game engine or development platform(s) that will be used
+> - Explanation of any technical challenges that will need to be overcome during development
+> 
+> V. Conclusion
+> 
+> - Summary of the game concept and its key features
+> - Discussion of any potential future developments or expansions for the game
+> - Acknowledgment of the resources you will use to collaborate with other people and how you plan to manage the development process.
+> 
+> This is a minimal outline, but it covers the main elements of the game design. You can always add more sections and details as you continue to develop the game. And also, it's important to have a clear development plan and milestones, which is not listed here.
+
+If there is not a lot of focus on character and progression, as it is a round-based competitive online game with no persistent elements across rounds, what section could replace the third one?
+
+> If the game is a round-based competitive online game with no persistent elements across rounds, you can replace the "Characters and Progression" section with one that focuses on the rules and structure of the game. Here's an example of what that section might look like:
+> 
+> III. Game Rules and Structure
+> 
+> - Description of the game's round structure, including the number of players, map size, and time limits.
+> - Explanation of the objectives and goals of the game, and how players can win.
+> - Information on the game's economy and item system, if any, including how players can acquire new items and equipment.
+> - Description of any special events or conditions that can occur during a round, such as power-ups or environmental hazards.
+> - Information on how players will interact with each other and the game environment, including combat mechanics and any social or stealth elements.
+> 
+> This section will give a clear idea of how the game is structured, what the players will be doing, what the objectives are and how it will work. It will also give a clear view of the game's economy and item system.
+> 
+> It's also important to mention that if the game is a round-based competitive online game, the technical section should include details on the game's matchmaking, lobby, and network functionalities, as they are critical to the game's overall experience.
+
+Okay so can you start filling in the details for Echelons of Deception and Survival? It is a third-person online-only competitive survival battle-royal RPG immersive sim with two main game modes: Last One Standing and Team Target Elimination, and a third free-mode for casual serious and non-serious RP. The first setting that will be introduced as the only setting of the first version of the game will be a Martian gambling resort colony. The gameplay involves roleplaying jobs and tasks around the colony, mostly ultimately catering to the few elite VIP guests. Survival mechanics involve eating, sleeping, etc. There is an effort to discourage the use of direct pvp violence with guns etc, but that potential is always there. The identities of player-controlled opponents is not explicitly revealed. There is an element of mystery in determining who is a player or just an AI-controlled character. There is also strategy surrounding concealment of your identity as a player-controlled character. And, as always, even the player-controlled characters will be driven by game AI automatically. The player can choose to subtly make small decisions without fully overriding control, or if they make too much of a decision or take full control of the character, the player must remain in control until the player gets a full nights rest or takes some psychoactive medication. Some of the roles and jobs that the characters will need to fill are shopkeeper, cook/chef/waiter/food service, weapons manufacturing, robot manufacturing, facility maintenance, garbage removal, sewage system maintenance, logistics (importing goods from earth). There are some upper level roles such as VIP host and security manager, but they are not starting roles for the players. The physical security is all taken care of by extremely lethal humanoid robots. These robots also serve as the rules of play for the gambling operation: robot battle arena. Simple wagers are placed on the outcomes of robot battles. The entire colony is built upon this gambling operation. Massive energy and money is spent keeping this running. Perhaps, in secrecy, some of these robots and weapons are being manufactured in excess and potentially used for some other purpose or sold for profit. This is one of the meanings of the "Echelons of Deception." The entire colony is essential a giant deception, with layers of deception at every layer in between. The rules of the colony will disallow any human from possessing weapons, but of course some people are criminals and will possess them anyway, and some people are VIP and are deemed so important that rules basically don't apply. The rules become very selectively enforced: mostly as a way to keep the poor servants of the lower echelons of the colony in check.
+
+> Based on the information provided, here is a more detailed version of the Game Design Document outline for Echelons of Deception and Survival:
+> 
+> I. Game Overview
+> 
+> - Brief summary of the game's concept, including its title, genre, and target audience.
+> - Description of the game's main features, such as its third-person perspective, online-only competitive multiplayer, survival and battle-royale elements, immersive sim economic simulation, and serious/non-serious RP.
+> - Information on the game's two main game modes: Last One Standing and Team Target Elimination, and a third free-mode for casual serious and non-serious RP.
+> 
+> II. Setting and World
+> 
+> - Description of the game's setting, a Martian gambling resort colony, and its backstory.
+> - Information on the colony's layout and infrastructure, including key locations such as shops, manufacturing facilities, and the robot battle arena.
+> - Description of the colony's economy, including the role of gambling in funding the colony and the potential for illegal activities.
+> - Information on the colony's inhabitants, including player-controlled characters and AI-controlled characters, and the social hierarchy of the colony.
+> 
+> III. Game Rules and Structure
+> 
+> - Description of the game's round structure, including the number of players, map size, and time limits.
+> - Explanation of the objectives and goals of the game, and how players can win.
+> - Information on the game's economy and item system, including how players can acquire new items and equipment, and the role of jobs and tasks in the colony.
+> - Description of any special events or conditions that can occur during a round, such as power-ups or environmental hazards.
+> - Information on how players will interact with each other and the game environment, including social and stealth mechanics, and the use of lethal humanoid robots as security.
+> - Information about rules and regulations of the colony, and how they are selectively enforced to maintain control over the lower echelons of the colony.
+> 
+> IV. Characters and Progression
+> 
+> - Description of the various roles and jobs that player-controlled characters can fill in the colony, such as shopkeeper, cook, weapons manufacturer, and facility maintenance.
+> - Information on the upper-level roles such as VIP host and security manager, and how they can be achieved through player progression.
+> - Explanation of the survival mechanics in the game, including eating, sleeping, and psychoactive medication.
+> - Information on the element of mystery in determining who is a player-controlled character and the strategy surrounding concealment of player identity.
+> - Information on how players can make small decisions without fully overriding control, and the consequences of taking full control of a character.
+> 
+> V. Technical
+> 
+> - Information on the game's matchmaking, lobby, and network functionalities, as they are critical to the game's overall experience.
+> - Description of the game's art style and visual effects, as well as the sound design and music.
+> - Information on the game's AI system, including how AI-controlled characters will interact with players and the environment.
+> - Description of the game's physics and animation systems, and how they will be used to create a believable and immersive experience.
+> - Information on the game's optimization and scalability, to ensure a smooth and stable experience for players.
+> 
+> VI. Conclusion
+> 
+> - Summary of the game's concept, features, and target audience.
+> - Explanation of the game's intended impact and its place in the market.
+> - Information on the game's development timeline, including milestones and projected release date.
+> 
+> Please keep in mind that this is a rough outline and it's best to adapt it to your own development process and goals. And also the areas
+
+Can you write the introductory paragraph of the game design document for me?
+
+> Echelons of Deception and Survival is a third-person online-only competitive survival battle-royale RPG immersive sim set in a Martian gambling resort colony. Players take on the role of various jobs and tasks around the colony, ultimately catering to the elite VIP guests. The gameplay involves a unique blend of survival mechanics, social-stealth mechanics, and immersive sim economic simulation, all while navigating the dangerous and mysterious world of the colony, where player identities are kept hidden and deception is at every turn. The game features two main game modes: Last One Standing and Team Target Elimination, as well as a third free-mode for casual serious and non-serious RP. With an emphasis on strategy and roleplaying, Echelons of Deception and Survival offers a thrilling and engaging experience for players looking for a new type of online competitive gaming.
 
 
 ---
