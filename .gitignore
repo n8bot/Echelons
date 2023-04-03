@@ -31,6 +31,9 @@
 # Perforce ignore file
 .p4ignore
 
+# Debugging symbols
+*.pdb
+
 # Compiled Object files
 *.slo
 *.lo
