@@ -34,6 +34,9 @@
 # Debugging symbols
 *.pdb
 
+# Misc
+*.stub
+
 # Compiled Object files
 *.slo
 *.lo
