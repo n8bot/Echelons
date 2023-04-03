@@ -6,6 +6,7 @@
 /DerivedDataCache/
 /Intermediate/
 /Platforms/
+
 /Plugins/AsyncMixin/
 /Plugins/CommonGame/
 /Plugins/CommonLoadingScreen/
@@ -23,35 +24,85 @@
 /Plugins/ModularGameplayActors/
 /Plugins/PocketWorlds/
 /Plugins/UIExtension/
+
 /Saved/
 /Source/
-
-# Visual Studio files and directories
-/.vs/
-*.sln
-.vsconfig
 
 # Perforce ignore file
 .p4ignore
 
-# Bnary file formats
-*.exe
-*.dll
-*.lib
-*.app
-*.dylib
-*.stub
-*.ipa
-*.so
+# Debugging symbols
 *.pdb
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+*.ipa
+
+# Images
+*.png
+*.tga
+
+# Unreal Engine binary formats
 *.uasset
 *.umap
 *.upk
 *.udk
 *.ubulk
-*.png
 
 # Directories always ignored anywhere
 **/ArtSource/
 **/Binaries/
 **/Intermediate/
+
+# Rider
+.idea/
+.idea_modules/
+out/
+
+com_crashlytics_export_strings.xml
+crashlytics.properties
+crashlytics-build.properties
+fabric.properties
+
+# Visual Studio
+/.vs/
+*.sln
+.vsconfig
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+*.vsix
+
+# VSCode
+.vscode/
+.history/
+
+# Xcode
+*.xcodeproj
+*.xcworkspace
