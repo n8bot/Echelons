@@ -77,7 +77,6 @@
 **/Binaries/
 **/Intermediate/
 
-
 # Rider
 .idea/
 .idea_modules/
