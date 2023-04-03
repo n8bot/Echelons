@@ -75,8 +75,12 @@
 *.png
 *.tga
 
-# Built data for maps
-*_BuiltData.uasset
+# Unreal Engine binary formats
+*.uasset
+*.umap
+*.upk
+*.udk
+*.ubulk
 
 # Directories always ignored anywhere
 **/ArtSource/
@@ -93,22 +97,6 @@
 .history/
 
 *.vsix
-
-# Vim files and directories
-[._]*.s[a-v][a-z]
-!*.svg
-[._]*.sw[a-p]
-[._]s[a-rt-v][a-z]
-[._]ss[a-gi-z]
-[._]sw[a-p]
-
-Session.vim
-Sessionx.vim
-
-.netrwhist
-*~
-tags
-[._]*.un~
 
 # Jetbrains Rider gitignore
 .idea/
