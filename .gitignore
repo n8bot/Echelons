@@ -6,6 +6,7 @@
 /DerivedDataCache/
 /Intermediate/
 /Platforms/
+
 /Plugins/AsyncMixin/
 /Plugins/CommonGame/
 /Plugins/CommonLoadingScreen/
@@ -23,13 +24,9 @@
 /Plugins/ModularGameplayActors/
 /Plugins/PocketWorlds/
 /Plugins/UIExtension/
+
 /Saved/
 /Source/
-
-# Visual Studio files and directories
-/.vs/
-*.sln
-.vsconfig
 
 # Perforce ignore file
 .p4ignore
@@ -75,9 +72,6 @@
 *.png
 *.tga
 
-# Don't ignore icon files in Build
-!Build/**/*.ico
-
 # Built data for maps
 *_BuiltData.uasset
 
@@ -85,3 +79,40 @@
 **/ArtSource/
 **/Binaries/
 **/Intermediate/
+
+# Visual Studio files and directories
+/.vs/
+*.sln
+.vsconfig
+
+# Visual Studio codes files and directories
+.vscode/*
+.history/
+
+*.vsix
+
+# Vim files and directories
+[._]*.s[a-v][a-z]
+!*.svg
+[._]*.sw[a-p]
+[._]s[a-rt-v][a-z]
+[._]ss[a-gi-z]
+[._]sw[a-p]
+
+Session.vim
+Sessionx.vim
+
+.netrwhist
+*~
+tags
+[._]*.un~
+
+# Jetbrains Rider gitignore
+.idea/
+.idea_modules/
+out/
+
+com_crashlytics_export_strings.xml
+crashlytics.properties
+crashlytics-build.properties
+fabric.properties
