@@ -94,7 +94,6 @@ fabric.properties
 /.vs/
 *.sln
 .vsconfig
-*.sln
 *.suo
 *.opensdf
 *.sdf
