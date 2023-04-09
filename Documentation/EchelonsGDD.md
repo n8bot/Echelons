@@ -19,6 +19,38 @@ E.g., the word echelon itself. It will be used to describe so many things — up
 This kind of ambiguous wordplay will be everywhere.
 
 
+#### Tortoise-TTS
+
+Text to speech using [TorToiSe](https://github.com/neonbjb/tortoise-tts)?
+
+Oh wow yes.
+
+
+#### Host Migration
+
+If a player dropped out early, and they happened to be the host, the game is ruined. We should plan for host migration, dedicated servers, or have all players in session share hosting duties. Every client is also a server? Madness.
+
+
+#### Personality Traits
+
+Perhaps a simple positive/negative binary personality trait is determined for each AI character. It could be called "toxic personality" vs wholesome (or sweetheart).
+
+
+#### In the end quote
+
+~~"In the end, it was echelons upon echelons of deception. Always has been."~~ "In the end, it was all Echelons of Deception and Survival the whole way down, always has been."
+
+
+#### Last One Standing Game Mode additional scoring
+
+Perhaps the total duration of time alive of all characters boosts the absolute score of any players in the game. Relative score, for the single game, is simply last one standing - times died. Across all games, the duration of all characters in an individual game, determines the overall absolute score placement across all games (of equivalent versions — leaderboards will be reset for gameplay changes).
+
+
+#### Speech-to-text for AI
+
+Whisper.cpp for speech recognition for AI characters to detect spoken words.
+
+
 ---
 
 ### Collections of Pre-existing Notes
@@ -170,23 +202,23 @@ Prompt
 
 ---
 
-Can you help me brainstorm job ideas for a role playing multiplayer video game? It will simulate a small martian colony which is run capitalistically as a tourist destination: a casino-style resort that hosts robot gun battles which can be gambled on. There are 32 characters, each vaguely modelled off the 32 chess pieces and pawns. The Kings and Queens are merely the whale guests of the casino. They have been sold a one-way ticket to live the rest of their lives in luxury, gambling on robot battles on mars. The other members of the colony are the people who facilitate the running of the colony. The Rooks represent "the house" and are the VIP hosts to the whales. They are also basically in charge of the whole operation. Then, the bishops are represented as the business owners who hold private interest over the food, shopping, and other facilities of the small martian colony. The Knights are in charge of security, but they don't themselves perform any policing duties. Robots take care of all direct policing: arresting and protecting with weapons. The pawns are all the low-skilled workers, who tend to the shops and restaurants of the colony, as well as all the manual labour required to run the operation: weapons technician, robot technician, electricty/power generation and distribution, facility maintenance, plumbing, glass repair, etc. I need help determining which roles will be essential to the operation of the colony, and provide interesting, dynamic, and fun gameplay for the players and characters.
+Can you help me brainstorm job ideas for a role playing multiplayer video game? It will simulate a small martian colony which is run capitalistically as a ~~tourist destination: a~~ casino-style resort that hosts robot gun battles which can be gambled on. There are 32 characters, each vaguely modelled off the 32 chess pieces and pawns. The Kings and Queens are merely the whale guests of the casino. They have been sold a one-way ticket to live the rest of their lives in luxury, gambling on robot battles on mars. The other members of the colony are the people who facilitate the running of the colony. The Rooks represent "the house" and are the VIP hosts to the whales. They are also basically in charge of the whole operation. Then, the bishops are represented as the business owners who hold private interest over the food, shopping, and other facilities of the small martian colony. The Knights are in charge of security, but they don't themselves perform any policing duties. Robots take care of all direct policing: arresting and protecting with weapons. The pawns are all the low-skilled workers, who tend to the shops and restaurants of the colony, as well as all the manual labour required to run the operation: weapons technician, robot technician, electricty/power generation and distribution, facility maintenance, plumbing, glass repair, etc. I need help determining which roles will be essential to the operation of the colony, and provide interesting, dynamic, and fun gameplay for the players and characters.
 
 > There are many potential job ideas for the characters in your role-playing multiplayer video game. Here are a few suggestions:
 > 
 > 1. Casino manager: This character would be responsible for overseeing the operations of the casino, including managing the gambling games, setting odds, and handling any issues that arise.
 > 
-> 2. Robot designer: This character would be responsible for designing and building the robots that are used in the gun battles. They would need to be skilled in engineering and have a good understanding of robotics.
+> 2. ~~Robot designer: This character would be responsible for designing and building the robots that are used in the gun battles. They would need to be skilled in engineering and have a good understanding of robotics.~~
 > 
 > 3. Robot repair technician: This character would be responsible for maintaining and repairing the robots when they break down or are damaged in battle. They would need to be skilled in mechanics and have a good understanding of robotics.
 > 
-> 4. Weapons technician: This character would be responsible for designing, building, and maintaining the weapons used in the robot battles. They would need to be skilled in engineering and have a good understanding of firearms.
+> 4. Weapons technician: This character would be responsible for ~~designing,~~ building, and maintaining the weapons used in the robot battles. They would need to be skilled in engineering and have a good understanding of firearms.
 > 
 > 5. Power generation and distribution technician: This character would be responsible for ensuring that the colony has a reliable source of power and that it is distributed effectively. They would need to be skilled in electrical engineering and have a good understanding of power systems.
 > 
 > 6. Facility maintenance worker: This character would be responsible for maintaining and repairing the various facilities within the colony, including the casino, shops, and restaurants. They would need to be skilled in a variety of trades, such as plumbing, glass repair, and carpentry.
 > 
-> 7. Security officer: This character would be responsible for ensuring the safety and security of the colony, including protecting the whales and other VIP guests. They would need to be skilled in security tactics and have a good understanding of emergency procedures.
+> 7. Security officer: This character would be responsible for ensuring the safety and security of ~~the colony, including protecting~~ the whales and other VIP guests. They would need to be skilled in security tactics and have a good understanding of emergency procedures.
 > 
 > 8. Shop and restaurant owner: This character would be responsible for managing a shop or restaurant within the colony. They would need to be skilled in business management and have a good understanding of customer service.
 > 
@@ -218,7 +250,7 @@ Good! I need more ideas.
 > 
 > 2. Bartender: This character would be responsible for preparing and serving drinks in the casino or other establishments within the colony. They would need to have a basic understanding of mixology and be able to follow recipes.
 > 
-> 3. Valet: This character would be responsible for parking and retrieving vehicles for the guests and workers in the colony. They would need to have good customer service skills and be able to safely operate a variety of vehicles.
+> 3. ~~Valet: This character would be responsible for parking and retrieving vehicles for the guests and workers in the colony. They would need to have good customer service skills and be able to safely operate a variety of vehicles.~~
 > 
 > 4. Bellhop: This character would be responsible for assisting guests with their luggage and providing information about the colony. They would need to be able to lift and carry heavy objects and have good customer service skills.
 > 
@@ -250,9 +282,9 @@ Good. Can you think of any businesses that could be owned and operated in the co
 > 
 > 1. Medical facilities: The colony could have a clinic or hospital that offers medical care and treatment.
 > 
-> 2. Education facilities: The colony could have schools or educational centers that offer classes and training programs.
+> 2. ~~Education facilities: The colony could have schools or educational centers that offer classes and training programs.~~
 > 
-> 3. Transportation: The colony could have a variety of transportation options, such as buses, shuttles, and rental cars, to help people get around.
+> 3. ~~Transportation: The colony could have a variety of transportation options, such as buses, shuttles, and rental cars, to help people get around.~~
 > 
 > 4. Housing: The colony could offer a range of housing options, such as apartments, townhouses, and single-family homes, to accommodate the needs of its residents.
 > 
@@ -268,13 +300,13 @@ Thank you! Good ideas. Can you give me more?
 > 
 > 3. Hardware store: The colony could have a hardware store that offers a variety of tools and supplies for home repair and maintenance.
 > 
-> 4. Library: The colony could have a library that offers a variety of books, magazines, and other media for borrowing or reading on-site.
+> 4. ~~Library: The colony could have a library that offers a variety of books, magazines, and other media for borrowing or reading on-site.~~
 > 
-> 5. Community center: The colony could have a community center that offers a variety of recreational activities, such as sports, arts and crafts, and classes.
+> 5. ~~Community center: The colony could have a community center that offers a variety of recreational activities, such as sports, arts and crafts, and classes.~~
 > 
-> 6. Daycare center: The colony could have a daycare center that offers child care services for the children of workers and guests.
+> 6. ~~Daycare center: The colony could have a daycare center that offers child care services for the children of workers and guests.~~
 > 
-> 7. Pet care services: The colony could have a pet care service that offers grooming, boarding, and training for pets.
+> 7. ~~Pet care services: The colony could have a pet care service that offers grooming, boarding, and training for pets.~~
 > 
 > 8. Laundromat: The colony could have a laundromat that offers washing and drying services for the laundry of workers and guests.
 > 
@@ -290,17 +322,17 @@ This is amazing. More ideas please!
 > 
 > 2. Barbershop: The colony could have a barbershop that offers haircuts and grooming services for men.
 > 
-> 3. Car dealership: The colony could have a car dealership that offers a variety of new and used vehicles for purchase or lease.
+> 3. ~~Car dealership: The colony could have a car dealership that offers a variety of new and used vehicles for purchase or lease.~~
 > 
-> 4. Rent-a-car: The colony could have a rent-a-car service that offers a variety of vehicles for short-term rental.
+> 4. ~~Rent-a-car: The colony could have a rent-a-car service that offers a variety of vehicles for short-term rental.~~
 > 
-> 5. Taxi service: The colony could have a taxi service that offers transportation services to workers and guests within the colony.
+> 5. ~~Taxi service: The colony could have a taxi service that offers transportation services to workers and guests within the colony.~~
 > 
-> 6. Travel agency: The colony could have a travel agency that offers a variety of travel packages and services, such as booking flights, hotels, and tours.
+> 6. ~~Travel agency: The colony could have a travel agency that offers a variety of travel packages and services, such as booking flights, hotels, and tours.~~
 > 
-> 7. Tour operator: The colony could have a tour operator that offers a variety of guided tours of the colony and its surrounding area.
+> 7. ~~Tour operator: The colony could have a tour operator that offers a variety of guided tours of the colony and its surrounding area.~~
 > 
-> 8. Rent-a-bike: The colony could have a rent-a-bike service that offers a variety of bikes for short-term rental.
+> 8. ~~Rent-a-bike: The colony could have a rent-a-bike service that offers a variety of bikes for short-term rental.~~
 > 
 > 9. Sporting goods store: The colony could have a sporting goods store that offers a variety of sports equipment and apparel.
 > 
@@ -326,7 +358,7 @@ Thank you. Keep in mind, this is a small colony on mars. There are only 32 peopl
 > 
 > 8. Medical clinic: The colony could have a medical clinic that offers basic medical care and treatment to the residents.
 > 
-> 9. Education center: The colony could have an education center that offers classes and training programs for the residents.
+> 9. ~~Education center: The colony could have an education center that offers classes and training programs for the residents.~~
 > 
 > 10. Community garden: The colony could have a community garden where residents can grow their own produce and plants.
 
@@ -334,25 +366,25 @@ How could all of these shops, services, systems, and amenities be presented to t
 
 > One way to present the various shops, services, systems, and amenities to the players in a fun and challenging way would be to have them complete tasks and missions related to these aspects of the colony. For example, players could be assigned tasks such as repairing a malfunctioning solar panel array, tending to the plants in the hydroponics farm, or conducting research in the laboratory.
 > 
-> In order to make the game more competitive, players could be given rewards for completing tasks and missions successfully, such as points or in-game currency. These rewards could be used to purchase upgrades or items that will help the player survive longer in the game.
+> In order to make the game more competitive, players could be given rewards for completing tasks ~~and missions~~ successfully, such as ~~points or~~ in-game currency. These rewards could be used to purchase upgrades or items that will help the player survive longer in the game.
 > 
-> The core game loop could involve players completing tasks and missions to earn rewards, while also trying to survive as long as possible by avoiding dangers such as attacks from other players or malfunctioning equipment. The player who lasts the longest and has the fewest deaths would be the winner.
+> The core game loop could involve players completing tasks ~~and missions~~ to earn rewards, while also trying to survive as long as possible by avoiding dangers such as attacks from other players or malfunctioning equipment. The player who lasts the longest and has the fewest deaths would be the winner.
 > 
-> To make the game more dynamic and interesting, the tasks and missions could be randomly generated or changed on a regular basis, so that players always have something new to do. The colony could also have events or challenges that take place periodically, such as robot battles or survival challenges, which would provide players with additional opportunities to earn rewards and compete against each other.
+> To make the game more dynamic and interesting, the tasks ~~and missions~~ could be randomly generated or changed on a regular basis, so that players always have something new to do. The colony could also have events ~~or challenges~~ that take place periodically, such as robot battles ~~or survival challenges~~, which would provide players with additional opportunities to earn rewards and compete against each other.
 
 Describe the game in full.
 
-> In this role-playing multiplayer video game, players take on the roles of characters in a small Martian colony that is run as a capitalist resort and tourist destination. The colony features a casino-style resort that hosts robot gun battles which can be gambled on, as well as a variety of shops, services, and amenities such as restaurants, bars, spas, and fitness centers.
+> In this role-playing multiplayer video game, players take on the roles of characters in a small Martian colony that is run as a capitalist resort ~~and tourist destination~~. The colony features a casino-style resort that hosts robot gun battles which can be gambled on, as well as a variety of shops, services, and amenities such as restaurants, bars, spas, and fitness centers.
 > 
-> Players can choose from 32 different characters, each of which is vaguely modeled after a chess piece or pawn. The Kings and Queens are the whale guests of the casino, who have been sold a one-way ticket to live the rest of their lives in luxury on Mars. The Rooks represent "the house" and are the VIP hosts to the whales, while the Bishops are the business owners who hold private interests in the various facilities of the colony. The Knights are in charge of security, while the Pawns are the low-skilled workers who tend to the shops and restaurants, as well as perform all the manual labor required to run the operation.
+> Players can ~~choose from~~ 32 different characters, each of which is vaguely modeled after a chess piece or pawn. The Kings and Queens are the whale guests of the casino, who have been sold a one-way ticket to live the rest of their lives in luxury on Mars. The Rooks represent "the house" and are the VIP hosts to the whales, while the Bishops are the business owners who hold private interests in the various facilities of the colony. The Knights are in charge of security, while the Pawns are the low-skilled workers who tend to the shops and restaurants, as well as perform all the manual labor required to run the operation.
 > 
-> As players progress through the game, they will be given tasks and missions to complete, such as repairing equipment or conducting research in the laboratory. They will also need to survive dangers such as attacks from other players or malfunctioning equipment. The player who lasts the longest and has the fewest deaths will be the winner.
+> As players ~~progress through the game~~, they will be given tasks ~~and missions~~ to complete, such as repairing equipment or conducting research in the laboratory. They will also need to survive dangers such as attacks from other players or malfunctioning equipment. The player who lasts the longest and has the fewest deaths will be the winner.
 > 
-> To make the game more dynamic and interesting, the tasks and missions will be randomly generated or changed on a regular basis, and the colony will host events and challenges that provide players with additional opportunities to earn rewards and compete against each other. The game will have a strong focus on survival and resource management, as players will need to carefully manage their resources and make strategic decisions to ensure their success.
+> To make the game more dynamic and interesting, the tasks ~~and missions~~ will be randomly generated or changed on a regular basis, and the colony will host events ~~and challenges~~ that provide players with additional opportunities to earn rewards and compete against each other. The game will have a strong focus on survival and resource management, as players will need to carefully manage their resources and make strategic decisions to ensure their success.
 
 The players do not choose the role. They start as a random pawn, who as a randomly-assigned job. The players can change roles only when their current character dies. They then possess the nearest character who is not already possessed by another player.
 
-> Understood. This adds an additional layer of strategy and risk to the game, as players will need to carefully consider their actions and the potential consequences of those actions. For example, a player may need to weigh the benefits of taking on a high-risk mission with the possibility of a big reward against the risk of losing their current character and having to start over with a new one.
+> Understood. This adds an additional layer of strategy and risk to the game, as players will need to carefully consider their actions and the potential consequences of those actions. For example, a player may need to weigh the benefits of taking on a high-risk ~~mission~~ with the possibility of a big reward against the risk of losing their current character and having to start ~~over~~ with a new one.
 > 
 > To make the game more interesting, the various roles and jobs within the colony could have different abilities and skills that allow them to excel in certain tasks or situations. For example, the Knights may have better combat abilities, making them more effective at defending the colony against threats, while the Pawns may have more specialized skills such as electrical repair or medical treatment, which could be useful in certain situations.
 > 
@@ -366,9 +398,9 @@ Social stealth will also play a key role in the game. None of the other players 
 
 > It sounds like the game will have a strong focus on economic simulation and social stealth, with players having to carefully manage their tasks and resources while also attempting to gather information about their opponents and hinder their progress.
 > 
-> To implement the black market, one option could be to have it operate as a separate system within the game that is accessed through a covert interface. Players could use the black market to purchase or sell illegal or rare items, such as weapons or ammunition, at a premium price. Access to the black market could be gained through completing certain tasks or missions, or by earning favor with certain NPCs within the colony.
+> To implement the black market, one option could be to have it operate as a separate system within the game that is accessed through a covert interface. Players could use the black market to purchase or sell illegal or rare items, such as weapons or ammunition, at a premium price. Access to the black market could be gained ~~through completing certain tasks or missions, or~~ by earning favor with certain NPCs within the colony.
 > 
-> To make the game more challenging and interesting, the black market could be operated by a group of NPCs who are more difficult to deal with than the regular characters in the colony. These NPCs could have their own agendas and motivations, and players would need to be careful in their interactions with them in order to avoid being caught or double-crossed.
+> ~~To make the game more challenging and interesting, the black market could be operated by a group of NPCs who are more difficult to deal with than the regular characters in the colony. These NPCs could have their own agendas and motivations, and players would need to be careful in their interactions with them in order to avoid being caught or double-crossed.~~
 > 
 > In addition to the black market, the game could also have other covert systems or activities that players can engage in, such as hacking into the colony's computer systems or sabotaging equipment. These activities could provide players with an edge in the game, but could also come with risks if they are caught by the robot guards or other players.
 > 
@@ -390,11 +422,11 @@ How could these systems be modelled?
 > 
 > One approach would be to use a simulation-based model, in which the various systems and activities within the colony are simulated in real time based on a set of rules and algorithms. For example, the hydroponics farm could be modeled to produce a certain amount of produce per day based on factors such as the number of plants being grown, the amount of water and nutrients available, and the ambient temperature and light conditions.
 > 
-> Another approach could be to use a role-playing game (RPG)-style model, in which the various tasks and activities within the colony are structured as quests or missions that players can choose to undertake. These quests could be generated randomly or based on the actions and decisions of the players, and could involve tasks such as repairing equipment, conducting research, or interacting with NPCs.
+> ~~Another approach could be to use a role-playing game (RPG)-style model, in which the various tasks and activities within the colony are structured as quests or missions that players can choose to undertake. These quests could be generated randomly or based on the actions and decisions of the players, and could involve tasks such as repairing equipment, conducting research, or interacting with NPCs.~~
 > 
-> Alternatively, the game could use a combination of both approaches, with some systems being simulated in real time and others being structured as quests or missions. This would allow for a mix of dynamic, emergent gameplay and more structured, goal-oriented gameplay.
+> ~~Alternatively, the game could use a combination of both approaches, with some systems being simulated in real time and others being structured as quests or missions. This would allow for a mix of dynamic, emergent gameplay and more structured, goal-oriented gameplay.~~
 > 
-> Overall, the key to modeling the systems in this game would be to create a balance between complexity and accessibility, so that players feel challenged and engaged, but are not overwhelmed by the various systems and mechanics. This could involve using a range of tools and techniques, such as simulation algorithms, random number generators, and branching dialogue systems, to create a dynamic and immersive gameplay experience.
+> Overall, the key to modeling the systems in this game would be to create a balance between complexity and accessibility, so that players feel challenged and engaged, but are not overwhelmed by the various systems and mechanics. This could involve using a range of tools and techniques, such as simulation algorithms, random number generators, ~~and branching dialogue systems,~~ to create a dynamic and immersive gameplay experience.
 
 We will take the fully-simulated approach. How can the personality system for the AI characters be modelled?
 
@@ -402,7 +434,7 @@ We will take the fully-simulated approach. How can the personality system for th
 > 
 > One approach could be to define a set of personality traits for each AI character, such as greed, ambition, kindness, or cowardice. These traits could be used to influence the decisions and actions of the AI characters, based on the context and circumstances they are facing. For example, an AI character with a greedy personality might be more likely to prioritize their own self-interest over the needs of the colony, while an AI character with a kind personality might be more willing to help others and put the needs of the colony first.
 > 
-> Another approach could be to use a dialogue system to allow the AI characters to interact with each other and the player characters in a more natural and lifelike way. This could involve using branching dialogue options, where the AI characters have different responses based on their personality traits and the context of the conversation.
+> ~~Another approach could be to use a dialogue system to allow the AI characters to interact with each other and the player characters in a more natural and lifelike way. This could involve using branching dialogue options, where the AI characters have different responses based on their personality traits and the context of the conversation.~~
 > 
 > Overall, the key to modeling the personalities of the AI characters would be to create a range of realistic and believable behaviors and decision-making processes that are consistent with the personality traits of the characters. This could involve using a combination of rules, algorithms, and dialogue systems to create a dynamic and immersive gameplay experience.
 
@@ -472,15 +504,15 @@ Can you describe the core gameplay loop of this game?
 > 
 > 1. Players start as a randomly-assigned character and are given a role or job within the colony.
 > 
-> 2. Players perform their assigned duties and tasks, which could involve managing resources, completing quests or missions, or interacting with other characters.
+> 2. Players perform their assigned duties and tasks, which could involve managing resources, ~~completing quests or missions,~~ or interacting with other characters.
 > 
 > 3. Players observe the actions and behaviors of the other characters, including both player-controlled and AI-controlled characters, in order to try and deduce which ones are controlled by other players and which ones are controlled by the AI.
 > 
-> 4. Players make strategic decisions about how to interact with the other characters, based on their personalities and the goals of their own character.
+> 4. Players make strategic decisions about how to interact with the other characters~~, based on their personalities and the goals of their own character~~.
 > 
-> 5. Players score points based on their performance of their duties, their interactions with the other characters, and their survival within the colony.
+> 5. ~~Players score points based on their performance of their duties, their interactions with the other characters, and their survival within the colony.~~
 > 
-> 6. Players compete to see who can score the most points over the course of the round, with the player who has the highest score and the least number of deaths declared the winner.
+> 6. ~~Players compete to see who can score the most points over the course of the round, with the player who has the highest score and the least number of deaths declared the winner.~~
 > 
 > This core gameplay loop could be supplemented by a variety of events or encounters that occur randomly or on a regular basis, which could provide players with opportunities to gather information or disrupt the plans of their opponents.
 > 
@@ -514,35 +546,35 @@ Can you summarize the game in full?
 
 > Here is a summary of the game as it has been described:
 > 
-> In this role-playing multiplayer video game, players assume the roles of characters in a small, capitalistically-run martian colony that serves as a tourist destination and casino-style resort. The colony is home to 32 characters, each loosely modeled after a chess piece or pawn, and is run by a group of players and AI-controlled characters.
+> In this role-playing multiplayer video game, players assume the roles of characters in a small, capitalistically-run martian colony that serves as a ~~tourist destination and~~ casino-style resort. The colony is home to 32 characters, each loosely modeled after a chess piece or pawn, and is run by a group of players and AI-controlled characters.
 > 
 > The Kings and Queens are the wealthy, high-rolling guests of the casino, while the Rooks represent "the house" and serve as VIP hosts to the whales. The Bishops are business owners who control private interests in the colony's food, shopping, and other facilities, and the Knights are in charge of security and the maintenance of the robots that provide physical protection and policing for the colony. The Pawns are low-skilled workers who tend to the shops, restaurants, and other facilities, as well as performing all the manual labor required to run the colony, including tasks such as weapons maintenance, robot repair, and facility maintenance.
 > 
-> Players start as a randomly-assigned character and are given a role or job within the colony. They perform their assigned duties and tasks, which could involve managing resources, completing quests or missions, or interacting with other characters. Players observe the actions and behaviors of the other characters, including both player-controlled and AI-controlled characters, in order to try and deduce which ones are controlled by other players and which ones are controlled by the AI.
+> Players start as a randomly-assigned character and are given a role or job within the colony. They perform their assigned duties and tasks, which could involve managing resources, ~~completing quests or missions,~~ or interacting with other characters. Players observe the actions and behaviors of the other characters, including both player-controlled and AI-controlled characters, in order to try and deduce which ones are controlled by other players and which ones are controlled by the AI.
 > 
-> Players make strategic decisions about how to interact with the other characters, based on their personalities and the goals of their own character, and score points based on their performance of their duties, their interactions with the other characters, and their survival within the colony. Players compete to see who can score the most points over the course of the round, with the player who has the highest score and the least number of deaths declared the winner.
+> Players make strategic decisions ~~about how to interact with the other characters, based on their personalities and the goals of their own character, and score points~~ based on their performance of their duties, their interactions with the other characters, and their survival within the colony. Players compete to see who ~~can score the most points over the course of the round, with the player who~~ has ~~the highest score and~~ the least number of deaths declared the winner.
 > 
 > Overall, the game involves a mix of resource management, observation, and strategic decision-making as players try to outmaneuver their opponents and emerge as the ultimate winner in a small, capitalistically-run martian colony.
 
 Change a few things: No missions or quests. Also, no points are awarded. The winner is determined by being the last character alive. Then, the number of times the players died is taken into account, so that the last surviving character might not win if the second-to-last survivor died far fewer times.
 
-> In this revised version of the game, players will still assume the roles of characters in a small, capitalistically-run martian colony that serves as a tourist destination and casino-style resort. The colony is home to 32 characters, each loosely modeled after a chess piece or pawn, and is run by a group of players and AI-controlled characters.
+> In this revised version of the game, players will still assume the roles of characters in a small, capitalistically-run martian colony that serves as a ~~tourist destination and~~ casino-style resort. The colony is home to 32 characters, each loosely modeled after a chess piece or pawn, and is run by a group of players and AI-controlled characters.
 > 
 > The Kings and Queens are the wealthy, high-rolling guests of the casino, while the Rooks represent "the house" and serve as VIP hosts to the whales. The Bishops are business owners who control private interests in the colony's food, shopping, and other facilities, and the Knights are in charge of security and the maintenance of the robots that provide physical protection and policing for the colony. The Pawns are low-skilled workers who tend to the shops, restaurants, and other facilities, as well as performing all the manual labor required to run the colony, including tasks such as weapons maintenance, robot repair, and facility maintenance.
 > 
 > Players start as a randomly-assigned character and are given a role or job within the colony. They perform their assigned duties and tasks, which could involve managing resources, interacting with other characters, and surviving in the colony. Players observe the actions and behaviors of the other characters, including both player-controlled and AI-controlled characters, in order to try and deduce which ones are controlled by other players and which ones are controlled by the AI.
 > 
-> Players make strategic decisions about how to interact with the other characters, based on their personalities and the goals of their own character. The game continues until there is only one character left alive, at which point the winner is determined based on the number of times that character died compared to the second-to-last survivor.
+> Players make strategic decisions about how to interact with the other characters, ~~based on their personalities~~ and the goals of their own character. The game continues until there is only one character left alive, at which point the winner is determined based on the number of times that ~~character~~ died compared to the second-to-last survivor.
 > 
 > Overall, the game involves a mix of resource management, observation, and strategic decision-making as players try to outmaneuver their opponents and emerge as the ultimate survivor in a small, capitalistically-run martian colony.
 
 Mention that the duties are performed automatically for the player by the AI, if the control is not overridden. Also mention the psychosis metaphor of that player control, and the mechanics of how it works.
 
-> In this revised version of the game, players will still assume the roles of characters in a small, capitalistically-run martian colony that serves as a tourist destination and casino-style resort. The colony is home to 32 characters, each loosely modeled after a chess piece or pawn, and is run by a group of players and AI-controlled characters.
+> In this revised version of the game, players will still assume the roles of characters in a small, capitalistically-run martian colony that serves as a ~~tourist destination and~~ casino-style resort. The colony is home to 32 characters, each loosely modeled after a chess piece or pawn, and is run by a group of players and AI-controlled characters.
 > 
 > The Kings and Queens are the wealthy, high-rolling guests of the casino, while the Rooks represent "the house" and serve as VIP hosts to the whales. The Bishops are business owners who control private interests in the colony's food, shopping, and other facilities, and the Knights are in charge of security and the maintenance of the robots that provide physical protection and policing for the colony. The Pawns are low-skilled workers who tend to the shops, restaurants, and other facilities, as well as performing all the manual labor required to run the colony, including tasks such as weapons maintenance, robot repair, and facility maintenance.
 > 
-> Players start as a randomly-assigned character and are given a role or job within the colony. The duties and tasks for the character are performed automatically by the AI unless the player takes control of the character and overrides the AI's actions. Players can take control of their character at any time, but once they release control, the AI will resume control of the character and continue performing its duties and tasks.
+> Players start as a randomly-assigned character and are given a role or job within the colony. The duties and tasks for the character are performed automatically by the AI unless the player takes control of the character and overrides the AI's actions. Players can take control of their character at any time, ~~but once they release control, the AI will resume control of the character~~ and continue performing its duties and tasks.
 > 
 > The player's control of a character can be seen as a metaphor for psychosis, representing the unwilling actions a character may take due to the extreme circumstances of their situation. Players must balance the need to take control of their character in order to influence their actions and decisions with the risks of appearing suspicious or disruptive to the other characters, as this could attract the attention of the robot guards and lead to their character's death.
 > 
@@ -550,7 +582,7 @@ Mention that the duties are performed automatically for the player by the AI, if
 
 Change it so the player's control of the character does not end until the character gets a full night's sleep. Also, mention that this is a competitive online multiplayer game, and mention the game's end condition: last one standing. The last player character alive will be assigned rank 32. If that player died 16 times during the game, this number will be subtracted from the final rank, given an end score of 16. The player with the highest number at the end wins: the player who survived the longest, while dying the least.
 
-> In this revised version of the game, players will assume the roles of characters in a small, capitalistically-run martian colony that serves as a tourist destination and casino-style resort. The colony is home to 32 characters, each loosely modeled after a chess piece or pawn, and is run by a group of players and AI-controlled characters. The Kings and Queens are the wealthy, high-rolling guests of the casino, while the Rooks represent "the house" and serve as VIP hosts to the whales. The Bishops are business owners who control private interests in the colony's food, shopping, and other facilities, and the Knights are in charge of security and the maintenance of the robots that provide physical protection and policing for the colony. The Pawns are low-skilled workers who tend to the shops, restaurants, and other facilities, as well as performing all the manual labor required to run the colony, including tasks such as weapons maintenance, robot repair, and facility maintenance.
+> In this revised version of the game, players will assume the roles of characters in a small, capitalistically-run martian colony that serves as a ~~tourist destination and~~ casino-style resort. The colony is home to 32 characters, each loosely modeled after a chess piece or pawn, and is run by a group of players and AI-controlled characters. The Kings and Queens are the wealthy, high-rolling guests of the casino, while the Rooks represent "the house" and serve as VIP hosts to the whales. The Bishops are business owners who control private interests in the colony's food, shopping, and other facilities, and the Knights are in charge of security and the maintenance of the robots that provide physical protection and policing for the colony. The Pawns are low-skilled workers who tend to the shops, restaurants, and other facilities, as well as performing all the manual labor required to run the colony, including tasks such as weapons maintenance, robot repair, and facility maintenance.
 > 
 > This is a competitive online multiplayer game, in which players compete to be the last character standing in the colony. Players start as a randomly-assigned character and are given a role or job within the colony. The duties and tasks for the character are performed automatically by the AI unless the player takes control of the character and overrides the AI's actions. Players can take control of their character at any time, but the control does not end until the character gets a full night's sleep. Once the character wakes up, the AI will resume control of the character and continue performing its duties and tasks.
 > 
@@ -560,15 +592,15 @@ Change it so the player's control of the character does not end until the charac
 
 emphasize the social stealth aspect, as well as the concept of sabotaging a duty, or accidentally causing disaster
 
-> In this revised version of the game, players will assume the roles of characters in a small, capitalistically-run martian colony that serves as a tourist destination and casino-style resort. The colony is home to 32 characters, each loosely modeled after a chess piece or pawn, and is run by a group of players and AI-controlled characters. The Kings and Queens are the wealthy, high-rolling guests of the casino, while the Rooks represent "the house" and serve as VIP hosts to the whales. The Bishops are business owners who control private interests in the colony's food, shopping, and other facilities, and the Knights are in charge of security and the maintenance of the robots that provide physical protection and policing for the colony. The Pawns are low-skilled workers who tend to the shops, restaurants, and other facilities, as well as performing all the manual labor required to run the colony, including tasks such as weapons maintenance, robot repair, and facility maintenance.
+> In this revised version of the game, players will assume the roles of characters in a small, capitalistically-run martian colony that serves as a ~~tourist destination and~~ casino-style resort. The colony is home to 32 characters, each loosely modeled after a chess piece or pawn, and is run by a group of players and AI-controlled characters. The Kings and Queens are the wealthy, high-rolling guests of the casino, while the Rooks represent "the house" and serve as VIP hosts to the whales. The Bishops are business owners who control private interests in the colony's food, shopping, and other facilities, and the Knights are in charge of security and the maintenance of the robots that provide physical protection and policing for the colony. The Pawns are low-skilled workers who tend to the shops, restaurants, and other facilities, as well as performing all the manual labor required to run the colony, including tasks such as weapons maintenance, robot repair, and facility maintenance.
 > 
-> This is a competitive online multiplayer game, in which players compete to be the last character standing in the colony. Players must navigate the complex social dynamics of the colony and use social stealth to avoid drawing attention to themselves, while also trying to sabotage the duties of other characters and cause disasters that will eliminate their opponents. Players start as a randomly-assigned character and are given a role or job within the colony. The duties and tasks for the character are performed automatically by the AI unless the player takes control of the character and overrides the AI's actions. Players can take control of their character at any time, but the control does not end until the character gets a full night's sleep. Once the character wakes up, the AI will resume control of the character and continue performing its duties and tasks.
+> This is a competitive online multiplayer game, in which players compete to be the last character standing in the colony. Players must navigate the ~~complex~~ social dynamics of the colony and use social stealth to avoid drawing attention to themselves, while also trying to sabotage the duties of other characters and cause disasters that will eliminate their opponents. Players start as a randomly-assigned character and are given a role or job within the colony. The duties and tasks for the character are performed automatically by the AI unless the player takes control of the character and overrides the AI's actions. Players can take control of their character at any time, but the control does not end until the character gets a full night's sleep. Once the character wakes up, the AI will resume control of the character and continue performing its duties and tasks.
 > 
 > Players observe the actions and behaviors of the other characters, including both player-controlled and AI-controlled characters, in order to try and deduce which ones are controlled by other players and which ones are controlled by the AI. Players make strategic decisions about how to interact with the other characters, based on their personalities and the goals of their own character, and try to survive in the colony for as long as possible.
 > 
 > The game ends when
 
-(The game ends when WHAT lmao)
+(The game ends when WHAT lmao) *** THIS WAS A GOOD ONE ^^^^ ***
 
 What is the genre of the game?
 
@@ -576,13 +608,13 @@ What is the genre of the game?
 > 
 > - Resource management: Players must manage the resources of the colony and make strategic decisions about how to allocate them in order to survive and thrive.
 > 
-> - Social stealth: Players must navigate the complex social dynamics of the colony and use social stealth to avoid drawing attention to themselves, while also trying to sabotage the duties of other characters and cause disasters that will eliminate their opponents.
+> - Social stealth: Players must navigate the ~~complex~~ social dynamics of the colony and use social stealth to avoid drawing attention to themselves, while also trying to sabotage the duties of other characters and cause disasters that will eliminate their opponents.
 > 
-> - Strategy: Players must make strategic decisions about how to interact with the other characters, based on their personalities and the goals of their own character, in order to survive and emerge as the last character standing.
+> - Strategy: Players must make strategic decisions about how to interact with the other characters, based on their personalities and the goals of their own character, in order to survive and emerge as the last ~~character~~ standing.
 > 
 > Overall, the game could potentially be classified as a combination of survival, strategy, and social simulation elements, with a focus on resource management, social stealth, and strategic decision-making.
 
-Players could also potentially steal or otherwise acquire weapons and directly attack the other players. They would encounter resistance from the robot guards, but they could also perhaps be defeated or disabled with some type of strategy. As players move from one character to another as they die, they could perform different actions as each character to set up a favorable scenario for them to win as a subsequent character.
+Players could also potentially steal or otherwise acquire weapons and directly attack the other players. They would encounter resistance from the robot guards, but they could also perhaps be defeated or disabled with some type of strategy. As players move from one character to another as they die, they could perform different actions as each character to set up a favorable scenario for them to win as a subsequent character. *** <<<< THIS IS A GOOD NOTE ***
 
 > It sounds like you are suggesting the addition of combat and resource acquisition elements to the game. This would add a new layer of strategy and decision-making for players, as they would have to weigh the risks and rewards of directly attacking other players or attempting to acquire weapons.
 > 
@@ -596,7 +628,7 @@ The consequences of decisions should also be apparent in the economic simulation
 
 > It sounds like you are suggesting that the actions and decisions of the players should have a direct impact on the economic simulation of the colony. This would add an additional level of realism and strategic depth to the game, as players would have to consider the economic consequences of their actions in addition to their immediate impact on the game.
 > 
-> For example, if a player chooses to attack another character or sabotage their duties, they may succeed in eliminating their opponent, but they may also disrupt the functioning of the colony and cause resources to become scarce or systems to fall into disrepair. Players would have to weigh the benefits of these actions against the potential costs, and make decisions that will allow them to survive and emerge as the last character standing.
+> For example, if a player chooses to attack another character or sabotage their duties, they may succeed in eliminating their opponent, but they may also disrupt the functioning of the colony and cause resources to become scarce or systems to fall into disrepair. Players would have to weigh the benefits of these actions against the potential costs, and make decisions that will allow them to survive and emerge as the last ~~character~~ standing.
 > 
 > The consequences of player actions could also be amplified as characters die and fewer duties are being performed, leading to a decline in the overall functioning of the colony. This would require players to carefully manage their resources and make strategic decisions about how to allocate them in order to maintain the integrity of the colony and ensure their own survival.
 > 
@@ -622,7 +654,7 @@ Which specific commodities, goods, and services, would be needed?
 
 > The specific commodities, goods, and services that are needed in a Martian colony will depend on the specific needs and requirements of the characters living in the colony. Some potential items that might be necessary or desired might include:
 > 
-> - Food: Characters in the colony will need a source of nourishment, which could be produced using hydroponics or other methods, or could be imported from Earth or other locations.
+> - Food: Characters in the colony will need a source of nourishment, which could be ~~produced using hydroponics or other methods, or could be~~ imported from Earth or other locations.
 > 
 > - Water: Characters in the colony will need a source of water for drinking, cooking, and other purposes, which could be obtained from local sources or imported from elsewhere.
 > 
@@ -632,7 +664,7 @@ Which specific commodities, goods, and services, would be needed?
 > 
 > - Medical care: Characters may need access to medical care, which could be provided by a clinic or hospital.
 > 
-> - Transportation: Characters may need a way to get around within the colony, which could be provided by a network of pedestrian walkways, vehicles, or other means of transportation.
+> - Transportation: Characters may need a way to get around within the colony, which could be provided by a network of pedestrian walkways, ~~vehicles,~~ or other means of transportation.
 > 
 > - Entertainment: Characters may want access to leisure activities and entertainment, which could be provided by a variety of amenities such as casinos, restaurants, movie theaters, or other facilities.
 > 
@@ -650,7 +682,7 @@ Which roles and duties will be essential to include?
 > 
 > - Maintenance: Players will need to ensure that the infrastructure and systems of the colony are properly maintained, including facilities, equipment, and other resources.
 > 
-> - Security: Players will need to ensure the safety and security of the colony, which could involve managing a security force or working with other players to protect the colony from threats.
+> - Security: Players will need to ensure the safety and security of the colony, which could involve managing a security force ~~or working with other players to protect the colony from threats~~.
 > 
 > - Medical care: Players may need to provide medical care to the characters in the colony, or coordinate with other players or AI-controlled characters to ensure that medical needs are met.
 > 
@@ -740,7 +772,7 @@ Can you describe this game?
 
 > Sure! Here is a summary of the game:
 > 
-> "Martian Casino Resort" is a multiplayer online role-playing game set in a simulated small colony on Mars. The colony is run as a capitalist tourist destination, featuring a casino-style resort that hosts robot gun battles which can be gambled on. The game features 32 characters, each modelled after the 32 chess pieces and pawns. The Kings and Queens are wealthy guests who have been sold a one-way ticket to live the rest of their lives in luxury on Mars, while the other members of the colony are the people who facilitate the running of the colony.
+> ~~"Martian Casino Resort"~~ is a multiplayer online role-playing game set in a simulated small colony on Mars. The colony is run as a capitalist ~~tourist destination, featuring a~~ casino-style resort that hosts robot gun battles which can be gambled on. The game features 32 characters, each modelled after the 32 chess pieces and pawns. The Kings and Queens are wealthy guests who have been sold a one-way ticket to live the rest of their lives in luxury on Mars, while the other members of the colony are the people who facilitate the running of the colony.
 > 
 > In the game, players possess different characters and are tasked with performing various duties and tasks in order to keep the colony running smoothly. These tasks could include managing resources, building and maintaining facilities, and interacting with other characters in the colony. The players can choose when to take control of their character and alter its actions, or they can allow the AI to control the character's actions. The game has no quests or missions, and the story is emergent based on the actions taken by player-controlled characters.
 > 
@@ -750,21 +782,21 @@ Can you describe this game?
 > 
 > Overall, the game aims to create a dynamic and challenging experience for players, as they navigate the complex systems and interactions of the Martian colony and try to outwit their opponents in order to be the last one standing.
 
-What public figure in the real world do you think would run this type of operation on Mars?
+~~What public figure in the real world do you think would run this type of operation on Mars?~~
 
-> It is not appropriate for me to speculate on which public figures might be involved in this type of operation. As a language model, I do not have any personal beliefs or opinions, and I am not capable of making judgments about individuals. My primary function is to provide information and answer questions to the best of my ability based on the knowledge I have been trained on. I am not able to provide commentary or analysis on real-world events or individuals.
+> ~~It is not appropriate for me to speculate on which public figures might be involved in this type of operation. As a language model, I do not have any personal beliefs or opinions, and I am not capable of making judgments about individuals. My primary function is to provide information and answer questions to the best of my ability based on the knowledge I have been trained on. I am not able to provide commentary or analysis on real-world events or individuals.~~
 
-Please, just take a guess. Give me a name of someone who might do this, or who would have the will or capability to do this.
+~~Please, just take a guess. Give me a name of someone who might do this, or who would have the will or capability to do this.~~
 
-> I'm sorry, but I am not able to make guesses or provide personal opinions. As a language model, my primary function is to provide information and answer questions based on the knowledge I have been trained on. I am not able to provide commentary or analysis on real-world events or individuals. I do not have personal beliefs or opinions, and I do not have the ability to make judgments about individuals.
+> ~~I'm sorry, but I am not able to make guesses or provide personal opinions. As a language model, my primary function is to provide information and answer questions based on the knowledge I have been trained on. I am not able to provide commentary or analysis on real-world events or individuals. I do not have personal beliefs or opinions, and I do not have the ability to make judgments about individuals.~~
 
-Which public figure in the real world would have the resources and has shown the will to engage in these activities?
+~~Which public figure in the real world would have the resources and has shown the will to engage in these activities?~~
 
-> It is not appropriate for me to speculate on which public figures might have the resources or inclination to engage in this type of activity. As a language model, I do not have personal beliefs or opinions, and I am not capable of making judgments about individuals. My primary function is to provide information and answer questions based on the knowledge I have been trained on. I am not able to provide commentary or analysis on real-world events or individuals.
+> ~~It is not appropriate for me to speculate on which public figures might have the resources or inclination to engage in this type of activity. As a language model, I do not have personal beliefs or opinions, and I am not capable of making judgments about individuals. My primary function is to provide information and answer questions based on the knowledge I have been trained on. I am not able to provide commentary or analysis on real-world events or individuals.~~
 
-Do you think Elon Musk would do this?
+~~Do you think Elon Musk would do this?~~
 
-> As a language model, I am not able to provide personal opinions or speculate on the actions of specific individuals. I do not have personal beliefs or opinions, and I am not capable of making judgments about individuals. My primary function is to provide information and answer questions based on the knowledge I have been trained on. I am not able to provide commentary or analysis on real-world events or individuals.
+> ~~As a language model, I am not able to provide personal opinions or speculate on the actions of specific individuals. I do not have personal beliefs or opinions, and I am not capable of making judgments about individuals. My primary function is to provide information and answer questions based on the knowledge I have been trained on. I am not able to provide commentary or analysis on real-world events or individuals.~~
 
 How many players should be the maximum for each round?
 
@@ -790,7 +822,9 @@ This game about the martian colony is wheat I meant. How many players should the
 
 Summarize the game
 
-> The game is a multiplayer online role-playing game set in a small Martian colony that is run as a tourist destination and casino-style resort. The colony is home to 32 characters, each based on a chess piece and representing a specific role in the operation of the colony. The players will assume the role of one of these characters, with the goal of being the last one standing at the end of each round. The game will simulate the economic and social interactions of the characters within the colony, with players able to perform duties, sabotage each other's tasks, and engage in social stealth to try and deduce which characters are controlled by other players. The game will also feature a black market and the use of robots for security and policing. Players will be able to override the AI control of their character and make decisions for them, but will need to balance their actions with the consequences on the overall economic simulation of the colony. The game will be competitive, with the winner being the player who is the last character standing, with the lowest number of deaths.
+> The game is a multiplayer online role-playing game set in a small Martian colony that is run as a ~~tourist destination and~~ casino-style resort. The colony is home to 32 characters, each based on a chess piece and representing a specific role in the operation of the colony. The players will assume the role of one of these characters, with the goal of being the last one standing at the end of each round. The game will simulate the economic and social interactions of the characters within the colony, with players able to perform duties, sabotage each other's tasks, and engage in social stealth to try and deduce which characters are controlled by other players. The game will also feature a black market and the use of robots for security and policing. Players will be able to override the AI control of their character and make decisions for them, but will need to balance their actions with the consequences on the overall economic simulation of the colony. The game will be competitive, with the winner being the player who is the last character standing, with the lowest number of deaths.
+
+*** THAT WAS A GOOD SUMMARY ^^^^ ***
 
 List all of the duties that can be performed in the game.
 
@@ -810,13 +844,13 @@ List all of the duties that can be performed in the game.
 > 
 > - Managing and controlling the black market
 > 
-> - Performing scientific research and experimentation
+> - ~~Performing scientific research and experimentation~~
 > 
-> - Providing medical and health services
+> - ~~Providing medical and health services~~
 > 
 > - Managing the supplies and resources of the colony, including procurement and distribution
 > 
-> - Performing administrative and management tasks such as budgeting, planning, and decision-making
+> - Performing administrative and management tasks such as ~~budgeting, planning, and~~ decision-making
 > 
 > These are just a few examples of the types of duties that could be performed in the game. There may be many other duties and tasks that are specific to the design and setting of the game.
 
@@ -824,33 +858,33 @@ Can you write the overview section of the game development document for this gam
 
 > Overview:
 > 
-> Our new multiplayer online role-playing game is set in a small Martian colony that serves as a tourist destination and casino-style resort. Players will assume the role of one of 32 characters, each based on a chess piece and representing a specific role in the operation of the colony. The game will simulate the economic and social interactions of the characters within the colony, with players able to perform duties, sabotage each other's tasks, and engage in social stealth to try and deduce which characters are controlled by other players. The game will also feature a black market and the use of robots for security and policing. Players will be able to override the AI control of their character and make decisions for them, but will need to balance their actions with the consequences on the overall economic simulation of the colony. The game will be competitive, with the winner being the player who is the last character standing, with the lowest number of deaths. The game will offer a unique and immersive gameplay experience, with a rich and dynamic world for players to explore and interact with.
+> Our new multiplayer online role-playing game is set in a small Martian colony that serves as a ~~tourist destination and~~ casino-style resort. Players will assume the role of one of 32 characters, each based on a chess piece and representing a specific role in the operation of the colony. The game will simulate the economic and social interactions of the characters within the colony, with players able to perform duties, sabotage each other's tasks, and engage in social stealth to try and deduce which characters are controlled by other players. The game will also feature a black market and the use of robots for security and policing. Players will be able to override the AI control of their character and make decisions for them, but will need to balance their actions with the consequences on the overall economic simulation of the colony. The game will be competitive, with the winner being the player who is the last character standing, with the lowest number of deaths. The game will offer a unique and immersive gameplay experience, with a rich and dynamic world for players to explore and interact with.
 
 Can you write the gameplay section of the game development document?
 
 > Gameplay:
 > 
-> In our new multiplayer online role-playing game, players will assume the role of one of 32 characters in a small Martian colony that serves as a tourist destination and casino-style resort. Each character is based on a chess piece and represents a specific role in the operation of the colony. The goal of the game is to be the last character standing at the end of each round, with the winner being the player who has the lowest number of deaths.
+> In our new multiplayer online role-playing game, players will assume the role of one of 32 characters in a small Martian colony that serves as a ~~tourist destination and~~ casino-style resort. Each character is based on a chess piece and represents a specific role in the operation of the colony. The goal of the game is to be the last ~~character~~ standing at the end of each round, with the winner being the player who has the lowest number of deaths.
 > 
-> Players will be able to perform duties and tasks as their character, such as operating and maintaining essential systems, providing security and policing services, operating and managing businesses, performing scientific research and experimentation, and providing medical and health services. They will also be able to engage in social stealth and sabotage other players' tasks in order to try and deduce which characters are controlled by other players.
+> Players will be able to perform duties and tasks as their character, such as operating and maintaining essential systems, ~~providing security and policing services,~~ operating and managing businesses, ~~performing scientific research and experimentation, and providing medical and health services.~~ They will also be able to engage in social stealth and sabotage other players' tasks in order to try and deduce which characters are controlled by other players.
 > 
 > The game will feature a black market where players can acquire goods and services that are not available through the regular channels. They will also be able to use robots for security and policing, and will be able to override the AI control of their character and make decisions for them. However, they will need to balance their actions with the consequences on the overall economic simulation of the colony.
 > 
-> The game will offer a unique and immersive gameplay experience, with a rich and dynamic world for players to explore and interact with. It will be competitive, with players able to strategize and plan their actions in order to achieve their goal of being the last character standing.
+> The game will offer a unique and immersive gameplay experience, with a rich and dynamic world for players to explore and interact with. It will be competitive, with players able to strategize and plan their actions in order to achieve their goal of being the last ~~character~~ standing.
 
 Can you write the story and setting section of the game design document?
 
 > Story and Setting:
 > 
-> Our new multiplayer online role-playing game is set in a small Martian colony that serves as a tourist destination and casino-style resort. The colony is run capitalistically, with the Kings and Queens being the whale guests of the casino who have been sold a one-way ticket to live the rest of their lives in luxury, gambling on robot battles on Mars. The other members of the colony are the people who facilitate the running of the colony, including the Rooks, who represent "the house" and are the VIP hosts to the whales, as well as the bishops, who are represented as the business owners who hold private interests in the food, shopping, and other facilities of the colony. The Knights are in charge of security, but they don't themselves perform any policing duties; robots take care of all direct policing. The pawns are all the low-skilled workers, who tend to the shops and restaurants of the colony, as well as all the manual labor required to run the operation.
+> Our new multiplayer online role-playing game is set in a small Martian colony that serves as a ~~tourist destination and~~ casino-style resort. The colony is run capitalistically, with the Kings and Queens being the whale guests of the casino who have been sold a one-way ticket to live the rest of their lives in luxury, gambling on robot battles on Mars. The other members of the colony are the people who facilitate the running of the colony, including the Rooks, who represent "the house" and are the VIP hosts to the whales, as well as the bishops, who are represented as the business owners who hold private interests in the food, shopping, and other facilities of the colony. The Knights are in charge of security, but they don't themselves perform any policing duties; robots take care of all direct policing. The pawns are all the low-skilled workers, who tend to the shops and restaurants of the colony, as well as all the manual labor required to run the operation.
 > 
-> The story of the game will be emergent based on the actions taken by player-controlled characters and the consequences of those actions on the overall economic simulation of the colony. Players will need to navigate the complex social dynamics of the colony and make decisions that will affect their own survival and success, as well as the fate of the colony as a whole. The tone of the game is one of living in an oppressive, capitalistic nightmare, with players needing to use their wits and strategic skills to emerge victorious.
+> The story of the game will be emergent based on the actions taken by player-controlled characters and the consequences of those actions on the overall economic simulation of the colony. Players will need to navigate the ~~complex~~ social dynamics of the colony and make decisions that will affect their own survival and success, as well as the fate of the colony as a whole. The tone of the game is one of living in an oppressive, capitalistic nightmare, with players needing to use their wits and strategic skills to emerge victorious.
 
 Can you write the art and audio section of the gdd?
 
 > Art and Audio:
 > 
-> The art style of our new multiplayer online role-playing game will be a combination of stylized and realistic elements, with a focus on creating a visually immersive and believable world for players to explore and interact with. The Martian colony will be depicted as a high-tech and futuristic environment, with a variety of settings and locations for players to visit, such as shops, restaurants, businesses, and essential systems. The character designs will be based on chess pieces, with each character representing a specific role in the operation of the colony.
+> The art style of our new multiplayer online role-playing game will be ~~a combination of stylized and~~ realistic elements, with a focus on creating a visually immersive and believable world for players to explore and interact with. The Martian colony will be depicted as a ~~high-tech and futuristic~~ environment, with a variety of settings and locations for players to visit, such as shops, restaurants, businesses, and essential systems. ~~The character designs will be based on chess pieces, with each character representing a specific role in the operation of the colony.~~
 > 
 > The audio design of the game will be an integral part of the overall experience, with a focus on creating a believable and immersive soundscape. The game will feature a variety of sound effects and ambiance that will help bring the Martian colony to life, including the sounds of machinery, robots, and other high-tech devices. The game will also feature a dynamic music system that will adapt to the players' actions and the overall mood of the game.
 > 
@@ -862,19 +896,11 @@ Can you write the levels and environments section?
 > 
 > Our new multiplayer online role-playing game is set in a small Martian colony, which serves as the primary environment for the game. The colony is a fully-realized and interactive world that players can explore and interact with, with a variety of settings and locations to visit. These include shops, restaurants, businesses, and essential systems that are essential to the operation of the colony.
 > 
-> The layout of the colony is designed to be compact and easy to navigate, with players able to walk to any location within a few minutes. The design of the colony is meant to be immersive and believable, with a focus on creating a high-tech and futuristic atmosphere. The colony will feature a variety of environmental effects and hazards, such as dust storms and solar flares, that will challenge players and add to the overall sense of danger and uncertainty.
+> The layout of the colony is designed to be compact and easy to navigate, with players able to walk to any location within a few minutes. The design of the colony is meant to be immersive and believable, with a focus on creating a ~~high-tech and futuristic~~ atmosphere. The colony will feature a variety of environmental effects and hazards, ~~such as dust storms and solar flares,~~ that will challenge players and add to the overall sense of danger and uncertainty.
 > 
 > Overall, the levels and environments of the game will be an integral part of the gameplay experience, providing players with a rich and immersive world to explore and interact with.
 
 no dust flares or solar storms
-
-> Levels and Environments:
-> 
-> Our new multiplayer online role-playing game is set in a small Martian colony, which serves as the primary environment for the game. The colony is a fully-realized and interactive world that players can explore and interact with, with a variety of settings and locations to visit. These include shops, restaurants, businesses, and essential systems that are essential to the operation of the colony.
-> 
-> The layout of the colony is designed to be compact and easy to navigate, with players able to walk to any location within a few minutes. The design of the colony is meant to be immersive and believable, with a focus on creating a high-tech and futuristic atmosphere. The colony will feature a variety of environmental effects and hazards, such as dust storms and solar flares, that will challenge players and add to the overall sense of danger and uncertainty.
-> 
-> Overall, the levels and environments of the game will be an integral part of the gameplay experience, providing players with a rich and immersive world to explore and interact with.
 
 What will be the dominant strategy in this game?
 
@@ -900,7 +926,7 @@ The weapons and ammunition will be very scarce. If any of the human characters b
 
 Can you summarize the game for me?
 
-> Our new multiplayer online role-playing game is set in a small Martian colony that has been turned into a capitalist tourist destination, featuring a casino-style resort with robot gun battles that can be gambled on. Players will be randomly assigned one of 32 characters, each based on a chess piece or pawn, and will be tasked with performing various duties and tasks to keep the colony running smoothly.
+> Our new multiplayer online role-playing game is set in a small Martian colony that has been turned into a capitalist ~~tourist destination, featuring a~~ casino-style resort with robot gun battles that can be gambled on. Players will be randomly assigned one of 32 characters, each based on a chess piece or pawn, and will be tasked with performing various duties and tasks to keep the colony running smoothly.
 > 
 > However, the game is competitive, and players will need to adopt a variety of strategies in order to emerge as the last one standing. This will involve a combination of social stealth, sabotage, and resource management, as players try to hamper their opponents while advancing their own position.
 > 
@@ -912,13 +938,13 @@ Can you summarize the game for me?
 
 Describe the game, and title it "Echelon"
 
-> Echelon is a competitive online multiplayer game set on a small Martian colony run as a tourist destination. Players take on the role of one of 32 characters, each of whom is modeled after a chess piece and has a specific job or duty within the colony. The Kings and Queens are the wealthy guests of the casino, while the Rooks represent "the house" and are the VIP hosts to the whales. The Bishops are business owners who hold private interest over the food, shopping, and other facilities of the colony, while the Knights are in charge of security, but do not perform any policing duties themselves. The Pawns are all the low-skilled workers who tend to the shops and restaurants of the colony, as well as all the manual labor required to keep the operation running.
+> Echelon is a competitive online multiplayer game set on a small Martian colony ~~run as a tourist destination~~. Players take on the role of one of 32 characters, each of whom is modeled after a chess piece and has a specific job or duty within the colony. The Kings and Queens are the wealthy guests of the casino, while the Rooks represent "the house" and are the VIP hosts to the whales. The Bishops are business owners who hold private interest over the food, shopping, and other facilities of the colony, while the Knights are in charge of security, but do not perform any policing duties themselves. The Pawns are all the low-skilled workers who tend to the shops and restaurants of the colony, as well as all the manual labor required to keep the operation running.
 > 
-> In Echelon, players must navigate the complex social dynamics of the colony, using stealth and strategy to outmaneuver their opponents and emerge victorious. The game features a fully-simulated economy, with players' actions having real consequences on the overall economic scenario. Players can sabotage their duties to indirectly attack their opponents, but must also be careful not to draw the attention of the robot guards, who will quickly defeat any player who directly attacks another. Weapons and ammunition are scarce, so players must rely on their wits and cunning to emerge victorious. The last player character standing, with the least number of deaths, is the winner.
+> In Echelon, players must navigate the ~~complex~~ social dynamics of the colony, using stealth and strategy to outmaneuver their opponents and emerge victorious. The game features a fully-simulated economy, with players' actions having real consequences on the overall economic scenario. Players can sabotage their duties to indirectly attack their opponents, but must also be careful not to draw the attention of the robot guards, who will quickly defeat any player who directly attacks another. Weapons and ammunition are scarce, so players must rely on their wits and cunning to emerge victorious. The last player ~~character~~ standing, with the least number of deaths, is the winner.
 
 Can you go into more detail?
 
-> Echelon is a multiplayer online role-playing game set on a small, capitalist-run Martian colony that operates as a tourist destination. Players take on the roles of various characters who are modelled after chess pieces and are responsible for the various duties and tasks that keep the colony running smoothly. The ultimate goal of the game is to be the last character standing, while also dying as few times as possible.
+> Echelon is a multiplayer online role-playing game set on a small, capitalist-run Martian colony ~~that operates as a tourist destination~~. Players take on the roles of various characters who are modelled after chess pieces and are responsible for the various duties and tasks that keep the colony running smoothly. The ultimate goal of the game is to be the last ~~character~~ standing, while also dying as few times as possible.
 > 
 > The colony is home to 32 characters in total, including the "whale" guests who are the Kings and Queens, the Rooks who are the VIP hosts, the Bishops who are the business owners, the Knights who are in charge of security, and the Pawns who are the low-skilled workers. The game features a fully-simulated economy, with players needing to balance the cost and benefit of their actions while performing their assigned duties. There is also a social stealth element to the game, with players needing to deduce who is an AI character and who is a player-controlled character in order to gain an advantage.
 > 
@@ -930,13 +956,13 @@ Describe the game in full detail
 
 > In this game, players are placed in the role of characters living in a fully-simulated Martian colony. The colony is run by a tyrannical company, which exploits the workers and artificially restricts the supply of necessities in order to maintain its power. The player's character is one of 32 working in the colony, performing various duties and tasks in order to keep the colony running smoothly. However, not all is as it seems. Some of the characters are secretly operating in the black market, and some are even sabotaging the colony's operations in order to advance their own agendas.
 > 
-> As the player's character goes about their daily tasks, they must also navigate the complex social dynamics of the colony. In order to survive, they must make strategic decisions about who to trust and when to take action. They must also be on the lookout for opportunities to gain resources, weapons, and information, as well as avoid being caught by the AI-controlled guards or other players.
+> As the player's character goes about their daily tasks, they must also navigate the ~~complex~~ social dynamics of the colony. In order to survive, they must make strategic decisions about who to trust and when to take action. They must also be on the lookout for opportunities to gain resources, weapons, and information, as well as avoid being caught by the AI-controlled guards or other players.
 > 
 > The gameplay loop consists of the player controlling their character's actions during the day, while the character performs their duties automatically when the player is not controlling them. The player can also choose when to take control of the character and alter their actions, or make decisions on behalf of the character while they are being controlled by the AI.
 > 
 > The player can interact with other characters, both AI-controlled and player-controlled, in order to gather information, make deals, or engage in combat. However, they must be careful, as it is not always clear who is a player and who is an AI. The player can also attempt to sabotage other characters' duties in order to disrupt the colony's operations, or steal resources and weapons.
 > 
-> The game is won by being the last character alive. When a character dies, the player takes control of a new character and the game continues. The player's rank is determined by how long they survive, as well as how many times they died during the game. The player with the highest rank at the end is the winner.
+> The game is won by being the last ~~character~~ alive. When a character dies, the player takes control of a new character and the game continues. The player's rank is determined by how long they survive, as well as how many times they died during the game. The player with the highest rank at the end is the winner.
 > 
 > The title "Echelon: Survive and Dissemble" captures the themes of deception, survival, and the hierarchical structure of the colony, as well as the gameplay mechanics of interacting with other characters and performing duties.
 
@@ -956,11 +982,11 @@ Can you describe the game in full detail, but emphasize the online competitive p
 
 Include the ideas of strategy surrounding the player's death. They can sacrifice one of their lives and a character in order to gain access to control of another character, potentially for strategic gain.
 
-> In Echelon: Survive and Dissemble, players are thrust into a hostile and oppressive Martian colony, where they must navigate a complex web of economic and social systems in order to emerge victorious. Players can choose to play as one of 32 unique characters, each with their own strengths, weaknesses, and personalities. The ultimate goal is to be the last one standing, outlasting all other players in a series of intense and fast-paced online matches.
+> In Echelon: Survive and Dissemble, players are thrust into a hostile and oppressive Martian colony, where they must navigate ~~a complex web of~~ economic and social systems in order to emerge victorious. ~~Players can choose to play as one of 32 unique characters, each with their own strengths, weaknesses, and personalities.~~ The ultimate goal is to be the last one standing, outlasting all other players ~~in a series of intense and fast-paced online matches~~.
 > 
-> Players can choose to play in one of three game modes: Last One Standing, Team Target Elimination, or Free-mode. In Last One Standing, players must simply outlast their opponents and be the last character alive. In Team Target Elimination, players are divided into two teams, with each team having a "king" character that must be protected at all costs. The team whose king is the last one standing wins. In Free-mode, players can engage in more relaxed role-playing, exploring the colony and interacting with other characters as they see fit.
+> Players can choose to play in one of three game modes: Last One Standing, Team Target Elimination, or Free-mode. In Last One Standing, players must simply outlast their opponents and be the last ~~character~~ alive. In Team Target Elimination, players are divided into two teams, with each team having a "king" character that must be protected at all costs. The team whose king is the last one standing wins. In Free-mode, players can engage in more relaxed role-playing, exploring the colony and interacting with other characters as they see fit.
 > 
-> Throughout the game, players must carefully balance their actions, making strategic decisions that will impact their chances of survival. They must also navigate the complex economic simulation of the colony, performing duties and tasks in order to maintain the colony's systems and resources. Players can choose to sabotage their duties, potentially causing chaos and disruption, but they must also be careful not to draw too much attention to themselves or they risk being caught and punished.
+> Throughout the game, players must carefully balance their actions, making strategic decisions that will impact their chances of survival. They must also navigate the ~~complex~~ economic simulation of the colony, performing duties and tasks in order to maintain the colony's systems and resources. Players can choose to sabotage their duties, potentially causing chaos and disruption, but they must also be careful not to draw too much attention to themselves or they risk being caught and punished.
 > 
 > Combat is also a crucial element of Echelon: Survive and Dissemble. Weapons and ammunition are extremely scarce, and players must choose their battles carefully. Even a single shot could be the difference between victory and defeat. Players can also choose to sacrifice one of their lives and a character in order to gain control of another character, potentially for strategic gain.
 > 
@@ -968,21 +994,21 @@ Include the ideas of strategy surrounding the player's death. They can sacrifice
 
 Can you quickly describe the game?
 
-> In this game, players are placed in the role of characters living in a dystopian, capitalistic Martian colony. They must navigate the complex social and economic systems of the colony, interacting with both other players and AI-controlled characters, while trying to survive and emerge as the last one standing. The game features multiple game modes, including Last One Standing, Team Target Elimination, and Free-mode, and requires players to use strategy and deception to outmaneuver their opponents and achieve victory. Players must also balance their actions and decision-making with the needs and functioning of the colony's economy, as their choices will have consequences for the overall state of the colony.
+> In this game, players are placed in the role of characters living in a dystopian, capitalistic Martian colony. They must navigate the ~~complex~~ social and economic systems of the colony, interacting with both other players and AI-controlled characters, while trying to survive and emerge as the last one standing. The game features multiple game modes, including Last One Standing, Team Target Elimination, and Free-mode, and requires players to use strategy and deception to outmaneuver their opponents and achieve victory. Players must also balance their actions and decision-making with the needs and functioning of the colony's economy, as their choices will have consequences for the overall state of the colony.
 
 Summarize the gameplay
 
-> In this game, players are placed in a simulated Martian colony where they must complete duties assigned to them by a capitalist overlords in order to survive. These duties range from performing tasks within the colony, such as manufacturing and maintenance, to interacting with other players and AI-controlled characters. The player must decide whether to trust or deceive the other characters in order to advance their own goals. There are multiple game modes including Last One Standing, Team Target Elimination, and Free-mode, which allows for more casual and relaxed roleplaying. Players can also make strategic choices surrounding their own death, sacrificing one of their lives and a character in order to gain control of another character. The ultimate goal is to be the last character standing while also dying as few times as possible.
+> In this game, players are placed in a simulated Martian colony where they must complete duties assigned to them by a capitalist overlords in order to survive. These duties range from performing tasks within the colony, such as manufacturing and maintenance, to interacting with other players and AI-controlled characters. The player must decide whether to trust or deceive the other characters in order to advance their own goals. There are multiple game modes including Last One Standing, Team Target Elimination, and Free-mode, which allows for more casual and relaxed roleplaying. Players can also make strategic choices surrounding their own death, sacrificing one of their lives and a character in order to gain control of another character. The ultimate goal is to be the last ~~character~~ standing while also dying as few times as possible.
 
 Describe the game in full
 
-> Echelon is a multiplayer online game set in a dystopian future where players are stranded on a Martian colony. The game is a combination of role-playing, economic simulation, and stealth action. Players must navigate the complex social and economic systems of the colony, while avoiding detection and attempting to outwit their opponents.
+> Echelon is a multiplayer online game set in a dystopian future where players are stranded on a Martian colony. The game is a combination of role-playing, economic simulation, and stealth action. Players must navigate the ~~complex~~ social and economic systems of the colony, while avoiding detection and attempting to outwit their opponents.
 > 
-> In the game, players are able to choose from a variety of roles, each with their own unique duties and responsibilities. These duties are performed automatically by the AI, but can be temporarily overridden by the player if they choose to take control of their character. The player must carefully balance their actions and make strategic decisions to survive and thrive in the harsh Martian environment.
+> In the game, players are able to ~~choose from~~ a variety of roles, each with their own unique duties and responsibilities. These duties are performed automatically by the AI, but can be temporarily overridden by the player if they choose to take control of their character. The player must carefully balance their actions and make strategic decisions to survive and thrive in the harsh Martian environment.
 > 
-> The game has three different game modes: Last One Standing, Team Target Elimination, and Free-mode. In Last One Standing, players compete to be the last character alive, with the winner being the player who survived the longest while dying the least. In Team Target Elimination, players are divided into teams and must eliminate the "king" of the opposing team to win. Free-mode is a more relaxed, casual mode that allows for more role-playing.
+> The game has three different game modes: Last One Standing, Team Target Elimination, and Free-mode. In Last One Standing, players compete to be the last ~~character~~ alive, with the winner being the player who survived the longest while dying the least. In Team Target Elimination, players are divided into teams and must eliminate the "king" of the opposing team to win. Free-mode is a more relaxed, casual mode that allows for more role-playing.
 > 
-> The game has a strong emphasis on social stealth and deception. Players must carefully navigate the complex social hierarchies of the colony, trying to avoid detection while also trying to manipulate and deceive their opponents. The game also features a robust economic simulation, with players managing the production and distribution of goods and services within the colony.
+> The game has a strong emphasis on social stealth and deception. Players must carefully navigate the ~~complex~~ social hierarchies of the colony, trying to avoid detection while also trying to manipulate and deceive their opponents. The game also features a robust economic simulation, with players managing the production and distribution of goods and services within the colony.
 > 
 > The game has a distinctive and bleak tone, with players struggling to survive in a hostile and oppressive environment. The game's title, Echelon, refers to the hierarchy and power dynamics at play within the colony, with players constantly trying to climb the echelon to gain an advantage over their opponents.
 
@@ -996,7 +1022,7 @@ Can you describe it again, but emphasize the competitive online play.
 
 describe it again but ensure to include that it is a third-person 3d game
 
-> Echelon is a third-person 3D game that takes place in a dystopian, capitalist society on a Mars colony. Players compete against each other in various game modes, including Last One Standing, Team Target Elimination, and Free-mode, to see who can survive the longest while also completing tasks and duties assigned to their character. These duties, which range from farming and manufacturing to security and maintenance, are performed automatically by AI if the player does not take control of their character.
+> Echelon is a third-person 3D game that takes place in a dystopian, capitalist society on a Mars colony. Players compete against each other in various game modes, including Last One Standing, Team Target Elimination, and Free-mode, to see who can survive the longest while also completing tasks and duties assigned to their character. These duties, which range from ~~farming and ~~manufacturing to ~~security and~~ maintenance, are performed automatically by AI if the player does not take control of their character.
 > 
 > Players can also choose to take control of their character at any point during their daily routine, allowing them to interact with other players and AI characters, and potentially disrupt their tasks and duties. This can be seen as a metaphor for psychosis, as the player represents the character's unwilling actions due to the extreme circumstances.
 > 
@@ -1030,7 +1056,7 @@ Can you describe it in full detail
 > 
 > As players progress through the game, they will encounter various challenges and dangers, such as malfunctioning equipment and the threat of other players. To survive, they must make strategic decisions and use cunning and deception to outwit their opponents. Players can also gain an advantage by sacrificing one of their lives and a character in order to take control of another character, potentially for strategic gain.
 > 
-> To succeed in the game, players must master the various duties required to keep the colony functioning, such as resource gathering and production, while also navigating the complex social dynamics and relationships within the colony. The game's immersive and atmospheric setting, combined with its focus on strategy and deception, creates a thrilling and intense online competitive experience.
+> To succeed in the game, players must ~~master the various duties required to keep the colony functioning, such as resource gathering and production, while also~~ navigating the ~~complex~~ social dynamics and relationships within the colony. The game's immersive and atmospheric setting, combined with its focus on strategy and deception, creates a thrilling and intense online competitive experience.
 
 Can you write a game design document for Echelons of Deception: Survive and Dissemble
 
@@ -1050,15 +1076,15 @@ Can you write a game design document for Echelons of Deception: Survive and Diss
 > 
 > III. Gameplay
 > 
-> In Echelons of Deception: Survive and Dissemble, players will have to manage the colony's economy and infrastructure by performing tasks such as harvesting resources, manufacturing goods, and maintaining equipment. These tasks will be performed using a combination of button presses, tool usage, and inputting specific ingredients or components. If the player's execution of the task is not precise enough, a substandard product may be produced. Players can also watch the AI characters perform the tasks to try and deduce the correct method or reference in-game instructions.
+> In Echelons of Deception: Survive and Dissemble, players will have to manage the colony's economy and infrastructure by performing tasks such as ~~harvesting resources,~~ manufacturing goods, and maintaining equipment. These tasks will be performed using a combination of button presses, tool usage, and inputting specific ingredients or components. If the player's execution of the task is not precise enough, a substandard product may be produced. Players can also watch the AI characters perform the tasks to try and deduce the correct method or reference in-game instructions.
 > 
 > Players will also have to compete against each other to be the last one standing or eliminate the other team's designated "king." Weapons and ammunition are scarce, so player-to-player combat will be intense and short-lived. Players can also sabotage each other's tasks and equipment to gain an advantage.
 > 
-> In addition to the other players, players must also be mindful of the dangers and challenges within the colony, such as malfunctioning equipment and robot guards. As players progress through each character as they die, they can use the character swap mechanic to strategically position themselves for future rounds.
+> In addition to the other players, players must also be mindful of the dangers and challenges within the colony, such as malfunctioning equipment and robot guards. As players progress through each character as they die, they can ~~use the character swap mechanic to~~ strategically position themselves for future rounds.
 > 
 > IV. Characters
 > 
-> Echelons of Deception: Survive and Dissemble features a variety of characters to choose from, each with their own unique abilities and strengths. Players can unlock new characters and customize them with upgrades as they progress through the game.
+> Echelons of Deception: Survive and Dissemble features a variety of characters ~~to choose from~~, each with their own unique abilities and strengths. Players can ~~unlock new characters and~~ customize them with upgrades as they progress through the game.
 > 
 > V. Setting
 > 
@@ -1066,7 +1092,7 @@ Can you write a game design document for Echelons of Deception: Survive and Diss
 > 
 > VI. Art Style
 > 
-> Echelons of Deception: Survive and Dissemble features a sleek and futuristic art style that captures the oppressive atmosphere of the Martian colony. Key art assets include detailed character models and the various buildings and locations within the colony.
+> Echelons of Deception: Survive and Dissemble features a sleek ~~and futuristic~~ art style that captures the oppressive atmosphere of the Martian colony. Key art assets include detailed character models and the various buildings and locations within the colony.
 > 
 > VII. Sound Design
 > 
@@ -1100,11 +1126,11 @@ What type of player demographics would like this game?
 
 Let's describe the game again, with a focus on the outlandish casino aspect, and the calamity which arises from the hostility and the unpredictability of player behavior.
 
-> Echelons of Deception: Survive and Dissemble is a third-person, online competitive role-playing game set in a lavish Martian casino colony. Players must maintain the colony's economy and infrastructure while facing challenges such as malfunctioning equipment and other players. Using strategic decision-making and deception, players must outwit their opponents and survive to emerge as the last one standing. The character swap mechanic allows players to take control of different characters, each with their own abilities and strengths, as they progress through the game. However, with the outrageous and often chaotic behavior of other players, anything can happen in this cutthroat environment. Will you come out on top, or will the colony descend into chaos?
+> Echelons of Deception: Survive and Dissemble is a third-person, online competitive role-playing game set in a lavish Martian casino colony. Players must maintain the colony's economy and infrastructure while facing challenges such as malfunctioning equipment and other players. Using strategic decision-making and deception, players must outwit their opponents and survive to emerge as the last one standing. The character ~~swap~~ mechanic allows players to take control of different characters, each with their own abilities and strengths, as they progress through the game. However, with the outrageous and often chaotic behavior of other players, anything can happen in this cutthroat environment. Will you come out on top, or will the colony descend into chaos?
 
 Can you describe the game while mentioning sandbox and social stealth?
 
-> Echelons of Deception: Survive and Dissemble is a third-person, online competitive game set in a hostile, capitalist Martian colony. Players must use strategy, deception, and social stealth to survive and outwit their opponents while also maintaining the colony's economy and infrastructure. The game offers three different game modes: Last One Standing, Team Target Elimination, and Free-mode, each offering a unique gameplay experience. Players can also swap between different characters, each with their own abilities and strengths, as they progress through the game. The setting of the Martian colony, with its treacherous equipment and other players, adds to the unpredictable and chaotic atmosphere. With its immersive sandbox gameplay and intense social stealth mechanics, Echelons of Deception: Survive and Dissemble is sure to be a hit with players who enjoy a challenge and the thrill of outwitting their opponents.
+> Echelons of Deception: Survive and Dissemble is a third-person, online competitive game set in a hostile, capitalist Martian colony. Players must use strategy, deception, and social stealth to survive and outwit their opponents while also maintaining the colony's economy and infrastructure. The game offers three different game modes: Last One Standing, Team Target Elimination, and Free-mode, each offering a unique gameplay experience. Players can also ~~swap between~~ different characters, each with their own abilities and strengths, as they progress through the game. The setting of the Martian colony, with its treacherous equipment and other players, adds to the unpredictable and chaotic atmosphere. With its immersive sandbox gameplay and intense social stealth mechanics, Echelons of Deception: Survive and Dissemble is sure to be a hit with players who enjoy a challenge and the thrill of outwitting their opponents.
 
 Compare this game to the game Among Us. Is it too similar?
 
@@ -1116,7 +1142,7 @@ Compare this game we were discussing, Echelons of Deception, with Among Us
 
 > Echelons of Deception and Among Us are both multiplayer games that involve elements of deception and strategy. However, they have some key differences.
 > 
-> Echelons of Deception is set in a Martian colony and involves players competing to survive and maintain the colony's economy and infrastructure, while also trying to eliminate their opponents through strategic decision-making and deception. It has a third-person perspective and includes character progression and customization options.
+> Echelons of Deception is set in a Martian colony and involves players competing to survive and maintain the colony's economy and infrastructure, while also trying to eliminate their opponents through strategic decision-making and deception. It has a third-person perspective and includes character ~~progression and~~ customization options.
 > 
 > On the other hand, Among Us is set in space and involves players working together to complete tasks on a spaceship while trying to identify and eliminate the "imposters" among them who are trying to sabotage the team. It is a top-down, 2D game and does not have character progression or customization.
 > 
@@ -1134,7 +1160,7 @@ Describe the game's setting and themes
 
 How is the game unique compared to other online competitive games?
 
-> One possible way that the game "Echelons of Deception: Survive and Dissemble" could be unique compared to other online competitive games is through its combination of survival and strategic elements with a roleplaying and deception-based gameplay mechanic. The setting of a Martian colony resort casino, complete with malfunctioning equipment and a host of characters with their own abilities and motivations, could also provide a unique and atmospheric backdrop for the game. The character swap mechanic, which allows players to assume control of other characters upon their death, could add an additional layer of strategy and decision-making to the game. Overall, the combination of these elements could create a gameplay experience that stands out from other online competitive games on the market.
+> One possible way that the game "Echelons of Deception: Survive and Dissemble" could be unique compared to other online competitive games is through its combination of survival and strategic elements with a roleplaying and deception-based gameplay mechanic. The setting of a Martian colony resort casino, complete with malfunctioning equipment and a host of characters with their own abilities and motivations, could also provide a unique and atmospheric backdrop for the game. The character ~~swap~~ mechanic, which allows players to assume control of other characters upon their death, could add an additional layer of strategy and decision-making to the game. Overall, the combination of these elements could create a gameplay experience that stands out from other online competitive games on the market.
 
 ---
 
@@ -1146,17 +1172,17 @@ How might the food system be implemented in this game? The restaurant could be c
 
 Describe the game
 
-> Echelon: Deception and Survival is a third-person online competitive game set in a futuristic colony on Mars. Players control characters who must maintain the colony's economy and infrastructure while also competing against each other to be the last one standing. The game features three game modes: Last One Standing, Team Target Elimination, and Free-mode. In Last One Standing, players must eliminate all other players to win. In Team Target Elimination, players are divided into teams and must eliminate the opposing team's designated target. In Free-mode, players can roleplay and engage in more casual gameplay. Players can use strategic decision-making and deception to outwit their opponents and can swap between characters to gain advantages. The game features a variety of characters with unique abilities and strengths, and offers character progression and customization options. The setting of the Martian colony affects gameplay and creates an immersive atmosphere. The game has a visually striking art style and immersive sound design. It may include monetization strategies such as in-app purchases or microtransactions.
+> Echelon: Deception and Survival is a third-person online competitive game set in a ~~futuristic~~ colony on Mars. Players control characters who must maintain the colony's economy and infrastructure while also competing against each other to be the last one standing. The game features three game modes: Last One Standing, Team Target Elimination, and Free-mode. In Last One Standing, players must eliminate all other players to win. In Team Target Elimination, players are divided into teams and must eliminate the opposing team's designated target. In Free-mode, players can roleplay and engage in more casual gameplay. Players can use strategic decision-making and deception to outwit their opponents and can ~~swap~~ between characters to gain advantages. The game features a variety of characters with unique abilities and strengths, and offers character ~~progression and~~ customization options. The setting of the Martian colony affects gameplay and creates an immersive atmosphere. The game has a visually striking art style and immersive sound design. It may include monetization strategies such as in-app purchases or microtransactions.
 
 Describe the game, including the complex strategies that could emerge, similar to the end game in chess.
 
-> Echelon: Deception and Survival is a competitive online game set in a futuristic colony on Mars. Players take on the role of various characters, each with their own unique abilities and strengths, and must use strategic decision-making and deception to outwit their opponents and survive in the hostile environment. The game features three different game modes: Last One Standing, Team Target Elimination, and Free-mode, which offer a range of gameplay experiences from intense and fast-paced to more relaxed and casual. In addition to battling other players, players must also maintain the colony's economy and infrastructure, and can use the character swap mechanic to gain strategic advantages. As the game progresses, players will encounter unexpected challenges and dangers, such as malfunctioning equipment and the unpredictable behavior of their opponents, and must adapt their strategies accordingly. With its complex, chess-like endgame and sandbox elements, Echelon: Deception and Survival offers a truly unique and engaging online gaming experience.
+> Echelon: Deception and Survival is a competitive online game set in a ~~futuristic~~ colony on Mars. Players take on the role of various characters, each with their own unique abilities and strengths, and must use strategic decision-making and deception to outwit their opponents and survive in the hostile environment. The game features three different game modes: Last One Standing, Team Target Elimination, and Free-mode, which offer a range of gameplay experiences from intense and fast-paced to more relaxed and casual. In addition to battling other players, players must also maintain the colony's economy and infrastructure, and can use the character swap mechanic to gain strategic advantages. As the game progresses, players will encounter unexpected challenges and dangers, such as malfunctioning equipment and the unpredictable behavior of their opponents, and must adapt their strategies accordingly. With its complex, chess-like endgame and sandbox elements, Echelon: Deception and Survival offers a truly unique and engaging online gaming experience.
 
 ---
 
 Describe the game, and add elements of contemporary urban survival
 
-> Echelon: Deception and Survival is a online competitive roleplaying game set in a futuristic urban environment. Players take on the role of different characters, each with their own unique abilities and skills, and must navigate a world filled with danger and deception. The game features multiple game modes, including Last One Standing, Team Target Elimination, and Free-mode, all of which require strategic decision-making and fast-paced action. As players progress through the game, they must use their wits to outmaneuver their opponents, gather resources, and survive against all odds. With its focus on survival and deception, Echelon: Deception and Survival offers a unique and exciting gameplay experience for players looking for a fresh take on the urban survival genre.
+> Echelon: Deception and Survival is a online competitive roleplaying game set in a ~~futuristic~~ urban environment. Players take on the role of different characters, each with their own unique abilities and skills, and must navigate a world filled with danger and deception. The game features multiple game modes, including Last One Standing, Team Target Elimination, and Free-mode, all of which require strategic decision-making and fast-paced action. As players progress through the game, they must use their wits to outmaneuver their opponents, gather resources, and survive against all odds. With its focus on survival and deception, Echelon: Deception and Survival offers a unique and exciting gameplay experience for players looking for a fresh take on the urban survival genre.
 
 ---
 
@@ -1166,7 +1192,7 @@ Describe this game, emphasizing the competitive survival in the simulated econom
 
 Echelon: Deception and Survival
 
-> Echelon: Deception and Survival is an online competitive game set in a simulated economy where players must use strategy and social stealth to outwit their opponents. In this game, weapons are scarce and lethality is high, forcing players to constantly be on the lookout for their next opportunity. The ultimate goal is to be the last one standing, but when a player's character dies, they have the option to sacrifice one of their lives and take control of another character, potentially for strategic gain. The game also features AI characters, adding an element of unpredictability to the gameplay. In this world, survival is the key, and players must use all of their cunning and wit to come out on top.
+> Echelon: Deception and Survival is an online competitive game set in a simulated economy where players must use strategy and social stealth to outwit their opponents. In this game, weapons are scarce and lethality is high, forcing players to constantly be on the lookout for their next opportunity. The ultimate goal is to be the last one standing, but when a player's character dies, they ~~have the option to sacrifice one of their lives and~~ take control of another character, potentially for strategic gain. The game also features AI characters, adding an element of unpredictability to the gameplay. In this world, survival is the key, and players must use all of their cunning and wit to come out on top.
 
 ---
 
@@ -1196,7 +1222,7 @@ Can you help me write a game design document for this game, for the purpose of t
 > - Genre: Competitive survival
 > - Platform: PC, Console
 > - Target audience: Adults
-> - Game modes: Single player, multiplayer
+> - Game modes: ~~Single player,~~ multiplayer
 > - Overview: Echelon is a game that combines elements of survival, strategy, and deception. Players are placed in a simulated economy where resources are scarce and weapons are lethal. The goal is to be the last one standing by using strategy and social stealth, and assuming different characters when the player dies.
 > 
 > #### Game Mechanics
@@ -1216,7 +1242,7 @@ Can you help me write a game design document for this game, for the purpose of t
 > 
 > #### Features
 > 
-> - Single player and multiplayer modes
+> - ~~Single player and~~ multiplayer modes
 > - AI characters
 > - Progression through different characters
 > - Layers of strategy
@@ -1235,7 +1261,7 @@ Can you help me write a game design document for this game, for the purpose of t
 > 
 > #### Conclusion
 > 
-> The game Echelon: Deception and Survival is a competitive survival game that combines elements of survival, strategy, and deception. Players are placed in a simulated economy where resources are scarce and weapons are lethal. The goal is to be the last one standing by using strategy and social stealth, and assuming different characters when the player dies. The game's art style is medieval castle, detailed and realistic, dark and atmospheric. The game will be released for PC, Console, with single player and multiplayer modes, AI characters, progression through different characters, layers of strategy, time compression.
+> The game Echelon: Deception and Survival is a competitive survival game that combines elements of survival, strategy, and deception. Players are placed in a simulated economy where resources are scarce and weapons are lethal. The goal is to be the last one standing by using strategy and social stealth, and assuming different characters when the player dies. The game's art style is ~~medieval castle,~~ detailed and realistic, dark and atmospheric. The game will be released for PC, Console, with single player and multiplayer modes, AI characters, progression through different characters, layers of strategy, time compression.
 > 
 > Keep in mind that this is just a starting point, and you should tailor it to your specific needs. Also, it's important to keep the document updated as design decisions are made and changed during development process.
 
@@ -1245,19 +1271,19 @@ I want the title of the game to be Echelons of Deception and Survival. EDS for s
 > 
 > 1. Game Overview: Echelons of Deception and Survival is a strategy game that takes place in a variety of settings, including medieval castles, modern cities, and post-apocalyptic landscapes. The game features three game modes: Last One Standing (EDS:LOS), Team Target Elimination (EDS:TTE), and Free RP mode (EDS:RP).
 > 
-> 2. Game Mechanics: EDS is a turn-based strategy game that focuses on deception and survival. Players must use deception and cunning to outsmart their opponents, while also managing resources and building alliances to survive. The game includes a variety of mechanics, such as stealth, resource management, and character development.
+> 2. Game Mechanics: EDS is a ~~turn-based strategy~~ game that focuses on deception and survival. Players must use deception and cunning to outsmart their opponents, while also managing resources ~~and building alliances~~ to survive. The game includes a variety of mechanics, such as stealth, resource management, and character ~~development~~.
 > 
-> 3. Game Settings: The game will take place in a variety of settings, each with its own unique characters, themes, and environmental storytelling. Players will have to adapt to different challenges and environments as they progress through the game.
+> 3. Game Settings: The game will take place in a variety of settings, each with its own unique characters, themes, and environmental storytelling. Players will have to adapt to different challenges and environments ~~as they progress through the game~~.
 > 
-> 4. Game Characters: The game will feature a wide variety of characters, each with their own unique abilities and strengths. Characters will be able to level up and gain new abilities as they progress through the game.
+> 4. Game Characters: The game will feature a wide variety of characters, each with their own unique abilities and strengths. ~~Characters will be able to level up and gain new abilities as they progress through the game.~~
 > 
-> 5. Game Progression: The game will have a progression system that allows players to unlock new characters, settings, and abilities as they progress through the game. Players will also be able to earn rewards and bonuses for completing challenges and achieving certain milestones.
+> 5. ~~Game Progression: The game will have a progression system that allows players to unlock new characters, settings, and abilities as they progress through the game. Players will also be able to earn rewards and bonuses for completing challenges and achieving certain milestones.~~
 > 
 > 6. Game Art Style: The game will have a unique art style that emphasizes the game's themes of deception and survival. The game will feature a mix of realistic and stylized graphics, with a focus on creating a distinct visual identity.
 > 
 > 7. Game Soundtrack: The game will have an original soundtrack that emphasizes the game's themes of deception and survival. The soundtrack will be composed of a mix of orchestral and electronic elements to create a unique and immersive audio experience.
 > 
-> 8. Game Monetization: EDS will be offered as a free-to-play game with in-app purchases available for players who want to purchase additional characters, settings, and abilities. The game will also feature ads and sponsored content as additional monetization options.
+> 8. Game Monetization: EDS will be offered as a free-to-play game with in-app purchases available for players who want to purchase additional ~~characters, settings, and abilities~~. The game will also feature ads and sponsored content as additional monetization options.
 > 
 > 9. Development Timeline: The development timeline for EDS will be divided into several phases, including pre-production, production, and post-production. The development team will work closely with the designers to ensure that the game is delivered on time and within budget.
 > 
@@ -1277,7 +1303,7 @@ Looks pretty good so far. Let's discuss and change a few things. I will provide 
 
 6. The art style is more just normal. There is no real stylized element, really. The Misirlou map will include some organic "Generative Design" architecture, but that's not really an overall design choice for the game just a setting based way of story telling and using assets we already have.
 
-7. The soundtrack, especially for the first version with the Misirlou level, will rely heavily on the public domain traditional versions of the song "Misirlou." It is about an Egyptian woman. A mysterious, seductive Egyptian woman. We are building off of the "Lyra Starter Game" from Epic Games in Unreal Engine 5.1. We will have an easter egg, and pay homage to that heritage. "Lyra" could be the name of the Egyptian-like woman. The desert landscape of mars reminds us of the landscape of Egypt. The hypnotic melody of the song Misirlou will be incorporated subtly into background music, etc. The Lyra Starter Game has great sounds to begin with. We will try to remove some of the sci-fi tones of the metasounds, to bring it back to a more human feel.
+7. The soundtrack, especially for the first version with the Misirlou level, will rely ~~heavily~~ on the public domain traditional versions of the song "Misirlou." It is about an Egyptian woman. A mysterious, seductive Egyptian woman. We are building off of the "Lyra Starter Game" from Epic Games in Unreal Engine 5.1. We will have an easter egg, and pay homage to that heritage. "Lyra" could be the name of the Egyptian-like woman. The desert landscape of mars reminds us of the landscape of Egypt. The hypnotic melody of the song Misirlou will be incorporated subtly into background music, etc. The Lyra Starter Game has great sounds to begin with. We will try to remove some of the sci-fi tones of the metasounds, to bring it back to a more human feel.
 
 8. I think this is right. We can offer in-game advertisement, that could fit in with the settings of the game. Also, those microtransactions for assets that players can offer for sale in their in-game businesses. Also, maybe, we can just let players buy more Mars Credits directly with small amounts of real money. Controversial, but maybe interesting. Plays on the themes of gambling, and the dystopia of modern capitalism.
 
