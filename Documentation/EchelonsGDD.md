@@ -6,7 +6,228 @@
 
 ### Introduction
 
-*Echelons of Deception and Survival* is a competitive third-person roleplaying game with elements of survival, social stealth, immersive simulation, and battle-royale.
+*Echelons of Deception and Survival* is a multiplayer competitive third-person roleplaying game with elements of survival, social stealth, social deduction, immersive simulation, and battle-royale gameplay.
+
+### Draft 1
+
+- Echelons of Deception and Survival is
+  - open source
+  - online
+  - multiplayer
+  - round-based/non-persistent
+  - competitive
+  - third-person
+  - RPG
+  - survival
+  - battle-royale 
+  - immersive sim
+  - social stealth
+  - social deduction
+  - set in a variety of environments
+
+Economy of a small setting is fully simulated
+
+Gameplay involves roleplaying jobs and tasks to fulfill survival mechanics
+
+AI controls all characters
+
+Players possess a single character at a time
+
+Players can make small decisions or usurp full control from AI
+
+Tasks/daily routine performed automatically by AI
+
+Main game mode Last One Standing:
+
+2-8 players in a session
+
+32 characters in a session
+
+Players must survive as long as possible
+
+If player character loses their life, player possesses the nearest non-player character and they lose a point
+
+Players are not identified
+
+Players must deduce who is AI-controlled or player-controlled character
+
+Last one standing, with the most points, wins
+
+Secondary game mode Team Target Elimination:
+
+Mechanics are the same as LOS, but the characters are divided into two teams. Each team has a VIP King, which the other team must eliminate.
+
+Third game mode Hit People:
+
+Mechanics are same as LOS, but each player is given a list of characters to eliminate. Some are AI characters, some are player characters. First to complete their list wins. (The list transcends character death?)
+
+Free/Casual RP mode:
+
+New characters join the setting as players die, so the economy/simulation is always maintained to some extent.
+
+The first setting that will be introduced as the only setting of the first version of the game will be a Martian gambling resort colony.
+
+
+
+### ChatGPT Extraction 1:
+
+1. Echelons of Deception and Survival is a third-person online-only competitive survival battle-royale RPG immersive sim set in a Martian gambling resort colony. Players take on the role of various jobs and tasks around the colony, ultimately catering to the elite VIP guests. The gameplay involves a unique blend of survival mechanics, social-stealth mechanics, and immersive sim economic simulation, all while navigating the dangerous and mysterious world of the colony, where player identities are kept hidden and deception is at every turn. The game features two main game modes: Last One Standing and Team Target Elimination, as well as a third free-mode for casual serious and non-serious RP. With an emphasis on strategy and roleplaying, Echelons of Deception and Survival offers a thrilling and engaging experience for players looking for a new type of online competitive gaming.
+
+2. It is a third-person online-only competitive survival battle-royal RPG immersive sim with two main game modes: Last One Standing and Team Target Elimination, and a third free-mode for casual serious and non-serious RP. The first setting that will be introduced as the only setting of the first version of the game will be a Martian gambling resort colony. The gameplay involves roleplaying jobs and tasks around the colony, mostly ultimately catering to the few elite VIP guests. Survival mechanics involve eating, sleeping, etc. There is an effort to discourage the use of direct pvp violence with guns etc, but that potential is always there. The identities of player-controlled opponents is not explicitly revealed. There is an element of mystery in determining who is a player or just an AI-controlled character. There is also strategy surrounding concealment of your identity as a player-controlled character. And, as always, even the player-controlled characters will be driven by game AI automatically. The player can choose to subtly make small decisions without fully overriding control, or if they make too much of a decision or take full control of the character, the player must remain in control until the player gets a full nights rest or takes some psychoactive medication. Some of the roles and jobs that the characters will need to fill are shopkeeper, cook/chef/waiter/food service, weapons manufacturing, robot manufacturing, facility maintenance, garbage removal, sewage system maintenance, logistics (importing goods from earth). There are some upper level roles such as VIP host and security manager, but they are not starting roles for the players. The physical security is all taken care of by extremely lethal humanoid robots. These robots also serve as the rules of play for the gambling operation: robot battle arena. Simple wagers are placed on the outcomes of robot battles. The entire colony is built upon this gambling operation. Massive energy and money is spent keeping this running. Perhaps, in secrecy, some of these robots and weapons are being manufactured in excess and potentially used for some other purpose or sold for profit. This is one of the meanings of the "Echelons of Deception." The entire colony is essential a giant deception, with layers of deception at every layer in between. The rules of the colony will disallow any human from possessing weapons, but of course some people are criminals and will possess them anyway, and some people are VIP and are deemed so important that rules basically don't apply. The rules become very selectively enforced: mostly as a way to keep the poor servants of the lower echelons of the colony in check.
+
+3. Echelon: Deception and Survival is an online competitive game set in a simulated economy where players must use strategy and social stealth to outwit their opponents. In this game, weapons are scarce and lethality is high, forcing players to constantly be on the lookout for their next opportunity. The ultimate goal is to be the last one standing, but when a player's character dies, they ~~have the option to sacrifice one of their lives and~~ take control of another character, potentially for strategic gain. The game also features AI characters, adding an element of unpredictability to the gameplay. In this world, survival is the key, and players must use all of their cunning and wit to come out on top.
+
+4. Echelon: A game of Deception and Survival is a third-person, online multiplayer game that takes place in a simulated economy set in a contemporary urban environment. Players must navigate the dangers and challenges of this world, including the scarcity of resources and the lethality of weapons, while also trying to outwit their opponents through strategy and deception. The game features a variety of gameplay elements, including social stealth, AI characters, and the ability to assume different characters when the player dies. The ultimate goal is to be the last one standing, using all of these tools at your disposal to outlast your opponents and emerge victorious. As the game progresses, players will have to make complex strategic decisions in order to survive and emerge as the winner.
+
+5. Echelon: Deception and Survival is a online competitive roleplaying game set in a ~~futuristic~~ urban environment. Players take on the role of different characters, each with their own unique abilities and skills, and must navigate a world filled with danger and deception. The game features multiple game modes, including Last One Standing, Team Target Elimination, and Free-mode, all of which require strategic decision-making and fast-paced action. As players progress through the game, they must use their wits to outmaneuver their opponents, gather resources, and survive against all odds. With its focus on survival and deception, Echelon: Deception and Survival offers a unique and exciting gameplay experience for players looking for a fresh take on the urban survival genre.
+
+6. Echelon: Deception and Survival is a competitive online game set in a ~~futuristic~~ colony on Mars. Players take on the role of various characters, each with their own unique abilities and strengths, and must use strategic decision-making and deception to outwit their opponents and survive in the hostile environment. The game features three different game modes: Last One Standing, Team Target Elimination, and Free-mode, which offer a range of gameplay experiences from intense and fast-paced to more relaxed and casual. In addition to battling other players, players must also maintain the colony's economy and infrastructure, and can use the character swap mechanic to gain strategic advantages. As the game progresses, players will encounter unexpected challenges and dangers, such as malfunctioning equipment and the unpredictable behavior of their opponents, and must adapt their strategies accordingly. With its complex, chess-like endgame and sandbox elements, Echelon: Deception and Survival offers a truly unique and engaging online gaming experience.
+
+7. Echelon: Deception and Survival is a third-person online competitive game set in a ~~futuristic~~ colony on Mars. Players control characters who must maintain the colony's economy and infrastructure while also competing against each other to be the last one standing. The game features three game modes: Last One Standing, Team Target Elimination, and Free-mode. In Last One Standing, players must eliminate all other players to win. In Team Target Elimination, players are divided into teams and must eliminate the opposing team's designated target. In Free-mode, players can roleplay and engage in more casual gameplay. Players can use strategic decision-making and deception to outwit their opponents and can ~~swap~~ between characters to gain advantages. The game features a variety of characters with unique abilities and strengths, and offers character ~~progression and~~ customization options. The setting of the Martian colony affects gameplay and creates an immersive atmosphere. The game has a visually striking art style and immersive sound design. It may include monetization strategies such as in-app purchases or microtransactions.
+
+8. Echelons of Deception: Survive and Dissemble is a third-person, online competitive game set in a hostile, capitalist Martian colony. Players must use strategy, deception, and social stealth to survive and outwit their opponents while also maintaining the colony's economy and infrastructure. The game offers three different game modes: Last One Standing, Team Target Elimination, and Free-mode, each offering a unique gameplay experience. Players can also ~~swap between~~ different characters, each with their own abilities and strengths, as they progress through the game. The setting of the Martian colony, with its treacherous equipment and other players, adds to the unpredictable and chaotic atmosphere. With its immersive sandbox gameplay and intense social stealth mechanics, Echelons of Deception: Survive and Dissemble is sure to be a hit with players who enjoy a challenge and the thrill of outwitting their opponents.
+
+9. Echelons of Deception: Survive and Dissemble is a third-person, online competitive role-playing game set in a lavish Martian casino colony. Players must maintain the colony's economy and infrastructure while facing challenges such as malfunctioning equipment and other players. Using strategic decision-making and deception, players must outwit their opponents and survive to emerge as the last one standing. The character ~~swap~~ mechanic allows players to take control of different characters, each with their own abilities and strengths, as they progress through the game. However, with the outrageous and often chaotic behavior of other players, anything can happen in this cutthroat environment. Will you come out on top, or will the colony descend into chaos?
+
+10. Echelons of Deception: Survive and Dissemble is a third-person online competitive roleplaying game set in a Martian colony. Players must maintain the colony's economy and infrastructure while also strategizing and deceiving their opponents to emerge as the last survivor. The game features three game modes: Last One Standing, Team Target Elimination, and Free-mode.
+
+11. 
+    1. Echelons of Deception: Survive and Dissemble is a third-person, online multiplayer game set on a Martian colony. Players are tasked with performing duties in order to maintain the colony's economy and infrastructure, while also trying to outlast and outmaneuver their opponents. The game features three different game modes: Last One Standing, Team Target Elimination, and Free-mode. In Last One Standing, players compete to be the last character alive, while in Team Target Elimination, players must eliminate the designated target of the opposing team. Free-mode allows for more relaxed roleplaying.
+
+    1. As players progress through the game, they will encounter various challenges and dangers, such as malfunctioning equipment and the threat of other players. To survive, they must make strategic decisions and use cunning and deception to outwit their opponents. Players can also gain an advantage by sacrificing one of their lives and a character in order to take control of another character, potentially for strategic gain.
+
+    1. To succeed in the game, players must ~~master the various duties required to keep the colony functioning, such as resource gathering and production, while also~~ navigating the ~~complex~~ social dynamics and relationships within the colony. The game's immersive and atmospheric setting, combined with its focus on strategy and deception, creates a thrilling and intense online competitive experience.
+
+12. Echelons of Deception: Survive and Dissemble is an online competitive roleplaying game set in a Martian colony where players must navigate through various duties and tasks while also attempting to outwit and outlast their opponents. The game is played from a third-person perspective and tasks are performed automatically by AI unless the player intervenes and takes control. The ultimate goal is to be the last character alive while also minimizing the number of times the player dies. Players can sacrifice a character in order to gain control of another, leading to strategic decision making and deception. Alongside the main Last One Standing game mode, there are also team-based modes where players must eliminate the opposing team's leader and a more relaxed Free-mode for casual roleplaying. As characters die, the colony's economy is impacted, leading to a balance of cost and benefit in all actions. The game is set in a hostile, capitalistic environment where players must not only survive but also dissemble in order to emerge victorious.
+
+13. Echelon: Survive and Dissemble is a third-person online multiplayer game set in a dystopian future where players are tasked with surviving and thriving in a harsh Martian colony. Players must navigate a complex economy while also competing against each other and AI-controlled characters in a battle for survival. To emerge victorious, players must make strategic decisions and employ deception and sabotage to eliminate their opponents. The game features multiple game modes, including Last One Standing, Team Target Elimination, and Free-mode, allowing for a variety of playstyles and approaches to the competition.
+
+14. 
+    1. Echelon is a third-person 3D game that takes place in a dystopian, capitalist society on a Mars colony. Players compete against each other in various game modes, including Last One Standing, Team Target Elimination, and Free-mode, to see who can survive the longest while also completing tasks and duties assigned to their character. These duties, which range from ~~farming and ~~manufacturing to ~~security and~~ maintenance, are performed automatically by AI if the player does not take control of their character.
+
+    1. Players can also choose to take control of their character at any point during their daily routine, allowing them to interact with other players and AI characters, and potentially disrupt their tasks and duties. This can be seen as a metaphor for psychosis, as the player represents the character's unwilling actions due to the extreme circumstances.
+
+    1. In addition to completing tasks and interacting with other players and AI, players must also navigate the potentially treacherous environments and equipment on the colony, as well as avoid or overcome the robot guards. Players can choose to engage in combat, but weapons and ammunition are scarce and combat is very lethal.
+
+    1. As players move from one character to another as they die, they must carefully strategize and make decisions that balance the cost and benefit of their actions, as well as consider the state of the colony's economy. The winner is determined by being the last character alive, with their rank being determined by the number of times they died during the game.
+
+15. 
+    1. Echelon: Survive and Dissemble is a competitive online multiplayer game set in a dystopian, capitalistic society on a Martian colony. Players control human characters who must perform a variety of duties and tasks in order to keep the colony running smoothly and maintain their own survival. These tasks are performed automatically by AI if the player does not override their character's actions.
+
+    1. As players progress through the game, they must also contend with sabotage and deception from both other players and AI characters. Players can choose to directly attack other players with weapons, but ammunition is scarce and weapons are lethal, so battles are intense and short. Players can also engage in more stealthy tactics, such as sabotaging the duties of other players or causing accidents.
+
+    1. The ultimate goal of the game is to be the last player standing, with points being deducted for each time a player's character dies. The player with the highest score at the end of the game wins. The game features multiple game modes, including Last One Standing, Team Target Elimination, and Free-mode, which allows for more relaxed roleplaying. As players move from one character to another as they die, they must carefully consider their actions and strategize in order to emerge victorious.
+
+16. 
+    1. Echelon is a multiplayer online game set in a dystopian future where players are stranded on a Martian colony. The game is a combination of role-playing, economic simulation, and stealth action. Players must navigate the ~~complex~~ social and economic systems of the colony, while avoiding detection and attempting to outwit their opponents.
+
+    1. In the game, players are able to ~~choose from~~ a variety of roles, each with their own unique duties and responsibilities. These duties are performed automatically by the AI, but can be temporarily overridden by the player if they choose to take control of their character. The player must carefully balance their actions and make strategic decisions to survive and thrive in the harsh Martian environment.
+
+    1. The game has three different game modes: Last One Standing, Team Target Elimination, and Free-mode. In Last One Standing, players compete to be the last ~~character~~ alive, with the winner being the player who survived the longest while dying the least. In Team Target Elimination, players are divided into teams and must eliminate the "king" of the opposing team to win. Free-mode is a more relaxed, casual mode that allows for more role-playing.
+
+    1. The game has a strong emphasis on social stealth and deception. Players must carefully navigate the ~~complex~~ social hierarchies of the colony, trying to avoid detection while also trying to manipulate and deceive their opponents. The game also features a robust economic simulation, with players managing the production and distribution of goods and services within the colony.
+
+    1. The game has a distinctive and bleak tone, with players struggling to survive in a hostile and oppressive environment. The game's title, Echelon, refers to the hierarchy and power dynamics at play within the colony, with players constantly trying to climb the echelon to gain an advantage over their opponents.
+
+17. In this game, players are placed in a simulated Martian colony where they must complete duties assigned to them by a capitalist overlords in order to survive. These duties range from performing tasks within the colony, such as manufacturing and maintenance, to interacting with other players and AI-controlled characters. The player must decide whether to trust or deceive the other characters in order to advance their own goals. There are multiple game modes including Last One Standing, Team Target Elimination, and Free-mode, which allows for more casual and relaxed roleplaying. Players can also make strategic choices surrounding their own death, sacrificing one of their lives and a character in order to gain control of another character. The ultimate goal is to be the last ~~character~~ standing while also dying as few times as possible.
+
+18. In this game, players are placed in the role of characters living in a dystopian, capitalistic Martian colony. They must navigate the ~~complex~~ social and economic systems of the colony, interacting with both other players and AI-controlled characters, while trying to survive and emerge as the last one standing. The game features multiple game modes, including Last One Standing, Team Target Elimination, and Free-mode, and requires players to use strategy and deception to outmaneuver their opponents and achieve victory. Players must also balance their actions and decision-making with the needs and functioning of the colony's economy, as their choices will have consequences for the overall state of the colony.
+
+19. 
+    1. In Echelon: Survive and Dissemble, players are thrust into a hostile and oppressive Martian colony, where they must navigate ~~a complex web of~~ economic and social systems in order to emerge victorious. ~~Players can choose to play as one of 32 unique characters, each with their own strengths, weaknesses, and personalities.~~ The ultimate goal is to be the last one standing, outlasting all other players ~~in a series of intense and fast-paced online matches~~.
+
+    1. Players can choose to play in one of three game modes: Last One Standing, Team Target Elimination, or Free-mode. In Last One Standing, players must simply outlast their opponents and be the last ~~character~~ alive. In Team Target Elimination, players are divided into two teams, with each team having a "king" character that must be protected at all costs. The team whose king is the last one standing wins. In Free-mode, players can engage in more relaxed role-playing, exploring the colony and interacting with other characters as they see fit.
+
+    1. Throughout the game, players must carefully balance their actions, making strategic decisions that will impact their chances of survival. They must also navigate the ~~complex~~ economic simulation of the colony, performing duties and tasks in order to maintain the colony's systems and resources. Players can choose to sabotage their duties, potentially causing chaos and disruption, but they must also be careful not to draw too much attention to themselves or they risk being caught and punished.
+
+    1. Combat is also a crucial element of Echelon: Survive and Dissemble. Weapons and ammunition are extremely scarce, and players must choose their battles carefully. Even a single shot could be the difference between victory and defeat. Players can also choose to sacrifice one of their lives and a character in order to gain control of another character, potentially for strategic gain.
+
+    1. Echelon: Survive and Dissemble is a game that rewards cunning, strategy, and deception. Players must constantly adapt and outmaneuver their opponents in order to emerge victorious. The title, Echelon: Survive and Dissemble, captures this dynamic perfectly, alluding to the complex social hierarchy of the colony and the importance of deception in achieving victory.
+
+20. 
+    1. Echelon: Survive and Dissemble is an online multiplayer game set in a harsh and oppressive Martian colony. Players must navigate the dangerous and cutthroat world of the colony while completing tasks and duties as assigned to their character. However, they must also be wary of their fellow players, who may try to sabotage them or even attack them directly.
+
+    1. There are three game modes to choose from: Last One Standing, Team Target Elimination, and Free-mode. In Last One Standing, players compete against each other to be the last player character alive. In Team Target Elimination, players are divided into teams and must eliminate the "king" of the other team. Free-mode allows for more relaxed and open-ended roleplaying.
+
+    1. Players must carefully balance their actions in the colony, as the economy and infrastructure are fully simulated. Decisions made can have long-term consequences, and players must consider the cost and benefit of their actions.
+
+    1. In addition to the normal duties assigned to their character, players can also try to acquire weapons and attack other players directly. However, weapons are scarce and combat is lethal, so players must weigh the risks and benefits of such actions carefully.
+
+    1. Throughout the game, players must also be mindful of their own safety, as there are many ways to accidentally kill their character. The environment itself is hostile and dangerous, and players must always be on their guard.
+
+    1. The title Echelon: Survive and Dissemble captures the online competitive nature of the game, as well as the strategic and deceptive elements at play. Players must survive in a hostile world while also trying to deceive and outmaneuver their opponents.
+
+21. 
+    1. In this game, players are placed in the role of characters living in a fully-simulated Martian colony. The colony is run by a tyrannical company, which exploits the workers and artificially restricts the supply of necessities in order to maintain its power. The player's character is one of 32 working in the colony, performing various duties and tasks in order to keep the colony running smoothly. However, not all is as it seems. Some of the characters are secretly operating in the black market, and some are even sabotaging the colony's operations in order to advance their own agendas.
+
+    1. As the player's character goes about their daily tasks, they must also navigate the ~~complex~~ social dynamics of the colony. In order to survive, they must make strategic decisions about who to trust and when to take action. They must also be on the lookout for opportunities to gain resources, weapons, and information, as well as avoid being caught by the AI-controlled guards or other players.
+
+    1. The gameplay loop consists of the player controlling their character's actions during the day, while the character performs their duties automatically when the player is not controlling them. The player can also choose when to take control of the character and alter their actions, or make decisions on behalf of the character while they are being controlled by the AI.
+
+    1. The player can interact with other characters, both AI-controlled and player-controlled, in order to gather information, make deals, or engage in combat. However, they must be careful, as it is not always clear who is a player and who is an AI. The player can also attempt to sabotage other characters' duties in order to disrupt the colony's operations, or steal resources and weapons.
+
+    1. The game is won by being the last ~~character~~ alive. When a character dies, the player takes control of a new character and the game continues. The player's rank is determined by how long they survive, as well as how many times they died during the game. The player with the highest rank at the end is the winner.
+
+    1. The title "Echelon: Survive and Dissemble" captures the themes of deception, survival, and the hierarchical structure of the colony, as well as the gameplay mechanics of interacting with other characters and performing duties.
+
+22. 
+    1. Echelon is a multiplayer online role-playing game set on a small, capitalist-run Martian colony ~~that operates as a tourist destination~~. Players take on the roles of various characters who are modelled after chess pieces and are responsible for the various duties and tasks that keep the colony running smoothly. The ultimate goal of the game is to be the last ~~character~~ standing, while also dying as few times as possible.
+
+    1. The colony is home to 32 characters in total, including the "whale" guests who are the Kings and Queens, the Rooks who are the VIP hosts, the Bishops who are the business owners, the Knights who are in charge of security, and the Pawns who are the low-skilled workers. The game features a fully-simulated economy, with players needing to balance the cost and benefit of their actions while performing their assigned duties. There is also a social stealth element to the game, with players needing to deduce who is an AI character and who is a player-controlled character in order to gain an advantage.
+
+    1. Players can take control of their character's actions at any time during their daily routine, or allow the AI to handle them. However, player control does not end until the character gets a full night's sleep. The game features a competitive online multiplayer aspect, with players able to sabotage each other's duties or cause disasters in order to gain an advantage. The game has a distinct, almost comical hostility to it, with many ways for players to accidentally die. Weapons and ammunition are scarce, making direct combat intense and short. The game has a strong focus on mystery, stealth, and strategy, with players constantly needing to deceive and outmaneuver one another in order to emerge victorious.
+
+23. 
+    1. Echelon is a competitive online multiplayer game set on a small Martian colony ~~run as a tourist destination~~. Players take on the role of one of 32 characters, each of whom is modeled after a chess piece and has a specific job or duty within the colony. The Kings and Queens are the wealthy guests of the casino, while the Rooks represent "the house" and are the VIP hosts to the whales. The Bishops are business owners who hold private interest over the food, shopping, and other facilities of the colony, while the Knights are in charge of security, but do not perform any policing duties themselves. The Pawns are all the low-skilled workers who tend to the shops and restaurants of the colony, as well as all the manual labor required to keep the operation running.
+
+    1. In Echelon, players must navigate the ~~complex~~ social dynamics of the colony, using stealth and strategy to outmaneuver their opponents and emerge victorious. The game features a fully-simulated economy, with players' actions having real consequences on the overall economic scenario. Players can sabotage their duties to indirectly attack their opponents, but must also be careful not to draw the attention of the robot guards, who will quickly defeat any player who directly attacks another. Weapons and ammunition are scarce, so players must rely on their wits and cunning to emerge victorious. The last player ~~character~~ standing, with the least number of deaths, is the winner.
+
+24. 
+    1. Our new multiplayer online role-playing game is set in a small Martian colony that has been turned into a capitalist ~~tourist destination, featuring a~~ casino-style resort with robot gun battles that can be gambled on. Players will be randomly assigned one of 32 characters, each based on a chess piece or pawn, and will be tasked with performing various duties and tasks to keep the colony running smoothly.
+
+    1. However, the game is competitive, and players will need to adopt a variety of strategies in order to emerge as the last one standing. This will involve a combination of social stealth, sabotage, and resource management, as players try to hamper their opponents while advancing their own position.
+
+    1. Resource management will be particularly important, as weapons and ammunition will be scarce and extremely lethal. Players will need to be careful in their interactions with other players and AI characters, as it is not always immediately clear who is controlled by a player and who is an AI. The hostile and dangerous environment of the Martian colony will also pose a threat to players, with many opportunities for accidental death.
+
+    1. Overall, the game will require careful planning, quick thinking, and adaptability, as players navigate the challenges and dangers of the Martian colony.
+
+25. The game is a multiplayer online role-playing game set in a small Martian colony that is run as a ~~tourist destination and~~ casino-style resort. The colony is home to 32 characters, each based on a chess piece and representing a specific role in the operation of the colony. The players will assume the role of one of these characters, with the goal of being the last one standing at the end of each round. The game will simulate the economic and social interactions of the characters within the colony, with players able to perform duties, sabotage each other's tasks, and engage in social stealth to try and deduce which characters are controlled by other players. The game will also feature a black market and the use of robots for security and policing. Players will be able to override the AI control of their character and make decisions for them, but will need to balance their actions with the consequences on the overall economic simulation of the colony. The game will be competitive, with the winner being the player who is the last character standing, with the lowest number of deaths.
+
+26. 
+    1. Sure! Here is a summary of the game:
+
+    1. ~~"Martian Casino Resort"~~ is a multiplayer online role-playing game set in a simulated small colony on Mars. The colony is run as a capitalist ~~tourist destination, featuring a~~ casino-style resort that hosts robot gun battles which can be gambled on. The game features 32 characters, each modelled after the 32 chess pieces and pawns. The Kings and Queens are wealthy guests who have been sold a one-way ticket to live the rest of their lives in luxury on Mars, while the other members of the colony are the people who facilitate the running of the colony.
+
+    1. In the game, players possess different characters and are tasked with performing various duties and tasks in order to keep the colony running smoothly. These tasks could include managing resources, building and maintaining facilities, and interacting with other characters in the colony. The players can choose when to take control of their character and alter its actions, or they can allow the AI to control the character's actions. The game has no quests or missions, and the story is emergent based on the actions taken by player-controlled characters.
+
+    1. The game has a competitive element, as players aim to be the last one standing at the end of the round. The score of the players will take into account the number of times they died, and thus switched characters. Players can sabotage each other's duties and indirectly attack opponent players, but they will encounter resistance from the robot guards if they try to directly attack other players.
+
+    1. The game has a social stealth aspect, as none of the other players are explicitly labelled for the other players. The AI-controlled characters and the player-controlled characters appear the same, so players must deduce who is an AI character or a player character, and try to hamper the player characters. There is also a black market that provides goods and services to the characters.
+
+    1. Overall, the game aims to create a dynamic and challenging experience for players, as they navigate the complex systems and interactions of the Martian colony and try to outwit their opponents in order to be the last one standing.
+
+27. Players could also potentially steal or otherwise acquire weapons and directly attack the other players. They would encounter resistance from the robot guards, but they could also perhaps be defeated or disabled with some type of strategy. As players move from one character to another as they die, they could perform different actions as each character to set up a favorable scenario for them to win as a subsequent character.
+
+28. 
+    1. In this revised version of the game, players will assume the roles of characters in a small, capitalistically-run martian colony that serves as a ~~tourist destination and~~ casino-style resort. The colony is home to 32 characters, each loosely modeled after a chess piece or pawn, and is run by a group of players and AI-controlled characters. The Kings and Queens are the wealthy, high-rolling guests of the casino, while the Rooks represent "the house" and serve as VIP hosts to the whales. The Bishops are business owners who control private interests in the colony's food, shopping, and other facilities, and the Knights are in charge of security and the maintenance of the robots that provide physical protection and policing for the colony. The Pawns are low-skilled workers who tend to the shops, restaurants, and other facilities, as well as performing all the manual labor required to run the colony, including tasks such as weapons maintenance, robot repair, and facility maintenance.
+
+    1. This is a competitive online multiplayer game, in which players compete to be the last character standing in the colony. Players must navigate the ~~complex~~ social dynamics of the colony and use social stealth to avoid drawing attention to themselves, while also trying to sabotage the duties of other characters and cause disasters that will eliminate their opponents. Players start as a randomly-assigned character and are given a role or job within the colony. The duties and tasks for the character are performed automatically by the AI unless the player takes control of the character and overrides the AI's actions. Players can take control of their character at any time, but the control does not end until the character gets a full night's sleep. Once the character wakes up, the AI will resume control of the character and continue performing its duties and tasks.
+
+    1. Players observe the actions and behaviors of the other characters, including both player-controlled and AI-controlled characters, in order to try and deduce which ones are controlled by other players and which ones are controlled by the AI. Players make strategic decisions about how to interact with the other characters, based on their personalities and the goals of their own character, and try to survive in the colony for as long as possible.
+
+    1. The game ends when
+
+29. 
+    1. In this revised version of the game, players will assume the roles of characters in a small, capitalistically-run martian colony that serves as a ~~tourist destination and~~ casino-style resort. The colony is home to 32 characters, each loosely modeled after a chess piece or pawn, and is run by a group of players and AI-controlled characters. The Kings and Queens are the wealthy, high-rolling guests of the casino, while the Rooks represent "the house" and serve as VIP hosts to the whales. The Bishops are business owners who control private interests in the colony's food, shopping, and other facilities, and the Knights are in charge of security and the maintenance of the robots that provide physical protection and policing for the colony. The Pawns are low-skilled workers who tend to the shops, restaurants, and other facilities, as well as performing all the manual labor required to run the colony, including tasks such as weapons maintenance, robot repair, and facility maintenance.
+
+    1. This is a competitive online multiplayer game, in which players compete to be the last character standing in the colony. Players start as a randomly-assigned character and are given a role or job within the colony. The duties and tasks for the character are performed automatically by the AI unless the player takes control of the character and overrides the AI's actions. Players can take control of their character at any time, but the control does not end until the character gets a full night's sleep. Once the character wakes up, the AI will resume control of the character and continue performing its duties and tasks.
+
+    1. Players observe the actions and behaviors of the other characters, including both player-controlled and AI-controlled characters, in order to try and deduce which ones are controlled by other players and which ones are controlled by the AI. Players make strategic decisions about how to interact with the other characters, based on their personalities and the goals of their own character, and try to survive in the colony for as long as possible.
+
+    1. The game ends when there is only one character left alive, at which point the winner is determined based on their rank and the number of times they died during the game. The last player
+
+30. 
+
 
 ### New Notes
 
@@ -582,23 +803,11 @@ Mention that the duties are performed automatically for the player by the AI, if
 
 Change it so the player's control of the character does not end until the character gets a full night's sleep. Also, mention that this is a competitive online multiplayer game, and mention the game's end condition: last one standing. The last player character alive will be assigned rank 32. If that player died 16 times during the game, this number will be subtracted from the final rank, given an end score of 16. The player with the highest number at the end wins: the player who survived the longest, while dying the least.
 
-> In this revised version of the game, players will assume the roles of characters in a small, capitalistically-run martian colony that serves as a ~~tourist destination and~~ casino-style resort. The colony is home to 32 characters, each loosely modeled after a chess piece or pawn, and is run by a group of players and AI-controlled characters. The Kings and Queens are the wealthy, high-rolling guests of the casino, while the Rooks represent "the house" and serve as VIP hosts to the whales. The Bishops are business owners who control private interests in the colony's food, shopping, and other facilities, and the Knights are in charge of security and the maintenance of the robots that provide physical protection and policing for the colony. The Pawns are low-skilled workers who tend to the shops, restaurants, and other facilities, as well as performing all the manual labor required to run the colony, including tasks such as weapons maintenance, robot repair, and facility maintenance.
-> 
-> This is a competitive online multiplayer game, in which players compete to be the last character standing in the colony. Players start as a randomly-assigned character and are given a role or job within the colony. The duties and tasks for the character are performed automatically by the AI unless the player takes control of the character and overrides the AI's actions. Players can take control of their character at any time, but the control does not end until the character gets a full night's sleep. Once the character wakes up, the AI will resume control of the character and continue performing its duties and tasks.
-> 
-> Players observe the actions and behaviors of the other characters, including both player-controlled and AI-controlled characters, in order to try and deduce which ones are controlled by other players and which ones are controlled by the AI. Players make strategic decisions about how to interact with the other characters, based on their personalities and the goals of their own character, and try to survive in the colony for as long as possible.
-> 
-> The game ends when there is only one character left alive, at which point the winner is determined based on their rank and the number of times they died during the game. The last player
+> 29
 
 emphasize the social stealth aspect, as well as the concept of sabotaging a duty, or accidentally causing disaster
 
-> In this revised version of the game, players will assume the roles of characters in a small, capitalistically-run martian colony that serves as a ~~tourist destination and~~ casino-style resort. The colony is home to 32 characters, each loosely modeled after a chess piece or pawn, and is run by a group of players and AI-controlled characters. The Kings and Queens are the wealthy, high-rolling guests of the casino, while the Rooks represent "the house" and serve as VIP hosts to the whales. The Bishops are business owners who control private interests in the colony's food, shopping, and other facilities, and the Knights are in charge of security and the maintenance of the robots that provide physical protection and policing for the colony. The Pawns are low-skilled workers who tend to the shops, restaurants, and other facilities, as well as performing all the manual labor required to run the colony, including tasks such as weapons maintenance, robot repair, and facility maintenance.
-> 
-> This is a competitive online multiplayer game, in which players compete to be the last character standing in the colony. Players must navigate the ~~complex~~ social dynamics of the colony and use social stealth to avoid drawing attention to themselves, while also trying to sabotage the duties of other characters and cause disasters that will eliminate their opponents. Players start as a randomly-assigned character and are given a role or job within the colony. The duties and tasks for the character are performed automatically by the AI unless the player takes control of the character and overrides the AI's actions. Players can take control of their character at any time, but the control does not end until the character gets a full night's sleep. Once the character wakes up, the AI will resume control of the character and continue performing its duties and tasks.
-> 
-> Players observe the actions and behaviors of the other characters, including both player-controlled and AI-controlled characters, in order to try and deduce which ones are controlled by other players and which ones are controlled by the AI. Players make strategic decisions about how to interact with the other characters, based on their personalities and the goals of their own character, and try to survive in the colony for as long as possible.
-> 
-> The game ends when
+> 28
 
 (The game ends when WHAT lmao) *** THIS WAS A GOOD ONE ^^^^ ***
 
@@ -614,7 +823,7 @@ What is the genre of the game?
 > 
 > Overall, the game could potentially be classified as a combination of survival, strategy, and social simulation elements, with a focus on resource management, social stealth, and strategic decision-making.
 
-Players could also potentially steal or otherwise acquire weapons and directly attack the other players. They would encounter resistance from the robot guards, but they could also perhaps be defeated or disabled with some type of strategy. As players move from one character to another as they die, they could perform different actions as each character to set up a favorable scenario for them to win as a subsequent character. *** <<<< THIS IS A GOOD NOTE ***
+27 *** <<<< THIS IS A GOOD NOTE ***
 
 > It sounds like you are suggesting the addition of combat and resource acquisition elements to the game. This would add a new layer of strategy and decision-making for players, as they would have to weigh the risks and rewards of directly attacking other players or attempting to acquire weapons.
 > 
@@ -770,17 +979,7 @@ Do you have any other thoughts or suggestions in regards to this game idea?
 
 Can you describe this game?
 
-> Sure! Here is a summary of the game:
-> 
-> ~~"Martian Casino Resort"~~ is a multiplayer online role-playing game set in a simulated small colony on Mars. The colony is run as a capitalist ~~tourist destination, featuring a~~ casino-style resort that hosts robot gun battles which can be gambled on. The game features 32 characters, each modelled after the 32 chess pieces and pawns. The Kings and Queens are wealthy guests who have been sold a one-way ticket to live the rest of their lives in luxury on Mars, while the other members of the colony are the people who facilitate the running of the colony.
-> 
-> In the game, players possess different characters and are tasked with performing various duties and tasks in order to keep the colony running smoothly. These tasks could include managing resources, building and maintaining facilities, and interacting with other characters in the colony. The players can choose when to take control of their character and alter its actions, or they can allow the AI to control the character's actions. The game has no quests or missions, and the story is emergent based on the actions taken by player-controlled characters.
-> 
-> The game has a competitive element, as players aim to be the last one standing at the end of the round. The score of the players will take into account the number of times they died, and thus switched characters. Players can sabotage each other's duties and indirectly attack opponent players, but they will encounter resistance from the robot guards if they try to directly attack other players.
-> 
-> The game has a social stealth aspect, as none of the other players are explicitly labelled for the other players. The AI-controlled characters and the player-controlled characters appear the same, so players must deduce who is an AI character or a player character, and try to hamper the player characters. There is also a black market that provides goods and services to the characters.
-> 
-> Overall, the game aims to create a dynamic and challenging experience for players, as they navigate the complex systems and interactions of the Martian colony and try to outwit their opponents in order to be the last one standing.
+> 26
 
 ~~What public figure in the real world do you think would run this type of operation on Mars?~~
 
@@ -822,7 +1021,7 @@ This game about the martian colony is wheat I meant. How many players should the
 
 Summarize the game
 
-> The game is a multiplayer online role-playing game set in a small Martian colony that is run as a ~~tourist destination and~~ casino-style resort. The colony is home to 32 characters, each based on a chess piece and representing a specific role in the operation of the colony. The players will assume the role of one of these characters, with the goal of being the last one standing at the end of each round. The game will simulate the economic and social interactions of the characters within the colony, with players able to perform duties, sabotage each other's tasks, and engage in social stealth to try and deduce which characters are controlled by other players. The game will also feature a black market and the use of robots for security and policing. Players will be able to override the AI control of their character and make decisions for them, but will need to balance their actions with the consequences on the overall economic simulation of the colony. The game will be competitive, with the winner being the player who is the last character standing, with the lowest number of deaths.
+> 25
 
 *** THAT WAS A GOOD SUMMARY ^^^^ ***
 
@@ -926,113 +1125,55 @@ The weapons and ammunition will be very scarce. If any of the human characters b
 
 Can you summarize the game for me?
 
-> Our new multiplayer online role-playing game is set in a small Martian colony that has been turned into a capitalist ~~tourist destination, featuring a~~ casino-style resort with robot gun battles that can be gambled on. Players will be randomly assigned one of 32 characters, each based on a chess piece or pawn, and will be tasked with performing various duties and tasks to keep the colony running smoothly.
-> 
-> However, the game is competitive, and players will need to adopt a variety of strategies in order to emerge as the last one standing. This will involve a combination of social stealth, sabotage, and resource management, as players try to hamper their opponents while advancing their own position.
-> 
-> Resource management will be particularly important, as weapons and ammunition will be scarce and extremely lethal. Players will need to be careful in their interactions with other players and AI characters, as it is not always immediately clear who is controlled by a player and who is an AI. The hostile and dangerous environment of the Martian colony will also pose a threat to players, with many opportunities for accidental death.
-> 
-> Overall, the game will require careful planning, quick thinking, and adaptability, as players navigate the challenges and dangers of the Martian colony.
+> 24
 
 ---
 
 Describe the game, and title it "Echelon"
 
-> Echelon is a competitive online multiplayer game set on a small Martian colony ~~run as a tourist destination~~. Players take on the role of one of 32 characters, each of whom is modeled after a chess piece and has a specific job or duty within the colony. The Kings and Queens are the wealthy guests of the casino, while the Rooks represent "the house" and are the VIP hosts to the whales. The Bishops are business owners who hold private interest over the food, shopping, and other facilities of the colony, while the Knights are in charge of security, but do not perform any policing duties themselves. The Pawns are all the low-skilled workers who tend to the shops and restaurants of the colony, as well as all the manual labor required to keep the operation running.
-> 
-> In Echelon, players must navigate the ~~complex~~ social dynamics of the colony, using stealth and strategy to outmaneuver their opponents and emerge victorious. The game features a fully-simulated economy, with players' actions having real consequences on the overall economic scenario. Players can sabotage their duties to indirectly attack their opponents, but must also be careful not to draw the attention of the robot guards, who will quickly defeat any player who directly attacks another. Weapons and ammunition are scarce, so players must rely on their wits and cunning to emerge victorious. The last player ~~character~~ standing, with the least number of deaths, is the winner.
+> 23
 
 Can you go into more detail?
 
-> Echelon is a multiplayer online role-playing game set on a small, capitalist-run Martian colony ~~that operates as a tourist destination~~. Players take on the roles of various characters who are modelled after chess pieces and are responsible for the various duties and tasks that keep the colony running smoothly. The ultimate goal of the game is to be the last ~~character~~ standing, while also dying as few times as possible.
-> 
-> The colony is home to 32 characters in total, including the "whale" guests who are the Kings and Queens, the Rooks who are the VIP hosts, the Bishops who are the business owners, the Knights who are in charge of security, and the Pawns who are the low-skilled workers. The game features a fully-simulated economy, with players needing to balance the cost and benefit of their actions while performing their assigned duties. There is also a social stealth element to the game, with players needing to deduce who is an AI character and who is a player-controlled character in order to gain an advantage.
-> 
-> Players can take control of their character's actions at any time during their daily routine, or allow the AI to handle them. However, player control does not end until the character gets a full night's sleep. The game features a competitive online multiplayer aspect, with players able to sabotage each other's duties or cause disasters in order to gain an advantage. The game has a distinct, almost comical hostility to it, with many ways for players to accidentally die. Weapons and ammunition are scarce, making direct combat intense and short. The game has a strong focus on mystery, stealth, and strategy, with players constantly needing to deceive and outmaneuver one another in order to emerge victorious.
+> 22
 
 ---
 
 Describe the game in full detail
 
-> In this game, players are placed in the role of characters living in a fully-simulated Martian colony. The colony is run by a tyrannical company, which exploits the workers and artificially restricts the supply of necessities in order to maintain its power. The player's character is one of 32 working in the colony, performing various duties and tasks in order to keep the colony running smoothly. However, not all is as it seems. Some of the characters are secretly operating in the black market, and some are even sabotaging the colony's operations in order to advance their own agendas.
-> 
-> As the player's character goes about their daily tasks, they must also navigate the ~~complex~~ social dynamics of the colony. In order to survive, they must make strategic decisions about who to trust and when to take action. They must also be on the lookout for opportunities to gain resources, weapons, and information, as well as avoid being caught by the AI-controlled guards or other players.
-> 
-> The gameplay loop consists of the player controlling their character's actions during the day, while the character performs their duties automatically when the player is not controlling them. The player can also choose when to take control of the character and alter their actions, or make decisions on behalf of the character while they are being controlled by the AI.
-> 
-> The player can interact with other characters, both AI-controlled and player-controlled, in order to gather information, make deals, or engage in combat. However, they must be careful, as it is not always clear who is a player and who is an AI. The player can also attempt to sabotage other characters' duties in order to disrupt the colony's operations, or steal resources and weapons.
-> 
-> The game is won by being the last ~~character~~ alive. When a character dies, the player takes control of a new character and the game continues. The player's rank is determined by how long they survive, as well as how many times they died during the game. The player with the highest rank at the end is the winner.
-> 
-> The title "Echelon: Survive and Dissemble" captures the themes of deception, survival, and the hierarchical structure of the colony, as well as the gameplay mechanics of interacting with other characters and performing duties.
+> 21
 
 Can you describe the game in full detail, but emphasize the online competitive play and the different game modes.
 
-> Echelon: Survive and Dissemble is an online multiplayer game set in a harsh and oppressive Martian colony. Players must navigate the dangerous and cutthroat world of the colony while completing tasks and duties as assigned to their character. However, they must also be wary of their fellow players, who may try to sabotage them or even attack them directly.
-> 
-> There are three game modes to choose from: Last One Standing, Team Target Elimination, and Free-mode. In Last One Standing, players compete against each other to be the last player character alive. In Team Target Elimination, players are divided into teams and must eliminate the "king" of the other team. Free-mode allows for more relaxed and open-ended roleplaying.
-> 
-> Players must carefully balance their actions in the colony, as the economy and infrastructure are fully simulated. Decisions made can have long-term consequences, and players must consider the cost and benefit of their actions.
-> 
-> In addition to the normal duties assigned to their character, players can also try to acquire weapons and attack other players directly. However, weapons are scarce and combat is lethal, so players must weigh the risks and benefits of such actions carefully.
-> 
-> Throughout the game, players must also be mindful of their own safety, as there are many ways to accidentally kill their character. The environment itself is hostile and dangerous, and players must always be on their guard.
-> 
-> The title Echelon: Survive and Dissemble captures the online competitive nature of the game, as well as the strategic and deceptive elements at play. Players must survive in a hostile world while also trying to deceive and outmaneuver their opponents.
+> 20
 
 Include the ideas of strategy surrounding the player's death. They can sacrifice one of their lives and a character in order to gain access to control of another character, potentially for strategic gain.
 
-> In Echelon: Survive and Dissemble, players are thrust into a hostile and oppressive Martian colony, where they must navigate ~~a complex web of~~ economic and social systems in order to emerge victorious. ~~Players can choose to play as one of 32 unique characters, each with their own strengths, weaknesses, and personalities.~~ The ultimate goal is to be the last one standing, outlasting all other players ~~in a series of intense and fast-paced online matches~~.
-> 
-> Players can choose to play in one of three game modes: Last One Standing, Team Target Elimination, or Free-mode. In Last One Standing, players must simply outlast their opponents and be the last ~~character~~ alive. In Team Target Elimination, players are divided into two teams, with each team having a "king" character that must be protected at all costs. The team whose king is the last one standing wins. In Free-mode, players can engage in more relaxed role-playing, exploring the colony and interacting with other characters as they see fit.
-> 
-> Throughout the game, players must carefully balance their actions, making strategic decisions that will impact their chances of survival. They must also navigate the ~~complex~~ economic simulation of the colony, performing duties and tasks in order to maintain the colony's systems and resources. Players can choose to sabotage their duties, potentially causing chaos and disruption, but they must also be careful not to draw too much attention to themselves or they risk being caught and punished.
-> 
-> Combat is also a crucial element of Echelon: Survive and Dissemble. Weapons and ammunition are extremely scarce, and players must choose their battles carefully. Even a single shot could be the difference between victory and defeat. Players can also choose to sacrifice one of their lives and a character in order to gain control of another character, potentially for strategic gain.
-> 
-> Echelon: Survive and Dissemble is a game that rewards cunning, strategy, and deception. Players must constantly adapt and outmaneuver their opponents in order to emerge victorious. The title, Echelon: Survive and Dissemble, captures this dynamic perfectly, alluding to the complex social hierarchy of the colony and the importance of deception in achieving victory.
+> 19
 
 Can you quickly describe the game?
 
-> In this game, players are placed in the role of characters living in a dystopian, capitalistic Martian colony. They must navigate the ~~complex~~ social and economic systems of the colony, interacting with both other players and AI-controlled characters, while trying to survive and emerge as the last one standing. The game features multiple game modes, including Last One Standing, Team Target Elimination, and Free-mode, and requires players to use strategy and deception to outmaneuver their opponents and achieve victory. Players must also balance their actions and decision-making with the needs and functioning of the colony's economy, as their choices will have consequences for the overall state of the colony.
+> 18
 
 Summarize the gameplay
 
-> In this game, players are placed in a simulated Martian colony where they must complete duties assigned to them by a capitalist overlords in order to survive. These duties range from performing tasks within the colony, such as manufacturing and maintenance, to interacting with other players and AI-controlled characters. The player must decide whether to trust or deceive the other characters in order to advance their own goals. There are multiple game modes including Last One Standing, Team Target Elimination, and Free-mode, which allows for more casual and relaxed roleplaying. Players can also make strategic choices surrounding their own death, sacrificing one of their lives and a character in order to gain control of another character. The ultimate goal is to be the last ~~character~~ standing while also dying as few times as possible.
+> 17
 
 Describe the game in full
 
-> Echelon is a multiplayer online game set in a dystopian future where players are stranded on a Martian colony. The game is a combination of role-playing, economic simulation, and stealth action. Players must navigate the ~~complex~~ social and economic systems of the colony, while avoiding detection and attempting to outwit their opponents.
-> 
-> In the game, players are able to ~~choose from~~ a variety of roles, each with their own unique duties and responsibilities. These duties are performed automatically by the AI, but can be temporarily overridden by the player if they choose to take control of their character. The player must carefully balance their actions and make strategic decisions to survive and thrive in the harsh Martian environment.
-> 
-> The game has three different game modes: Last One Standing, Team Target Elimination, and Free-mode. In Last One Standing, players compete to be the last ~~character~~ alive, with the winner being the player who survived the longest while dying the least. In Team Target Elimination, players are divided into teams and must eliminate the "king" of the opposing team to win. Free-mode is a more relaxed, casual mode that allows for more role-playing.
-> 
-> The game has a strong emphasis on social stealth and deception. Players must carefully navigate the ~~complex~~ social hierarchies of the colony, trying to avoid detection while also trying to manipulate and deceive their opponents. The game also features a robust economic simulation, with players managing the production and distribution of goods and services within the colony.
-> 
-> The game has a distinctive and bleak tone, with players struggling to survive in a hostile and oppressive environment. The game's title, Echelon, refers to the hierarchy and power dynamics at play within the colony, with players constantly trying to climb the echelon to gain an advantage over their opponents.
+> 16
 
 Can you describe it again, but emphasize the competitive online play.
 
-> Echelon: Survive and Dissemble is a competitive online multiplayer game set in a dystopian, capitalistic society on a Martian colony. Players control human characters who must perform a variety of duties and tasks in order to keep the colony running smoothly and maintain their own survival. These tasks are performed automatically by AI if the player does not override their character's actions.
-> 
-> As players progress through the game, they must also contend with sabotage and deception from both other players and AI characters. Players can choose to directly attack other players with weapons, but ammunition is scarce and weapons are lethal, so battles are intense and short. Players can also engage in more stealthy tactics, such as sabotaging the duties of other players or causing accidents.
-> 
-> The ultimate goal of the game is to be the last player standing, with points being deducted for each time a player's character dies. The player with the highest score at the end of the game wins. The game features multiple game modes, including Last One Standing, Team Target Elimination, and Free-mode, which allows for more relaxed roleplaying. As players move from one character to another as they die, they must carefully consider their actions and strategize in order to emerge victorious.
+> 15
 
 describe it again but ensure to include that it is a third-person 3d game
 
-> Echelon is a third-person 3D game that takes place in a dystopian, capitalist society on a Mars colony. Players compete against each other in various game modes, including Last One Standing, Team Target Elimination, and Free-mode, to see who can survive the longest while also completing tasks and duties assigned to their character. These duties, which range from ~~farming and ~~manufacturing to ~~security and~~ maintenance, are performed automatically by AI if the player does not take control of their character.
-> 
-> Players can also choose to take control of their character at any point during their daily routine, allowing them to interact with other players and AI characters, and potentially disrupt their tasks and duties. This can be seen as a metaphor for psychosis, as the player represents the character's unwilling actions due to the extreme circumstances.
-> 
-> In addition to completing tasks and interacting with other players and AI, players must also navigate the potentially treacherous environments and equipment on the colony, as well as avoid or overcome the robot guards. Players can choose to engage in combat, but weapons and ammunition are scarce and combat is very lethal.
-> 
-> As players move from one character to another as they die, they must carefully strategize and make decisions that balance the cost and benefit of their actions, as well as consider the state of the colony's economy. The winner is determined by being the last character alive, with their rank being determined by the number of times they died during the game.
+> 14
 
 Describe it again, emphasizing the online competitive play and strategic decision making for survival and opponent elimination. Include the fact that it is a third-person game.
 
-> Echelon: Survive and Dissemble is a third-person online multiplayer game set in a dystopian future where players are tasked with surviving and thriving in a harsh Martian colony. Players must navigate a complex economy while also competing against each other and AI-controlled characters in a battle for survival. To emerge victorious, players must make strategic decisions and employ deception and sabotage to eliminate their opponents. The game features multiple game modes, including Last One Standing, Team Target Elimination, and Free-mode, allowing for a variety of playstyles and approaches to the competition.
+> 13
 
 Could the word Echelons refer to the progression of the player through the different characters as they die? An Echelon being each new life?
 
@@ -1048,15 +1189,11 @@ If the word refers to the progress through each character as the player dies, th
 
 Describe the game as "Echelons of Deception: Survive and Dissemble" and emphasize the online competitive roleplay elements. Mention the third-person perspective.
 
-> Echelons of Deception: Survive and Dissemble is an online competitive roleplaying game set in a Martian colony where players must navigate through various duties and tasks while also attempting to outwit and outlast their opponents. The game is played from a third-person perspective and tasks are performed automatically by AI unless the player intervenes and takes control. The ultimate goal is to be the last character alive while also minimizing the number of times the player dies. Players can sacrifice a character in order to gain control of another, leading to strategic decision making and deception. Alongside the main Last One Standing game mode, there are also team-based modes where players must eliminate the opposing team's leader and a more relaxed Free-mode for casual roleplaying. As characters die, the colony's economy is impacted, leading to a balance of cost and benefit in all actions. The game is set in a hostile, capitalistic environment where players must not only survive but also dissemble in order to emerge victorious.
+> 12
 
 Can you describe it in full detail
 
-> Echelons of Deception: Survive and Dissemble is a third-person, online multiplayer game set on a Martian colony. Players are tasked with performing duties in order to maintain the colony's economy and infrastructure, while also trying to outlast and outmaneuver their opponents. The game features three different game modes: Last One Standing, Team Target Elimination, and Free-mode. In Last One Standing, players compete to be the last character alive, while in Team Target Elimination, players must eliminate the designated target of the opposing team. Free-mode allows for more relaxed roleplaying.
-> 
-> As players progress through the game, they will encounter various challenges and dangers, such as malfunctioning equipment and the threat of other players. To survive, they must make strategic decisions and use cunning and deception to outwit their opponents. Players can also gain an advantage by sacrificing one of their lives and a character in order to take control of another character, potentially for strategic gain.
-> 
-> To succeed in the game, players must ~~master the various duties required to keep the colony functioning, such as resource gathering and production, while also~~ navigating the ~~complex~~ social dynamics and relationships within the colony. The game's immersive and atmospheric setting, combined with its focus on strategy and deception, creates a thrilling and intense online competitive experience.
+> 11
 
 Can you write a game design document for Echelons of Deception: Survive and Dissemble
 
@@ -1112,7 +1249,7 @@ Can you finish the conclusion
 
 Can you describe the game in less than 55 words?
 
-> Echelons of Deception: Survive and Dissemble is a third-person online competitive roleplaying game set in a Martian colony. Players must maintain the colony's economy and infrastructure while also strategizing and deceiving their opponents to emerge as the last survivor. The game features three game modes: Last One Standing, Team Target Elimination, and Free-mode.
+> 10
 
 How would you market this game?
 
@@ -1126,11 +1263,11 @@ What type of player demographics would like this game?
 
 Let's describe the game again, with a focus on the outlandish casino aspect, and the calamity which arises from the hostility and the unpredictability of player behavior.
 
-> Echelons of Deception: Survive and Dissemble is a third-person, online competitive role-playing game set in a lavish Martian casino colony. Players must maintain the colony's economy and infrastructure while facing challenges such as malfunctioning equipment and other players. Using strategic decision-making and deception, players must outwit their opponents and survive to emerge as the last one standing. The character ~~swap~~ mechanic allows players to take control of different characters, each with their own abilities and strengths, as they progress through the game. However, with the outrageous and often chaotic behavior of other players, anything can happen in this cutthroat environment. Will you come out on top, or will the colony descend into chaos?
+> 9
 
 Can you describe the game while mentioning sandbox and social stealth?
 
-> Echelons of Deception: Survive and Dissemble is a third-person, online competitive game set in a hostile, capitalist Martian colony. Players must use strategy, deception, and social stealth to survive and outwit their opponents while also maintaining the colony's economy and infrastructure. The game offers three different game modes: Last One Standing, Team Target Elimination, and Free-mode, each offering a unique gameplay experience. Players can also ~~swap between~~ different characters, each with their own abilities and strengths, as they progress through the game. The setting of the Martian colony, with its treacherous equipment and other players, adds to the unpredictable and chaotic atmosphere. With its immersive sandbox gameplay and intense social stealth mechanics, Echelons of Deception: Survive and Dissemble is sure to be a hit with players who enjoy a challenge and the thrill of outwitting their opponents.
+> 8
 
 Compare this game to the game Among Us. Is it too similar?
 
@@ -1172,27 +1309,27 @@ How might the food system be implemented in this game? The restaurant could be c
 
 Describe the game
 
-> Echelon: Deception and Survival is a third-person online competitive game set in a ~~futuristic~~ colony on Mars. Players control characters who must maintain the colony's economy and infrastructure while also competing against each other to be the last one standing. The game features three game modes: Last One Standing, Team Target Elimination, and Free-mode. In Last One Standing, players must eliminate all other players to win. In Team Target Elimination, players are divided into teams and must eliminate the opposing team's designated target. In Free-mode, players can roleplay and engage in more casual gameplay. Players can use strategic decision-making and deception to outwit their opponents and can ~~swap~~ between characters to gain advantages. The game features a variety of characters with unique abilities and strengths, and offers character ~~progression and~~ customization options. The setting of the Martian colony affects gameplay and creates an immersive atmosphere. The game has a visually striking art style and immersive sound design. It may include monetization strategies such as in-app purchases or microtransactions.
+> 7
 
 Describe the game, including the complex strategies that could emerge, similar to the end game in chess.
 
-> Echelon: Deception and Survival is a competitive online game set in a ~~futuristic~~ colony on Mars. Players take on the role of various characters, each with their own unique abilities and strengths, and must use strategic decision-making and deception to outwit their opponents and survive in the hostile environment. The game features three different game modes: Last One Standing, Team Target Elimination, and Free-mode, which offer a range of gameplay experiences from intense and fast-paced to more relaxed and casual. In addition to battling other players, players must also maintain the colony's economy and infrastructure, and can use the character swap mechanic to gain strategic advantages. As the game progresses, players will encounter unexpected challenges and dangers, such as malfunctioning equipment and the unpredictable behavior of their opponents, and must adapt their strategies accordingly. With its complex, chess-like endgame and sandbox elements, Echelon: Deception and Survival offers a truly unique and engaging online gaming experience.
+> 6
 
 ---
 
 Describe the game, and add elements of contemporary urban survival
 
-> Echelon: Deception and Survival is a online competitive roleplaying game set in a ~~futuristic~~ urban environment. Players take on the role of different characters, each with their own unique abilities and skills, and must navigate a world filled with danger and deception. The game features multiple game modes, including Last One Standing, Team Target Elimination, and Free-mode, all of which require strategic decision-making and fast-paced action. As players progress through the game, they must use their wits to outmaneuver their opponents, gather resources, and survive against all odds. With its focus on survival and deception, Echelon: Deception and Survival offers a unique and exciting gameplay experience for players looking for a fresh take on the urban survival genre.
+> 5
 
 ---
 
 Describe this game, emphasizing the competitive survival in the simulated economy, the scarcity and lethality of weapons, the social stealth elements, the AI characters, the goal of being last one standing, using strategy and assuming different characters when the player dies.
 
-> Echelon: A game of Deception and Survival is a third-person, online multiplayer game that takes place in a simulated economy set in a contemporary urban environment. Players must navigate the dangers and challenges of this world, including the scarcity of resources and the lethality of weapons, while also trying to outwit their opponents through strategy and deception. The game features a variety of gameplay elements, including social stealth, AI characters, and the ability to assume different characters when the player dies. The ultimate goal is to be the last one standing, using all of these tools at your disposal to outlast your opponents and emerge victorious. As the game progresses, players will have to make complex strategic decisions in order to survive and emerge as the winner.
+> 4
 
 Echelon: Deception and Survival
 
-> Echelon: Deception and Survival is an online competitive game set in a simulated economy where players must use strategy and social stealth to outwit their opponents. In this game, weapons are scarce and lethality is high, forcing players to constantly be on the lookout for their next opportunity. The ultimate goal is to be the last one standing, but when a player's character dies, they ~~have the option to sacrifice one of their lives and~~ take control of another character, potentially for strategic gain. The game also features AI characters, adding an element of unpredictability to the gameplay. In this world, survival is the key, and players must use all of their cunning and wit to come out on top.
+> 3
 
 ---
 
@@ -1498,7 +1635,7 @@ If there is not a lot of focus on character and progression, as it is a round-ba
 > 
 > It's also important to mention that if the game is a round-based competitive online game, the technical section should include details on the game's matchmaking, lobby, and network functionalities, as they are critical to the game's overall experience.
 
-Okay so can you start filling in the details for Echelons of Deception and Survival? It is a third-person online-only competitive survival battle-royal RPG immersive sim with two main game modes: Last One Standing and Team Target Elimination, and a third free-mode for casual serious and non-serious RP. The first setting that will be introduced as the only setting of the first version of the game will be a Martian gambling resort colony. The gameplay involves roleplaying jobs and tasks around the colony, mostly ultimately catering to the few elite VIP guests. Survival mechanics involve eating, sleeping, etc. There is an effort to discourage the use of direct pvp violence with guns etc, but that potential is always there. The identities of player-controlled opponents is not explicitly revealed. There is an element of mystery in determining who is a player or just an AI-controlled character. There is also strategy surrounding concealment of your identity as a player-controlled character. And, as always, even the player-controlled characters will be driven by game AI automatically. The player can choose to subtly make small decisions without fully overriding control, or if they make too much of a decision or take full control of the character, the player must remain in control until the player gets a full nights rest or takes some psychoactive medication. Some of the roles and jobs that the characters will need to fill are shopkeeper, cook/chef/waiter/food service, weapons manufacturing, robot manufacturing, facility maintenance, garbage removal, sewage system maintenance, logistics (importing goods from earth). There are some upper level roles such as VIP host and security manager, but they are not starting roles for the players. The physical security is all taken care of by extremely lethal humanoid robots. These robots also serve as the rules of play for the gambling operation: robot battle arena. Simple wagers are placed on the outcomes of robot battles. The entire colony is built upon this gambling operation. Massive energy and money is spent keeping this running. Perhaps, in secrecy, some of these robots and weapons are being manufactured in excess and potentially used for some other purpose or sold for profit. This is one of the meanings of the "Echelons of Deception." The entire colony is essential a giant deception, with layers of deception at every layer in between. The rules of the colony will disallow any human from possessing weapons, but of course some people are criminals and will possess them anyway, and some people are VIP and are deemed so important that rules basically don't apply. The rules become very selectively enforced: mostly as a way to keep the poor servants of the lower echelons of the colony in check.
+Okay so can you start filling in the details for Echelons of Deception and Survival? 2
 
 > Based on the information provided, here is a more detailed version of the Game Design Document outline for Echelons of Deception and Survival:
 > 
@@ -1550,7 +1687,7 @@ Okay so can you start filling in the details for Echelons of Deception and Survi
 
 Can you write the introductory paragraph of the game design document for me?
 
-> Echelons of Deception and Survival is a third-person online-only competitive survival battle-royale RPG immersive sim set in a Martian gambling resort colony. Players take on the role of various jobs and tasks around the colony, ultimately catering to the elite VIP guests. The gameplay involves a unique blend of survival mechanics, social-stealth mechanics, and immersive sim economic simulation, all while navigating the dangerous and mysterious world of the colony, where player identities are kept hidden and deception is at every turn. The game features two main game modes: Last One Standing and Team Target Elimination, as well as a third free-mode for casual serious and non-serious RP. With an emphasis on strategy and roleplaying, Echelons of Deception and Survival offers a thrilling and engaging experience for players looking for a new type of online competitive gaming.
+> 1
 
 
 ---
