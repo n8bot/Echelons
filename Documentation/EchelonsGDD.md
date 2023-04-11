@@ -10,24 +10,45 @@
 
 ### Draft 1
 
-- Echelons of Deception and Survival is
-  - open source
-  - online
-  - multiplayer
-  - round-based/non-persistent
-  - competitive
-  - third-person
-  - RPG
-  - survival
-  - battle-royale 
-  - immersive sim
-  - social stealth
-  - social deduction
-  - set in a variety of environments
+Echelons of Deception and Survival is a game that is
+- open source
+- cross-platform (Windows/Linux now, others to come)
+- online multiplayer
+- round-based/non-persistent
+- competitive
+- third-person
+- roleplaying
+- survival
+- battle-royale
+- immersive sim
+- social stealth
+- social deduction
+- set in a variety of environments
+
+Uses
+- Unreal Engine 5
+  - Lumen, Nanite, et. al.
+- Lyra
+- EOS (official)
+- Null subsystem (for unofficial/testing/Linux until EOS packages on Linux)
+- Metahumans
+  - Default for characters
+  - Custom for level villain (Ulon Mars)
+- Marketplace assets
+  - Free, Free for the month, etc.
+- New and existing open source assets
 
 Economy of a small setting is fully simulated
 
+Economic inputs are mostly imported
+
 Gameplay involves roleplaying jobs and tasks to fulfill survival mechanics
+
+Economy is sensitive to changes/disruptions in the supply of goods or performance of tasks
+
+Day/Night cycle, 7.5 mins/day
+
+Characters need food, sleep, mental stimulation/wellness
 
 AI controls all characters
 
@@ -36,6 +57,22 @@ Players possess a single character at a time
 Players can make small decisions or usurp full control from AI
 
 Tasks/daily routine performed automatically by AI
+
+Tasks are difficult to perform manually
+
+If control is usurped from AI, AI control does not return until a full night's rest (or medication)
+
+(The player control is a metaphor for mental illness/psychosis/some other form of mind control)
+
+Starting locations of shops/services will be randomized among eligible "real estate" slots
+
+Starting locations of character/roles will also be randomized
+
+Starting stats and traits of characters randomized
+
+PVP is discouraged through game design, but always possible
+
+In addition to completing tasks and interacting with other players and AI, players must also navigate the potentially treacherous environments, as well as avoid or overcome the AI guards. Players can choose to engage in combat, but weapons and ammunition are scarce and combat is very lethal.
 
 Main game mode Last One Standing:
 
@@ -67,6 +104,38 @@ New characters join the setting as players die, so the economy/simulation is alw
 
 The first setting that will be introduced as the only setting of the first version of the game will be a Martian gambling resort colony.
 
+Some of the roles and jobs that the characters will need to fill are 
+- shopkeeper
+- cook/chef/waiter/food service
+- weapons manufacturing
+- robot manufacturing
+- facility maintenance
+- garbage removal
+- sewage system maintenance
+- logistics (importing goods from earth)
+
+There are some upper level roles such as but they are not starting roles for the players.
+- VIP host
+- security manager 
+
+The physical security is all taken care of by extremely lethal humanoid robots. These robots also serve as the rules of play for the gambling operation: robot battle arena. Simple wagers are placed on the outcomes of robot battles. The entire colony is built upon this gambling operation. Massive energy and money is spent keeping this running. Perhaps, in secrecy, some of these robots and weapons are being manufactured in excess and potentially used for some other purpose or sold for profit. This is one of the meanings of the "Echelons of Deception." The entire colony is essential a giant deception, with layers of deception at every layer in between. The rules of the colony will disallow any human from possessing weapons, but of course some people are criminals and will possess them anyway, and some people are VIP and are deemed so important that rules basically don't apply. The rules become very selectively enforced: mostly as a way to keep the poor servants of the lower echelons of the colony in check.
+
+It may include monetization strategies such as in-app purchases or microtransactions, but not until the game is mature.
+
+Strategies of the game may involve:
+- concealing one's identity
+- deducing other players' identities
+- sacrificing a character/life, and/or setting up favourable conditions for future character lives
+- eliminating players through surreptitious action, while attempting to avoid loss of NPC life — there is an advantage in keeping as many NPC as possible, to operate the economy and provide potential extra lives
+- As characters die, the colony's economy is impacted, leading to a balance of cost and benefit in all actions.
+
+1. Players must carefully balance their actions in the colony, as the economy and infrastructure are fully simulated. Decisions made can have long-term consequences, and players must consider the cost and benefit of their actions.
+
+1. In addition to the normal duties assigned to their character, players can also try to acquire weapons and attack other players directly. However, weapons are scarce and combat is lethal, so players must weigh the risks and benefits of such actions carefully.
+
+1. Throughout the game, players must also be mindful of their own safety, as there are many ways to accidentally kill their character. The environment itself is hostile and dangerous, and players must always be on their guard.
+
+BLACK MARKET
 
 
 ### ChatGPT Extraction 1:
@@ -395,7 +464,7 @@ These notes are transcribed from handwritten notes, in the order they appear in 
 
 To build off of Lyra Sample Project…
 
-Multiplayer non-serious economy/crime simulator RP. Players take on a random role of a character in a scenario (town, etc. in this case martian outpost that is privateer-based, capitalist pay your way kinda thing to support Elon Musk’s martian robot fighting league, formerly Unreal Tournaments he bought from Epic Games.
+Multiplayer non-serious economy/crime simulator RP. Players take on a random role of a character in a scenario (town, etc. in this case martian outpost that is privateer-based, capitalist pay your way kinda thing to support Elon Musk’s martian robot fighting league, formerly Unreal Tournaments he bought from Epic Games.)
 
 Sarcastic “Server Rules” banner: (Maybe different random banners each time, with similar joke rules)
 
