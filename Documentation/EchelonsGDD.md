@@ -105,18 +105,22 @@ New characters join the setting as players die, so the economy/simulation is alw
 The first setting that will be introduced as the only setting of the first version of the game will be a Martian gambling resort colony.
 
 Some of the roles and jobs that the characters will need to fill are 
-- shopkeeper
+- shopkeeper (clothing/food/items)
 - cook/chef/waiter/food service
 - weapons manufacturing
 - robot manufacturing
 - facility maintenance
-- garbage removal
-- sewage system maintenance
+  - janitor
+  - power generation and distribution technician
+  - garbage removal
+  - sewage system maintenance
 - logistics (importing goods from earth)
+- casino croupier/pit boss?
 
 There are some upper level roles such as but they are not starting roles for the players.
 - VIP host
-- security manager 
+- security manager
+- business manager
 
 The physical security is all taken care of by extremely lethal humanoid robots. These robots also serve as the rules of play for the gambling operation: robot battle arena. Simple wagers are placed on the outcomes of robot battles. The entire colony is built upon this gambling operation. Massive energy and money is spent keeping this running. Perhaps, in secrecy, some of these robots and weapons are being manufactured in excess and potentially used for some other purpose or sold for profit. This is one of the meanings of the "Echelons of Deception." The entire colony is essential a giant deception, with layers of deception at every layer in between. The rules of the colony will disallow any human from possessing weapons, but of course some people are criminals and will possess them anyway, and some people are VIP and are deemed so important that rules basically don't apply. The rules become very selectively enforced: mostly as a way to keep the poor servants of the lower echelons of the colony in check.
 
@@ -135,7 +139,7 @@ Strategies of the game may involve:
 
 1. Throughout the game, players must also be mindful of their own safety, as there are many ways to accidentally kill their character. The environment itself is hostile and dangerous, and players must always be on their guard.
 
-BLACK MARKET
+A black market of banned goods/weapons will exist with AI and player participants
 
 
 ### ChatGPT Extraction 1:
