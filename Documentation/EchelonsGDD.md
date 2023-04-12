@@ -6,39 +6,79 @@
 
 ### Introduction
 
-*Echelons of Deception and Survival* is a multiplayer competitive third-person roleplaying game with elements of survival, social stealth, social deduction, immersive simulation, and battle-royale gameplay.
+*Echelons of Deception and Survival* is a competitive third-person roleplaying game with elements of social/urban survival, social stealth, social deduction, immersive economic simulation, and battle-royale gameplay.
 
-### Draft 1
+32 characters exist in a small, contained simulated economy. All of the characters are controlled by typical game AI, performing daily routines and tasks. 2-8 players are each assigned a single character at the beginning of a session.
 
-Echelons of Deception and Survival is a game that is
-- open source
+Tasks/daily routine performed automatically by AI
+
+Players can make small decisions or usurp full control from AI
+
+If control is usurped from AI, AI control does not return until a full night's rest (or medication)
+
+Tasks are difficult to perform manually
+
+(The player control is a metaphor for mental illness/psychosis/some other form of mind control)
+
+
+#### *Echelons of Deception and Survival* key points:
+- open source — open to contribution
 - cross-platform (Windows/Linux now, others to come)
 - online multiplayer
 - round-based/non-persistent
-- competitive
+- competitive or casual modes
 - third-person
 - roleplaying
-- survival
+- social/urban survival
 - battle-royale
 - immersive sim
 - social stealth
 - social deduction
-- set in a variety of environments
+- multitude of environments
 
-Uses
+#### *Echelons of Deception and Survival* uses:
 - Unreal Engine 5
   - Lumen, Nanite, et. al.
-- Lyra
-- EOS (official)
-- Null subsystem (for unofficial/testing/Linux until EOS packages on Linux)
-- Metahumans
-  - Default for characters
-  - Custom for level villain (Ulon Mars)
-- Marketplace assets
-  - Free, Free for the month, etc.
-- New and existing open source assets
+  - Lyra framework
+  - EOS/null online subsystem (for official/unofficial+testing+Linux until EOS packages on Linux)
+  - Metahumans
+    - default for AI/Player characters
+    - custom for villain (Ulon Mars)
+  - Marketplace assets
+    - free, free for the month, etc.
+  - new and existing open source assets
 
-Economy of a small setting is fully simulated
+The first and only setting of the first version will be a small contemporary Martian gambling resort colony. This first environment will be used to discover and explore potential gameplay mechanics/elements.
+
+Economy of the small setting is fully simulated
+
+#### Food:
+
+|                      | Restaurant | Cafeteria | Home Cooking
+---------------------- | ---------- | --- | ---
+**Ingredients**        | Wholesale | Food waste | Grocery store |
+**Recipes**            | Proprietary | N/A | Internet (dubious quality) |
+**Processing**         | Skilled worker | Unskilled worker | Self |
+**Waste**              | Food and packaging | None | Food and packaging |
+**Speed/Availability** | Fast/Always | Fast/Scheduled | Slow/Always |
+**Nourishment**        | Pleasing but unhealthy | Unpleasing and unhealthy | Depends |
+**Cost**               | $$$$$+ | Free* (with job) | $ -> $$$$$+ |
+
+#### Clothing:
+
+|                      | Default | Work uniform | Fashion
+---------------------- | ---------- | --- | ---
+**Durability**         | Fair | Poor | Poor |
+**Dress Code**         | Basic access | Work access | All access (depends) |
+**Cost**               | Free* | $$$ | $$$$$+ |
+
+> **Note:** Clothes must be cleaned in order to maintain dress code access. This can be done manually at home or via paid laundry service.
+
+- robots
+- weapons/ammunition
+- drugs
+- glass for broken windows
+- cleaning supplies
 
 Economic inputs are mostly imported
 
@@ -50,19 +90,7 @@ Day/Night cycle, 7.5 mins/day
 
 Characters need food, sleep, mental stimulation/wellness
 
-AI controls all characters
-
-Players possess a single character at a time
-
-Players can make small decisions or usurp full control from AI
-
-Tasks/daily routine performed automatically by AI
-
-Tasks are difficult to perform manually
-
-If control is usurped from AI, AI control does not return until a full night's rest (or medication)
-
-(The player control is a metaphor for mental illness/psychosis/some other form of mind control)
+Certain roles/access to certain areas is dependent on cleanliness and dress code
 
 Starting locations of shops/services will be randomized among eligible "real estate" slots
 
@@ -102,8 +130,6 @@ Free/Casual RP mode:
 
 New characters join the setting as players die, so the economy/simulation is always maintained to some extent.
 
-The first setting that will be introduced as the only setting of the first version of the game will be a Martian gambling resort colony.
-
 Some of the roles and jobs that the characters will need to fill are 
 - shopkeeper (clothing/food/items)
 - cook/chef/waiter/food service
@@ -140,6 +166,8 @@ Strategies of the game may involve:
 1. Throughout the game, players must also be mindful of their own safety, as there are many ways to accidentally kill their character. The environment itself is hostile and dangerous, and players must always be on their guard.
 
 A black market of banned goods/weapons will exist with AI and player participants
+
+Certain players of the upper echelon are "allowed to have weapons, but you can't shoot them."
 
 
 ### ChatGPT Extraction 1:
