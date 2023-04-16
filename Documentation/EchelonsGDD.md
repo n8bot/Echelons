@@ -36,14 +36,16 @@ Tasks are difficult to perform manually
 - social deduction
 - multitude of environments
 
+
 #### *Echelons of Deception and Survival* uses:
 - Unreal Engine 5
   - Lumen, Nanite, et. al.
   - Lyra framework
-  - EOS/null online subsystem (for official/unofficial+testing+Linux until EOS packages on Linux)
+  - EOS/null online subsystems (for official/unofficial+testing+Linux until EOS packages on Linux)
   - Metahumans
     - default for AI/Player characters
     - custom for villain (Ulon Mars)
+    - extensive use of all available clothing and accessory options for in-game swapping
   - Marketplace assets
     - free, free for the month, etc.
   - new and existing open source assets
@@ -55,7 +57,7 @@ Economy of the small setting is fully simulated
 #### Food:
 
 |                      | Restaurant | Cafeteria | Home Cooking
----------------------- | ---------- | --- | ---
+---------------------: | ---------- | --- | ---
 **Ingredients**        | Wholesale | Food waste | Grocery store |
 **Recipes**            | Proprietary | N/A | Internet (dubious quality) |
 **Processing**         | Skilled worker | Unskilled worker | Self |
@@ -67,7 +69,7 @@ Economy of the small setting is fully simulated
 #### Clothing:
 
 |                      | Default | Work uniform | Fashion
----------------------- | ---------- | --- | ---
+---------------------: | ---------- | --- | ---
 **Durability**         | Fair | Poor | Poor |
 **Dress Code**         | Basic access | Work access | All access (depends) |
 **Cost**               | Free* | $$$ | $$$$$+ |
@@ -169,6 +171,231 @@ A black market of banned goods/weapons will exist with AI and player participant
 
 Certain players of the upper echelon are "allowed to have weapons, but you can't shoot them."
 
+
+### New Notes
+
+#### Ontology
+
+Ontology plays a large part of the themes and tone of the game. The ontology will be precise, yet ambiguous. As in, each use of a term will be well defined, but there will be many uses of a single term all of which can only be determined based on context.
+
+E.g., the word echelon itself. It will be used to describe so many things — upper and lower echelon character roles, numbered echelons of player deaths, referring to physical stories of a building, referring to other individual objects. There could be several ways to use these different terms. Upper/lower echelon, echelon 1, 2, 3, or 4. First echelon/Second echelon. Echelon A, B, C. Your echelon, their echelon.
+
+This kind of ambiguous wordplay will be everywhere.
+
+
+#### Tortoise-TTS
+
+Text to speech using [TorToiSe](https://github.com/neonbjb/tortoise-tts)?
+
+Oh wow yes.
+
+
+#### Host Migration
+
+If a player dropped out early, and they happened to be the host, the game is ruined. We should plan for host migration, dedicated servers, or have all players in session share hosting duties. Every client is also a server? Madness.
+
+
+#### Personality Traits
+
+Perhaps a simple positive/negative binary personality trait is determined for each AI character. It could be called "toxic personality" vs wholesome (or sweetheart).
+
+Maybe there is Wholesome, Neutral, and Toxic. All AI character decisions could be based off of a probability weighted against this metric. Being toxic affects probabilities that would be deemed negative like crime, etc.
+
+
+#### In the end quote
+
+~~"In the end, it was echelons upon echelons of deception. Always has been."~~ "In the end, it was all Echelons of Deception and Survival the whole way down, always has been."
+
+
+#### Last One Standing Game Mode additional scoring
+
+Perhaps the total duration of time alive of all characters boosts the absolute score of any players in the game. Relative score, for the single game, is simply last one standing - times died. Across all games, the duration of all characters in an individual game, determines the overall absolute score placement across all games (of equivalent versions — leaderboards will be reset for gameplay changes).
+
+
+#### Speech-to-text for AI
+
+Whisper.cpp for speech recognition for AI characters to detect spoken words.
+
+
+#### Survival/MMO mechanics with quick play times
+
+A very essential core part of this game is that the game can be played and fully enjoyed with play sessions of limited time.
+
+Aspects of survival/MMO games seem very fun, but are inaccessible to people who do not have lots of spare time. Echelons is for them.
+
+Also, the reason that VR is not an option for now. VR is a bit much for some people. This game is for them. This game is to provide the social gaming experience of some of the VR, MMO, and survival games, to people who have no time or energy for that lmao.
+
+
+#### Source/Sink
+
+Terms to use for economy sim are source and sink. We want to actually avoid these concepts as much as practical/fun.
+
+The outside economy, from which goods are imported (and exported?) needs to be "simulated" on a basic level, in the sense that it can not be an unlimited source or sink.
+
+
+#### Server MOTD rules
+
+The p2p lobby "server" MOTD with the semi-dynamic content, including server rules, can name the actual players in the lobby as the admins/owners of the server. Give real information to the players in this.
+
+The rules can serve as game instructions. No shooting people (press X to shoot people).
+
+
+#### Robots can perform any tasks
+
+Robots can be programmed, with the same internal game system, to perform any task/duty that the AI characters perform. They can perform it to much higher standards, and at quicker speeds, and with less instruction time. (The players have the worst speed, accuracy, and instruction time compared to robots and AI characters.)
+
+However, the robots are typically never programmed this way by default. They perform two roles by default: security, and arena combat for rules of play. Only with non-obvious techniques can the robots be repurposed.
+
+Also, a price-list can be discovered for the robots and weapons, but as they are never for sale it seems confusing — it's a price list for outside sales.
+
+
+#### Different shoes have vastly different sounds
+
+Some nearly silent, some really loud. Stylish ones are loud, worn out old ones are quiet but no access.
+
+
+---
+
+### Collections of Pre-existing Notes
+
+Below is a collection of notes about the game.
+
+
+### Notebook Notes
+
+These notes are transcribed from handwritten notes, in the order they appear in the notebook. The order is not logical.
+
+
+#### Unsorted
+
+- Roles mapped to chess pieces — 32 Characters total
+  - Upper echelon: Kings, Queens, Rooks, Knights, Bishops — VIP Whales, Operations Management, Security Management, Small Business Operators
+  - Lower echelon: Pawns — Workers
+- Mental health is modeled with medication as a pickup to buff/debuff certain stats simultaneously (restores mental health with side effects)
+- Picture the routines of all the specific jobs/roles
+- Characters must sleep  
+  - While sleeping characters/players can use their electornic device (phone, "mental probe" implant, etc.) to perform online shopping and other activities
+  - AI-controlled characters can also do this automatically to some extent
+  - This mechanic adds to the narrative as well as gives players something to do when the character is sleeping
+  - Perhaps sleeping pills are required to do activities while sleeping
+  - Maybe other types of pills allow a character to forgoe sleep with some debuff side-effect
+- Maybe the Knights are more like dedicated security/bodyguards for the VIP whales
+- Currency? Digital/Cash?
+  - "Mars Credits"?
+  - Proxy?
+    - Diamonds?
+    - Bullets?
+    - Pills?
+    - Spices?
+    - Booze?
+- Chat? Voice? Text?
+  - "SMS" via phone or "mental probe" implant?
+- Social Credit?
+- Player-paid billboard ads?
+- Business reviews?
+  - Message to/from businesses?
+- Random business names
+  - Players name theirs
+- Battery on phone or "mental probe" implant depletes
+- Camera movement lags AI movement?
+- Phone/ID Device can be lost/stolen
+  - Phone/ID Device is issued by the casino/house/management/colony
+- Entire facility is put under lock down, red lights and sirens, if any glass is broken of the dome, etc.
+  - Roof glass breaking mechanism: multiple layers of glass. Shards of glass rain down on characters causing damage. Red alert, lockdown. Always explained away as thankfully all the layers didn't break. Technical side: Glass planels never do break, they just spawn shards of glass for simplicity.
+- Throwing system
+  - Physical properties like hardness, weight, etc., affect trajectory and damage
+
+
+#### What is the angle/take of the colony?
+
+- Simply scamming the colonists with exchange rates sending money from earth, converting to Mars Credits and no facility to transfer back to Earth currency.
+- Casino/House manipulated the digital currency?
+  - Printing money?
+- Ulon Mars is the mastermind
+  - Mars Gambling Resort, LLC owns and operates entire facility except small independent businesses (which are owned by Mars Gambling Resort, but operated and rented by the Bishops/whomever)
+    - VIP Guests Bring the money to keep the wheels greased — tons of it
+      - Workers do all the work — tons of it
+        - Robots combat as a basis for gambling and as physical security/police.
+- "Amazing.com" PRIMO account gives you one-day delivery to Mars from their off-world distribution centers
+  - Prices are inflated because Mars
+- There is a weapons manufacturing facility and a humanoid robot manufacturing facility
+- Ulon Mars has ulterior motives for the entire operation. There is an ultimate echelon of deception which is revealed for the first time when the player is victorious in a round.
+
+
+#### Monetization
+
+- MTX for players to be able to offer special items *for-sale* in their in-game shops
+  - Has gameplay implications — users without assets will not be able to offer certain items for sale, and could reveal their identity easier
+
+
+#### Mapping to Chess Moves
+
+- Pawn — Worker: limited movement, but with a sneaky en-passant (the strategy employed by players)
+- Bishop — Small Business Operators: large range of motion in a certain direction, limited to its domain (some special access, but not an "insider")
+- Knight — Special Security: range is limited by policy, but can "pick" targets with special access (like jumping over pieces)
+- Rook — House: large range of motion, domain is not limited — all access privileges
+- Queen — VIP subset: nearly-unlimited range of motion, but ultimately tied to the King and their limitless resources (charm their way anywhere)
+- King — VIP subset: debilitated by the stress and burden of the colony — remorse, sense of being scammed, shame, addictions, mental/physical health problems
+
+
+#### Unsorted
+
+- Package inspection game mechanic/duty/task/ability
+  - A certain role or set of roles has the authority to inspect individual packages in logistics at will, searching for contraband or for any other purpose
+  - Package contents are physically laid out and the individual items can be interacted with like normal
+- The Weenie is the large structure at the center of the colony, which serves multiple purposes and is a very tall tower
+  - The base of the Weenie holds the Emergency Escape Balls which will launch VIPs to safety in case of danger
+    - They VIPs climb inside, and are launched into the air, away from the colony, and land back to safety on the Martian surface gently via parachute
+      - They will never function when a person is inside — they will parachute perfectly every time they are launched empty
+  - The Weenie also supports the protective cup — the glass dome around the colony, which provides the physical barrier to the deadly Martian atmosphere
+- Possible mental model of AI/Characters whereby they self-rank themselves in terms of superiority — modelling complexes of narcissists and the opposite
+- Mandatory "mental probe" implants (neurolink)
+
+
+#### Game Types
+
+- Last One Standing
+- Team Target Elimination
+- Hitpeople
+  - All players are secretly hit persons. Crazy Ulon Mars has given them all tailored hit lists which contain some AI characters and also all other player characters, but without knowledge of which is which. Winner is the first to complete their list without getting hitted.
+
+![image](https://user-images.githubusercontent.com/22458343/224476328-919a5534-0d16-4a9e-ad9e-42348b0ed29e.png)
+
+
+---
+
+### Discord Ramblings
+
+- going to try and model the npc ai using Maslow's hierarchy, the biopsychosocial model, and the stress and coping model of human behaviour.
+- I think the game name will be Ulon Mars
+  - and ppl can joke, like they act confused when they hear the name and someone is like "Yeah he changed his name" and they're like oooh yeah yeah ok but we never say the old name lol
+
+
+---
+
+### Game Idea LyraRP
+
+To build off of Lyra Sample Project…
+
+Multiplayer non-serious economy/crime simulator RP. Players take on a random role of a character in a scenario (town, etc. in this case martian outpost that is privateer-based, capitalist pay your way kinda thing to support Elon Musk’s martian robot fighting league, formerly Unreal Tournaments he bought from Epic Games.)
+
+Sarcastic “Server Rules” banner: (Maybe different random banners each time, with similar joke rules)
+
+"Server Rules:"
+- No killing
+- No guns
+- No shooting guns
+- No stealing
+- No talking
+- Go to your job
+- No bad behaviour
+- No selling stuff without permission from the mods
+- No drugs
+- No arguing with the mods
+- Report to mods (there actually are no mods)
+
+
+---
 
 ### ChatGPT Extraction 1:
 
@@ -327,194 +554,6 @@ Certain players of the upper echelon are "allowed to have weapons, but you can't
 
     1. The game ends when there is only one character left alive, at which point the winner is determined based on their rank and the number of times they died during the game. The last player
 
-30. 
-
-
-### New Notes
-
-#### Ontology
-
-Ontology plays a large part of the themes and tone of the game. The ontology will be precise, yet ambiguous. As in, each use of a term will be well defined, but there will be many uses of a single term all of which can only be determined based on context.
-
-E.g., the word echelon itself. It will be used to describe so many things — upper and lower echelon character roles, numbered echelons of player deaths, referring to physical stories of a building, referring to other individual objects. There could be several ways to use these different terms. Upper/lower echelon, echelon 1, 2, 3, or 4. First echelon/Second echelon. Echelon A, B, C. Your echelon, their echelon.
-
-This kind of ambiguous wordplay will be everywhere.
-
-
-#### Tortoise-TTS
-
-Text to speech using [TorToiSe](https://github.com/neonbjb/tortoise-tts)?
-
-Oh wow yes.
-
-
-#### Host Migration
-
-If a player dropped out early, and they happened to be the host, the game is ruined. We should plan for host migration, dedicated servers, or have all players in session share hosting duties. Every client is also a server? Madness.
-
-
-#### Personality Traits
-
-Perhaps a simple positive/negative binary personality trait is determined for each AI character. It could be called "toxic personality" vs wholesome (or sweetheart).
-
-
-#### In the end quote
-
-~~"In the end, it was echelons upon echelons of deception. Always has been."~~ "In the end, it was all Echelons of Deception and Survival the whole way down, always has been."
-
-
-#### Last One Standing Game Mode additional scoring
-
-Perhaps the total duration of time alive of all characters boosts the absolute score of any players in the game. Relative score, for the single game, is simply last one standing - times died. Across all games, the duration of all characters in an individual game, determines the overall absolute score placement across all games (of equivalent versions — leaderboards will be reset for gameplay changes).
-
-
-#### Speech-to-text for AI
-
-Whisper.cpp for speech recognition for AI characters to detect spoken words.
-
-
----
-
-### Collections of Pre-existing Notes
-
-Below is a collection of notes about the game.
-
-
-### Notebook Notes
-
-These notes are transcribed from handwritten notes, in the order they appear in the notebook. The order is not logical.
-
-
-#### Unsorted
-
-- Roles mapped to chess pieces — 32 Characters total
-  - Upper echelon: Kings, Queens, Rooks, Knights, Bishops — VIP Whales, Operations Management, Security Management, Small Business Operators
-  - Lower echelon: Pawns — Workers
-- Mental health is modeled with medication as a pickup to buff/debuff certain stats simultaneously (restores mental health with side effects)
-- Picture the routines of all the specific jobs/roles
-- Characters must sleep  
-  - While sleeping characters/players can use their electornic device (phone, "mental probe" implant, etc.) to perform online shopping and other activities
-  - AI-controlled characters can also do this automatically to some extent
-  - This mechanic adds to the narrative as well as gives players something to do when the character is sleeping
-  - Perhaps sleeping pills are required to do activities while sleeping
-  - Maybe other types of pills allow a character to forgoe sleep with some debuff side-effect
-- Maybe the Knights are more like dedicated security/bodyguards for the VIP whales
-- Currency? Digital/Cash?
-  - "Mars Credits"?
-  - Proxy?
-    - Diamonds?
-    - Bullets?
-    - Pills?
-    - Spices?
-    - Booze?
-- Chat? Voice? Text?
-  - "SMS" via phone or "mental probe" implant?
-- Social Credit?
-- Player-paid billboard ads?
-- Business reviews?
-  - Message to/from businesses?
-- Random business names
-  - Players name theirs
-- Battery on phone or "mental probe" implant depletes
-- Camera movement lags AI movement?
-- Phone/ID Device can be lost/stolen
-  - Phone/ID Device is issued by the casino/house/management/colony
-- Entire facility is put under lock down, red lights and sirens, if any glass is broken of the dome, etc.
-  - Roof glass breaking mechanism: multiple layers of glass. Shards of glass rain down on characters causing damage. Red alert, lockdown. Always explained away as thankfully all the layers didn't break. Technical side: Glass planels never do break, they just spawn shards of glass for simplicity.
-- Throwing system
-  - Physical properties like hardness, weight, etc., affect trajectory and damage
-
-
-#### What is the angle/take of the colony?
-
-- Simply scamming the colonists with exchange rates sending money from earth, converting to Mars Credits and no facility to transfer back to Earth currency.
-- Casino/House manipulated the digital currency?
-  - Printing money?
-- Ulon Mars is the mastermind
-  - Mars Gambling Resort, LLC owns and operates entire facility except small independent businesses (which are owned by Mars Gambling Resort, but operated and rented by the Bishops/whomever)
-    - VIP Guests Bring the money to keep the wheels greased — tons of it
-      - Workers do all the work — tons of it
-        - Robots combat as a basis for gambling and as physical security/police.
-- "Amazing.com" PRIMO account gives you one-day delivery to Mars from their off-world distribution centers
-  - Prices are inflated because Mars
-- There is a weapons manufacturing facility and a humanoid robot manufacturing facility
-- Ulon Mars has ulterior motives for the entire operation. There is an ultimate echelon of deception which is revealed for the first time when the player is victorious in a round.
-
-
-#### Monetization
-
-- MTX for players to be able to offer special items *for-sale* in their in-game shops
-  - Has gameplay implications — users without assets will not be able to offer certain items for sale, and could reveal their identity easier
-
-
-#### Mapping to Chess Moves
-
-- Pawn — Worker: limited movement, but with a sneaky en-passant (the strategy employed by players)
-- Bishop — Small Business Operators: large range of motion in a certain direction, limited to its domain (some special access, but not an "insider")
-- Knight — Special Security: range is limited by policy, but can "pick" targets with special access (like jumping over pieces)
-- Rook — House: large range of motion, domain is not limited — all access privileges
-- Queen — VIP subset: nearly-unlimited range of motion, but ultimately tied to the King and their limitless resources (charm their way anywhere)
-- King — VIP subset: debilitated by the stress and burden of the colony — remorse, sense of being scammed, shame, addictions, mental/physical health problems
-
-
-#### Unsorted
-
-- Package inspection game mechanic/duty/task/ability
-  - A certain role or set of roles has the authority to inspect individual packages in logistics at will, searching for contraband or for any other purpose
-  - Package contents are physically laid out and the individual items can be interacted with like normal
-- The Weenie is the large structure at the center of the colony, which serves multiple purposes and is a very tall tower
-  - The base of the Weenie holds the Emergency Escape Balls which will launch VIPs to safety in case of danger
-    - They VIPs climb inside, and are launched into the air, away from the colony, and land back to safety on the Martian surface gently via parachute
-      - They will never function when a person is inside — they will parachute perfectly every time they are launched empty
-  - The Weenie also supports the protective cup — the glass dome around the colony, which provides the physical barrier to the deadly Martian atmosphere
-- Possible mental model of AI/Characters whereby they self-rank themselves in terms of superiority — modelling complexes of narcissists and the opposite
-- Mandatory "mental probe" implants (neurolink)
-
-
-#### Game Types
-
-- Last One Standing
-- Team Target Elimination
-- Hitpeople
-  - All players are secretly hit persons. Crazy Ulon Mars has given them all tailored hit lists which contain some AI characters and also all other player characters, but without knowledge of which is which. Winner is the first to complete their list without getting hitted.
-
-![image](https://user-images.githubusercontent.com/22458343/224476328-919a5534-0d16-4a9e-ad9e-42348b0ed29e.png)
-
-
----
-
-### Discord Ramblings
-
-- going to try and model the npc ai using Maslow's hierarchy, the biopsychosocial model, and the stress and coping model of human behaviour.
-- I think the game name will be Ulon Mars
-  - and ppl can joke, like they act confused when they hear the name and someone is like "Yeah he changed his name" and they're like oooh yeah yeah ok but we never say the old name lol
-
-
----
-
-### Game Idea LyraRP
-
-To build off of Lyra Sample Project…
-
-Multiplayer non-serious economy/crime simulator RP. Players take on a random role of a character in a scenario (town, etc. in this case martian outpost that is privateer-based, capitalist pay your way kinda thing to support Elon Musk’s martian robot fighting league, formerly Unreal Tournaments he bought from Epic Games.)
-
-Sarcastic “Server Rules” banner: (Maybe different random banners each time, with similar joke rules)
-
-"Server Rules:"
-- No killing
-- No guns
-- No shooting guns
-- No stealing
-- No talking
-- Go to your job
-- No bad behaviour
-- No selling stuff without permission from the mods
-- No drugs
-- No arguing with the mods
-- Report to mods (there actually are no mods)
-
-
----
 
 ### ChatGPT 1
 
