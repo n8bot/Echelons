@@ -8,18 +8,6 @@
 
 *Echelons of Deception and Survival* is a competitive third-person roleplaying game with elements of social/urban survival, social stealth, social deduction, immersive economic simulation, and battle-royale gameplay.
 
-32 characters exist in a small, contained simulated economy. All of the characters are controlled by typical game AI, performing daily routines and tasks. 2-8 players are each assigned a single character at the beginning of a session.
-
-Tasks/daily routine performed automatically by AI
-
-Players can make small decisions or usurp full control from AI
-
-If control is usurped from AI, AI control does not return until a full night's rest (or medication)
-
-Tasks are difficult to perform manually
-
-(The player control is a metaphor for mental illness/psychosis/some other form of mind control)
-
 
 #### *Echelons of Deception and Survival* key points:
 - open source — open to contribution
@@ -50,37 +38,82 @@ Tasks are difficult to perform manually
     - free, free for the month, etc.
   - new and existing open source assets
 
+32 characters exist in a small simulated economy
+
+All characters are controlled automatically by typical game AI performing daily routines and tasks
+
+AI character decisions are made based on randomized/probabilistic personality traits determined at round start — using Maslow's hierarchy, the biopsychosocial model, and the stress and coping model of human behaviour
+
+2-8 players are each assigned a single character at the beginning of a session, which they can choose to make small decisions for or take full control of at any time
+
+If control is usurped from AI, AI control does not return until a full night's rest (or medication)
+
+Tasks are difficult to perform manually
+
+(The player control is a metaphor for mental illness/psychosis/some other form of mind control)
+
 The first and only setting of the first version will be a small contemporary Martian gambling resort colony. This first environment will be used to discover and explore potential gameplay mechanics/elements.
 
 Economy of the small setting is fully simulated
 
 #### Food:
 
-|                      | Restaurant | Cafeteria | Home Cooking
----------------------: | ---------- | --- | ---
-**Ingredients**        | Wholesale | Food waste | Grocery store |
-**Recipes**            | Proprietary | N/A | Internet (dubious quality) |
-**Processing**         | Skilled worker | Unskilled worker | Self |
-**Waste**              | Food and packaging | None | Food and packaging |
-**Speed/Availability** | Fast/Always | Fast/Scheduled | Slow/Always |
-**Nourishment**        | Pleasing but unhealthy | Unpleasing and unhealthy | Depends |
-**Cost**               | $$$$$+ | Free* (with job) | $ -> $$$$$+ |
+|                      | Restaurant         | Cafeteria            | Home Cooking
+---------------------: | :----------------- | :------------------- | :-----------
+**Ingredients**        | wholesale          | food waste           | groceries
+**Recipes**            | proprietary        | N/A                  | free/whatever/good luck
+**Processing**         | skilled worker     | unskilled worker     | self
+**Waste**              | food/packaging     | none                 | food/packaging
+**Speed/Availability** | fast/always        | fast/scheduled       | slow/always
+**Nourishment**        | pleasing/unhealthy | unpleasing/unhealthy | depends
+**Cost**               | $$$$$+             | free* (with job)     | $ -> $$$$$+
 
 #### Clothing:
 
-|                      | Default | Work uniform | Fashion
----------------------: | ---------- | --- | ---
-**Durability**         | Fair | Poor | Poor |
-**Dress Code**         | Basic access | Work access | All access (depends) |
-**Cost**               | Free* | $$$ | $$$$$+ |
+|                      | Default      | Work uniform | Fashion
+---------------------: | :----------- | :----------- | :------
+**Durability**         | fair         | poor         | poor
+**Dress Code**         | basic access | work access  | all access*
+**Cost**               | free*        | $$$          | $$$$$+
 
 > **Note:** Clothes must be cleaned in order to maintain dress code access. This can be done manually at home or via paid laundry service.
+> 
+> Fashion-based access is subject to the taste and discretion of the character or robot granting access.
 
-- robots
-- weapons/ammunition
-- drugs
-- glass for broken windows
+#### Robots and weapons/amo:
+
+The physical security is all taken care of by extremely lethal humanoid robots armed with firearms and grenades
+
+The robots also serve as the rules of play for the gambling operation robot battle arena — simple wagers are placed on the outcomes of robot battles
+
+The entire colony is built upon this gambling operation — massive amounts of energy and money are spent keeping this running
+
+In secrecy, some of these robots and weapons are being manufactured in excess and used for some other purpose or sold for profit — this is one of the meanings of "Echelons of Deception" — the entire colony is essentially an overall giant deception, with layers of micro-deceptions the whole way down
+
+The rules of the colony will disallow any human from possessing weapons, but of course some people are criminals and will possess them anyway — and some people are VIP and deemed so important that rules basically don't apply to them — unofficially "allowed to have weapons, but can't shoot them"
+
+The rules in general are very selectively enforced — mostly as a way to keep the poor servants of the lower echelons of the colony in check
+
+#### General economic goods/services:
+
 - cleaning supplies
+  - personal hygiene contributes to access similar to dress-code
+- medication
+  - robots also administer medication and health services
+- rent/real-estate
+- power bills
+- water bills
+- household items/other entertainment goods and services
+- spa/makeup/hair styling
+
+#### Black market:
+
+- drugs
+  - allow players to require less sleep/food/etc., with side-effects
+  - allow players to enhance some traits, with side-effects
+  - make money by selling to whales/etc.
+  - drug labs from obscure input products
+- illegal imported weapons
 
 Economic inputs are mostly imported
 
@@ -132,44 +165,61 @@ Free/Casual RP mode:
 
 New characters join the setting as players die, so the economy/simulation is always maintained to some extent.
 
-Some of the roles and jobs that the characters will need to fill are 
-- shopkeeper (clothing/food/items)
-- cook/chef/waiter/food service
-- weapons manufacturing
-- robot manufacturing
-- facility maintenance
-  - janitor
-  - power generation and distribution technician
-  - garbage removal
-  - sewage system maintenance
-- logistics (importing goods from earth)
-- casino croupier/pit boss?
+#### Character roles and their chess counterparts:
 
-There are some upper level roles such as but they are not starting roles for the players.
-- VIP host
-- security manager
-- business manager
+Chess   | Echelons
+------- | ---
+pawns   | unskilled workers
+knights | moderators
+bishops | business operators
+rooks   | VIP hosts
+queens  | whale guest
+kings   | whale guest*
 
-The physical security is all taken care of by extremely lethal humanoid robots. These robots also serve as the rules of play for the gambling operation: robot battle arena. Simple wagers are placed on the outcomes of robot battles. The entire colony is built upon this gambling operation. Massive energy and money is spent keeping this running. Perhaps, in secrecy, some of these robots and weapons are being manufactured in excess and potentially used for some other purpose or sold for profit. This is one of the meanings of the "Echelons of Deception." The entire colony is essential a giant deception, with layers of deception at every layer in between. The rules of the colony will disallow any human from possessing weapons, but of course some people are criminals and will possess them anyway, and some people are VIP and are deemed so important that rules basically don't apply. The rules become very selectively enforced: mostly as a way to keep the poor servants of the lower echelons of the colony in check.
+> **Note:** King/queen does not translate to any gender in echelons. The only thing that distinguishes a king from a queen is that the king is chosen as the mark for elimination while in TTE mode.
+
+1. #### unskilled workers — pawns:
+   1. weapons/ammo manufacturer
+   1. robot manufacturer
+   1. facility maintainer
+      - glass repair
+      - general colony equipment repair
+      - air conditioning repair
+      - sewage repair
+      - power distribution repair
+      - general janitorial cleaning
+   1. cafeteria worker
+   1. logistics worker
+
+1. #### skilled workers — pieces
+   1. moderators (managers of the robot security force and bodyguards of whales) — knights
+   1. independent business operators (managers of the shops, restaurants, and other amenity businesses not related to the colony, robots, weapons, gambling, etc.. LOL. maybe they are owner-operators!!! living the dream! llmao! They are just pawns but pretend to own things.) — bishops
+   1. VIP hosts (the managers of the casino, the colony as a whole, etc. but they are pre-occupied catering to the whims of the whales) — rooks
+
+1. #### guests
+   1. whales 
+      - purely non-worker citizens, who have lots and lots of money who were sold a one-way ticket to the colony as permanent tourists — kings and queens
+
+> **Note:** Whales are essentially employees of the VIP hosts/colony. If they don't gamble, they lose their status as VIP — similar to losing employment status. They lose access to their echelon, their private gambling salon, their comped food, etc.
+
+All these roles are merely defined by tasks. There is no "official hired or not" status. Hired is a concept mutually agreed upon by the employee and the employer. It depends on attendance, performing the task in question, etc.
+
+This is a *tasks* system, not a *roles/jobs* system. Everyone is technically the same. Skill in certain tasks might be required and can be gained somehow.
+
+This is how criminality works. The roles on the black market are not defined "officially," they simply emerge from the market economics (and the AI inclination to perform certain tasks based on toxic personality traits and a probability).
 
 It may include monetization strategies such as in-app purchases or microtransactions, but not until the game is mature.
 
-Strategies of the game may involve:
+
+#### Strategies of the game may involve:
+
 - concealing one's identity
 - deducing other players' identities
 - sacrificing a character/life, and/or setting up favourable conditions for future character lives
 - eliminating players through surreptitious action, while attempting to avoid loss of NPC life — there is an advantage in keeping as many NPC as possible, to operate the economy and provide potential extra lives
-- As characters die, the colony's economy is impacted, leading to a balance of cost and benefit in all actions.
-
-1. Players must carefully balance their actions in the colony, as the economy and infrastructure are fully simulated. Decisions made can have long-term consequences, and players must consider the cost and benefit of their actions.
-
-1. In addition to the normal duties assigned to their character, players can also try to acquire weapons and attack other players directly. However, weapons are scarce and combat is lethal, so players must weigh the risks and benefits of such actions carefully.
-
-1. Throughout the game, players must also be mindful of their own safety, as there are many ways to accidentally kill their character. The environment itself is hostile and dangerous, and players must always be on their guard.
-
-A black market of banned goods/weapons will exist with AI and player participants
-
-Certain players of the upper echelon are "allowed to have weapons, but you can't shoot them."
+- players may try to acquire weapons and attack other players directly — however, weapons are scarce and combat is lethal, so players must weigh the risks vs benefits of such actions
+- as characters die, the colony's economy is impacted, leading to a balance of cost and benefit in all actions. Players must carefully balance their actions in the colony, as the economy and infrastructure are fully simulated. Decisions made can have long-term consequences, and players must consider the cost and benefit of their actions.
+- throughout the game, players must also be mindful of their own safety, as there are many ways to accidentally kill their character. The environment itself is hostile and dangerous, and players must always be on their guard.
 
 
 ### New Notes
@@ -181,6 +231,8 @@ Ontology plays a large part of the themes and tone of the game. The ontology wil
 E.g., the word echelon itself. It will be used to describe so many things — upper and lower echelon character roles, numbered echelons of player deaths, referring to physical stories of a building, referring to other individual objects. There could be several ways to use these different terms. Upper/lower echelon, echelon 1, 2, 3, or 4. First echelon/Second echelon. Echelon A, B, C. Your echelon, their echelon.
 
 This kind of ambiguous wordplay will be everywhere.
+
+The term neutralized can be used for character death. This acts as a euphemism and also as a play on the other use of the word neutral for character traits described below.
 
 
 #### Tortoise-TTS
@@ -209,7 +261,7 @@ Maybe there is Wholesome, Neutral, and Toxic. All AI character decisions could b
 
 #### Last One Standing Game Mode additional scoring
 
-Perhaps the total duration of time alive of all characters boosts the absolute score of any players in the game. Relative score, for the single game, is simply last one standing - times died. Across all games, the duration of all characters in an individual game, determines the overall absolute score placement across all games (of equivalent versions — leaderboards will be reset for gameplay changes).
+Perhaps the total duration of time alive of all characters boosts the absolute score of any players in the game. Relative score, for the single game, is simply last one standing - times died. Across all games, the duration of all characters in an individual game, determines the overall absolute score placement across all games (of equivalent versions — leaderboards will be reset for gameplay changes). THIS COULD HAVE NEGATIVE CONSEQUENCES of play sessions being extended to seek leaderboard status. Boosting lobbies, etc. BAGH.
 
 
 #### Speech-to-text for AI
@@ -237,7 +289,7 @@ The outside economy, from which goods are imported (and exported?) needs to be "
 
 The p2p lobby "server" MOTD with the semi-dynamic content, including server rules, can name the actual players in the lobby as the admins/owners of the server. Give real information to the players in this.
 
-The rules can serve as game instructions. No shooting people (press X to shoot people).
+The rules can serve as game instructions. No shooting people (press X to shoot).
 
 
 #### Robots can perform any tasks
@@ -252,6 +304,11 @@ Also, a price-list can be discovered for the robots and weapons, but as they are
 #### Different shoes have vastly different sounds
 
 Some nearly silent, some really loud. Stylish ones are loud, worn out old ones are quiet but no access.
+
+
+#### Round-based heatmap-generated "desire paths" aka worn areas
+
+In dirt areas on the lower echelons. Indicates trends of character movement.
 
 
 ---
@@ -366,7 +423,6 @@ These notes are transcribed from handwritten notes, in the order they appear in 
 
 ### Discord Ramblings
 
-- going to try and model the npc ai using Maslow's hierarchy, the biopsychosocial model, and the stress and coping model of human behaviour.
 - I think the game name will be Ulon Mars
   - and ppl can joke, like they act confused when they hear the name and someone is like "Yeah he changed his name" and they're like oooh yeah yeah ok but we never say the old name lol
 
