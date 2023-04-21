@@ -222,6 +222,12 @@ It may include monetization strategies such as in-app purchases or microtransact
 - as characters die, the colony's economy is impacted, leading to a balance of cost and benefit in all actions. Players must carefully balance their actions in the colony, as the economy and infrastructure are fully simulated. Decisions made can have long-term consequences, and players must consider the cost and benefit of their actions.
 - throughout the game, players must also be mindful of their own safety, as there are many ways to accidentally kill their character. The environment itself is hostile and dangerous, and players must always be on their guard.
 
+Multiplayer non-serious economy/crime simulator RP. martian outpost that is privateer-based, capitalist pay your way kinda thing to support Ulon Mars’ martian robot fighting league, formerly Unreal Tournaments he bought from Epic Games.
+
+Villain's name is Ulon Mars
+
+People act confused when they hear the name and someone is like "Yeah he changed his name" and they're like oooh yeah yeah ok but we never say the old name.
+
 
 ### New Notes
 
@@ -278,6 +284,8 @@ Aspects of survival/MMO games seem very fun, but are inaccessible to people who 
 
 Also, the reason that VR is not an option for now. VR is a bit much for some people. This game is for them. This game is to provide the social gaming experience of some of the VR, MMO, and survival games, to people who have no time or energy for that lmao.
 
+The game is like an MMO end game. The MMO is over... people can just RP and have fun before the server gets shut down.
+
 
 #### Source/Sink
 
@@ -310,6 +318,21 @@ Some nearly silent, some really loud. Stylish ones are loud, worn out old ones a
 #### Round-based heatmap-generated "desire paths" aka worn areas
 
 In dirt areas on the lower echelons. Indicates trends of character movement.
+
+
+#### Toxic and Wholesome are two separate metrics
+
+One can be fully toxic and fully wholesome or any combination. Some decisions might only rely on toxicity. Some rely only on wholesomeness. Neutrality is an emergent concept.
+
+
+#### Only initial state is randomized
+
+The values of GameAI traits, etc., only change based on systems. All randomization only occurs on initial state creation.
+
+
+#### Character GameAI traits are based on experience/environment
+
+The primary way that the traits of GameAI change is when they experience/see/hear events in their environment. The GameAI characters are very much products of their environment.
 
 
 ---
@@ -416,29 +439,26 @@ These notes are transcribed from handwritten notes, in the order they appear in 
 - Team Target Elimination
 - Hitpeople
   - All players are secretly hit persons. Crazy Ulon Mars has given them all tailored hit lists which contain some AI characters and also all other player characters, but without knowledge of which is which. Winner is the first to complete their list without getting hitted.
+- Casual RP Mode
+
 
 ![image](https://user-images.githubusercontent.com/22458343/224476328-919a5534-0d16-4a9e-ad9e-42348b0ed29e.png)
 
 
 ---
 
-### Discord Ramblings
+### Use of the Lyra framework
 
-- I think the game name will be Ulon Mars
-  - and ppl can joke, like they act confused when they hear the name and someone is like "Yeah he changed his name" and they're like oooh yeah yeah ok but we never say the old name lol
+Fully leverage the Lyra framework to find the fun. Do not re-invent systems. Build upon existing systems.
+
+To build off of Lyra Sample Project
 
 
----
+#### Sarcastic Server Rules banner
 
-### Game Idea LyraRP
+Maybe different random banners each time, with similar joke rules
 
-To build off of Lyra Sample Project…
-
-Multiplayer non-serious economy/crime simulator RP. Players take on a random role of a character in a scenario (town, etc. in this case martian outpost that is privateer-based, capitalist pay your way kinda thing to support Elon Musk’s martian robot fighting league, formerly Unreal Tournaments he bought from Epic Games.)
-
-Sarcastic “Server Rules” banner: (Maybe different random banners each time, with similar joke rules)
-
-"Server Rules:"
+Server Rules:
 - No killing
 - No guns
 - No shooting guns
@@ -450,6 +470,7 @@ Sarcastic “Server Rules” banner: (Maybe different random banners each time, 
 - No drugs
 - No arguing with the mods
 - Report to mods (there actually are no mods)
+
 
 ---
 
