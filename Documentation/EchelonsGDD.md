@@ -335,6 +335,11 @@ The values of GameAI traits, etc., only change based on systems. All randomizati
 The primary way that the traits of GameAI change is when they experience/see/hear events in their environment. The GameAI characters are very much products of their environment.
 
 
+#### Combat stats affected by mental wellness
+
+![image](https://user-images.githubusercontent.com/22458343/233700101-2756bd4f-0a0e-4274-9e63-564dfb8aeec6.png)
+
+
 ---
 
 ### Collections of Pre-existing Notes
