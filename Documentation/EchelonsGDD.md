@@ -194,7 +194,7 @@ kings   | whale guest*
 
 1. #### skilled workers — pieces
    1. moderators (managers of the robot security force and bodyguards of whales) — knights
-   1. independent business operators (managers of the shops, restaurants, and other amenity businesses not related to the colony, robots, weapons, gambling, etc.. LOL. maybe they are owner-operators!!! living the dream! llmao! They are just pawns but pretend to own things.) — bishops
+   1. independent business operators (managers of the shops, restaurants/cafes, and other amenity businesses not related to the colony, robots, weapons, gambling, etc.. LOL. maybe they are owner-operators!!! living the dream! llmao! They are just pawns but pretend to own things.) — bishops
    1. VIP hosts (the managers of the casino, the colony as a whole, etc. but they are pre-occupied catering to the whims of the whales) — rooks
 
 1. #### guests
@@ -259,6 +259,8 @@ If a player dropped out early, and they happened to be the host, the game is rui
 Perhaps a simple positive/negative binary personality trait is determined for each AI character. It could be called "toxic personality" vs wholesome (or sweetheart).
 
 Maybe there is Wholesome, Neutral, and Toxic. All AI character decisions could be based off of a probability weighted against this metric. Being toxic affects probabilities that would be deemed negative like crime, etc.
+
+https://www.reddit.com/r/Twitch/comments/k77rt9/what_is_with_the_wholesome_and_toxic_community/
 
 
 #### In the end quote
@@ -338,6 +340,61 @@ The primary way that the traits of GameAI change is when they experience/see/hea
 #### Combat stats affected by mental wellness
 
 ![image](https://user-images.githubusercontent.com/22458343/233700101-2756bd4f-0a0e-4274-9e63-564dfb8aeec6.png)
+
+
+#### Player customization
+
+Player customized content can be made tied to the player account of the creator for a limited time upon merge.
+
+
+#### Turing test
+
+The game ends up actually being kind of like a turing test. Spot the "AI" could be useful for marketing.
+
+
+#### Voice system
+
+Tortoise-tts is used to generate phrases for the NPC — either several consistent voices or just random voices always. 
+
+The generated voices must to the player be exactly equivalent functionally as player voices. That is, they are treated the same way.
+
+Character mouth movement is base on the audio which generates movement in real time, the same for both player and generated voices.
+
+Whisper.cpp is used to listen for keywords — gameplay mechanics/scenario "rules" help to minimize the need or desire for communication — but some is allowed (for conducting transactions, work, gambling, etc.). 
+
+Generated voices are listened to and interpreted just as the player voices are.
+
+Voices are modulated in real time to alter the pitch up or down randomly/in line with the character, within a certain range, to try and obfuscate all voices.
+
+The character voices are all generated based on text input from designers in easy-to-manage data structure.
+
+New builds periodically re-generate voices so the sounds are not always identical and players can be challenged.
+
+There are several variations of each utterance generated per voice, and they are cycled through in randomized order to attain as dynamic speech as possible.
+
+Defects present in generated voices can be kept to simulate weird player behaviour.
+
+
+#### Subjectivity
+
+The concept of selling or buying or owning is up to subjectivity. If an NPC who owns a store sees someone with an item they sell in the store, they will expect money for it. Don't pull things out of your pocket at the wrong time.
+
+
+#### Books
+
+Books are the main form of allowed entertainment other than gambling. There is an eerie lack of electronics other than colony-provided devices.
+
+
+#### Not about twitch reactions or shooting
+
+The mechanics for shooting are favourable to the player being shot. Checks are made between all clients to verify mutually all kills. Animation/effects will hide the delay. Twitch shooting is not really helpful. It's more about deciding to take action and then seeing various results of those actions.
+
+The game is more like playing in a hitman map multiplayer.
+
+
+#### Character interactions rated
+
+The personality traits are derived from character interactions altering them. NPC and players experience interactions. Some automatically apply buff or debuff to personality, other interactions can allow NPC or players to actively choose to rate another character as toxic or wholesome. This can be done with the expressions system. Facial expressions, etc.
 
 
 ---
