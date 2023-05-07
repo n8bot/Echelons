@@ -425,6 +425,13 @@ Make the feet part of the capsule more tapered so it's easier to slip and fall o
 Metahuman ragdoll example is key llmao.
 
 
+#### Lack of variety
+
+The lack of variety in terms of clothing options, hair styles, food, etc., will be masked by the difficulty in making the selections. Not difficulty directly, but in time and space. The player will be pre-occupied with other tasks, the character will not have time to go make these choices as they will be out of the way.
+
+The characters will have a routine, which is somewhat hard to break.
+
+
 ---
 
 ### Collections of Pre-existing Notes
