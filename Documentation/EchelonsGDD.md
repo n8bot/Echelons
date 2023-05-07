@@ -432,6 +432,15 @@ The lack of variety in terms of clothing options, hair styles, food, etc., will 
 The characters will have a routine, which is somewhat hard to break.
 
 
+#### NPC performance optimization
+
+In an attempt to keep the number of metahumans in LOD0 and LOD1, the NPC will aggressively attempt to leave areas with large clusters of other characters. The ranges of each LOD from each player will be maintained, so that no more than about 4 are in LOD0 for any player at any given time.
+
+This will provide somewhat of a gameplay element. Players can try to deduce who is another player based on their emulation or not of this tendency to leave the area when there are too many other characters. Also, the clusters forming around specific characters can perhaps be detected as well.
+
+This is a feature, not a bug.
+
+
 ---
 
 ### Collections of Pre-existing Notes
