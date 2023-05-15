@@ -441,6 +441,51 @@ This will provide somewhat of a gameplay element. Players can try to deduce who 
 This is a feature, not a bug.
 
 
+#### Wholesome/Toxic is seen as Snowflake/Cool
+
+Players vs Developers. The same rating system is used for all characters. Players and developers each see the ratings conversely. While the Developers see Toxic behaviour, the players see cool. Wholesome is seen as snowflake. It is the same and affects decision making basically the same. The reactions by the character change. The emotions change. Mental health reactions are different
+
+
+#### Mouth flapping
+
+The visemes of the metahuman can be cycled through randomly while characters are talking. As long as the sound is coming through, the visemes are interpolation. However, the magnitude of the openness of the mouth is changed as the amplitude of the sound changes. The combination of the two provides for dynamic reaction to the actual sound, without marionette-like flapping. The visemes will shut the mouth somewhat, and change the lip shape, so that the audio's amplitude influence is hidden, and vice versa the amplitude of the audio hides the interpolation of the visemes. If the amplitude is low, the lips should barely look like they are moving. As if someone is just grumbling silently to themselves. The guards can detect this and say "No grumbling." Llmao.
+
+
+#### Collision capsule reduced so that it is harder to balance on things
+
+The character collision capsule should come to a smaller point underneath the character's center of balance. Then, the foot IK will hopefully make it seem reasonable for balancing on thin things. Could work. And make it hilariously fun to slip and fall.
+
+
+#### Consider volume and concealment of all items the characters can have
+
+Logistics should be a real concern. Moving basic items from one place to another is a task, especially if this activity must be concealed.
+
+
+#### Electrical lines have individual runs from source to target or better organized network
+
+The electrical lines go everywhere and be deadly if u touch them wrong
+
+
+#### Speech interruption
+
+Whether for Player or non-player character, if the speech/voice is interrupted by death before the sound file ends or the PTT button is released, this can be a trigger to raise suspicion of nearby NPC.
+
+
+#### Ragdolls and balancing
+
+Characters can lose balance. They can be pushed around by outside forces such as other characters. Ragdoll mode is ubiquitous. They can tumble, roll, and be injured on every hit all the way down. Jumping is entering ragdoll mode. Landing with a certain orientation will regain balance, otherwise full ragdoll — based on IK foot placement goals.
+
+
+#### NPC Target pursuit
+
+When NPC are pursuing a target, they should be targeting descriptive features that could cause them to mistake a different target for the same person. Tall, masculine, long dark hair, yellow shirt, etc.
+
+
+#### The idea or concept of engaging in combat
+
+Often in games this is on or off. An NPC is engaging or not in combat with another. Instead, this is a confusing grey area. Who to fight? Who is fighting? Who is friend? Do I fight, flight, or freeze?
+
+
 ---
 
 ### Collections of Pre-existing Notes
