@@ -486,6 +486,11 @@ When NPC are pursuing a target, they should be targeting descriptive features th
 Often in games this is on or off. An NPC is engaging or not in combat with another. Instead, this is a confusing grey area. Who to fight? Who is fighting? Who is friend? Do I fight, flight, or freeze?
 
 
+#### Time scale
+
+One day is scaled down to about 7.5 minutes. That game day is extrapolated to be a game week. Every day in the game, the characters progress their traits as if a week had progressed conducting that days behaviour.
+
+
 ---
 
 ### Collections of Pre-existing Notes
