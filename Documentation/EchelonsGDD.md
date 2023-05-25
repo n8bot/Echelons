@@ -29,7 +29,7 @@
 - Unreal Engine 5
   - Lumen, Nanite, et. al.
   - Lyra framework
-  - EOS/null online subsystems (for official/unofficial+testing+Linux until EOS packages on Linux)
+  - EOS/null online subsystems (for online server browsers, and offline+LAN, respectively)
   - Metahumans
     - default for NPC/Players
     - custom for villain (Ulon Mars)
