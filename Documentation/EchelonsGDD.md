@@ -491,6 +491,15 @@ Often in games this is on or off. An NPC is engaging or not in combat with anoth
 One day is scaled down to about 7.5 minutes. That game day is extrapolated to be a game week. Every day in the game, the characters progress their traits as if a week had progressed conducting that days behaviour.
 
 
+#### DevAuth Tool/Account Portal analogues
+
+In the game world, the characters can use account portal to enter credentials every time or they can use the devauth tool to automatically provide credentials.
+
+LMAO... this Player/Developer thing is really coming together.
+
+Player and Developer are called "Echelons" like houses in harry potter. Which Echelon are you? Player or Developer?
+
+
 ---
 
 ### Collections of Pre-existing Notes
