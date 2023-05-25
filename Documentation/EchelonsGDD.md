@@ -499,6 +499,8 @@ LMAO... this Player/Developer thing is really coming together.
 
 Player and Developer are called "Echelons" like houses in harry potter. Which Echelon are you? Player or Developer?
 
+"I'm not even a Player, I'm just a user." "Don't say that." "I'm such a user."
+
 
 ---
 
