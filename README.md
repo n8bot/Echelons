@@ -5,7 +5,7 @@
 >> ### *Echelons of Deception and Survival*
 >>>> #### *Official GitHub Repo*
 
-> [![Video](https://github.com/n8bot/Echelons/assets/22458343/5c3f8071-645f-456d-90e0-85ba3188962f)](https://www.youtube.com/watch?v=tjFhXySBIUQ)
+> [![Video](https://user-images.githubusercontent.com/22458343/241268369-3e74631a-eae8-4fac-bf18-879d2cefa51a.png)](https://www.youtube.com/watch?v=tjFhXySBIUQ)
 >>>> ---
 > [**Watch the teaster trailer for the game Echelons of Deception and Survival on YouTube**](https://www.youtube.com/watch?v=tjFhXySBIUQ)
 
