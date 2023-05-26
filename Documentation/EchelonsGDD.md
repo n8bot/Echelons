@@ -4,6 +4,10 @@
 >>>> #### *Game Design Document*
 >>>>>>> ##### [**`@n8bot`**](https://github.com/n8bot) 2023
 
+
+#### Roleplay as a productive member of society — or not.
+
+
 ### Introduction
 
 *Echelons of Deception and Survival* is a competitive third-person roleplaying game with elements of social/urban survival, social stealth, social deduction, immersive economic simulation, and battle-royale gameplay.
