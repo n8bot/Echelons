@@ -5,6 +5,10 @@
 >> ### *Echelons of Deception and Survival*
 >>>> #### *Official GitHub Repo*
 
+> [![Video](https://github.com/n8bot/Echelons/assets/22458343/5c3f8071-645f-456d-90e0-85ba3188962f)](https://www.youtube.com/watch?v=tjFhXySBIUQ)
+>>>> ---
+> [**Watch the teaster trailer for the game Echelons of Deception and Survival on YouTube**](https://www.youtube.com/watch?v=tjFhXySBIUQ)
+
 This is the official GitHub repository for the upcoming competitive online multiplayer game *Echelons of Deception and Survival*.
 
 This is an open source community-driven game project. 
