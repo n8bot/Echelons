@@ -10,7 +10,33 @@
 
 ### Introduction
 
-*Echelons of Deception and Survival* is a competitive third-person roleplaying game with elements of social/urban survival, social stealth, social deduction, immersive economic simulation, and battle-royale gameplay.
+*Echelons of Deception and Survival* is a semi-competitive third-person roleplaying game with elements of social/urban survival, social stealth, social deduction, immersive sim, and battle-royale gameplay.
+
+Between two and eight players compete for survival in a small, contained economic simulation containing mostly NPC characters — up to 32 total including player characters.
+
+When a player character dies, the player does not respawn as that character. Instead, the player possesses some other existing character in the world.
+
+Tasks must be performed by characters, both NPC and players, to maintain the economic/survival needs of the setting.
+
+In addition to completing tasks, players must navigate the potentially treacherous environments, and avoid/overcome the fully-NPC guards. Players can choose to engage in combat, but weapons and ammunition are scarce and combat is very lethal.
+
+Four game modes, in order of priority:
+
+1. Last One Standing
+
+   Player identities are concealed. Players must survive as long as possible while dying the fewest number of times.
+
+1. Casual Free Mode — RP
+
+   The economic simulation is given as a sandbox to players. New characters can be regenerated upon deaths to keep the scenario going as long as desired/achievable.
+
+1. Team Target Elimination
+
+   Same character respawn rules as LOS, but players are split into teams, players and developers, and a designated "king" is targeted for assassination. First team to eliminate the opposing king wins.
+
+1. Hitpersons
+
+   Same character respawn rules as LOS, but players are given a list of characters to eliminate — some are NPC, some are other players. First to complete their list wins. (The list transcends character death, stays with the player.)
 
 
 #### *Echelons of Deception and Survival* key points:
@@ -42,11 +68,48 @@
     - free, free for the month, etc.
   - new and existing open source assets
 
-32 characters exist in a small simulated economy
+All characters are controlled automatically by typical game NPC logic performing daily routines and tasks
+
+NPC decisions are made based on randomized/probabilistic personality traits determined at round start — using Maslow's hierarchy, the biopsychosocial model, and the stress and coping model of human behaviour
+
+Players are assigned a single character at the beginning of a session. They can simply let the NPC act automatically, choose to make small decisions, or take full control of the NPC at any time
+
+If control is taken from NPC, NPC control does not return until a full night's rest (or medication)
+
+Tasks are difficult to perform manually
+
+(The player control is a metaphor for mental illness/psychosis/some other form of mind control)
+
+The first and only setting of the first version will be a small contemporary Martian gambling resort colony. This first environment will be used to discover and explore potential gameplay mechanics/elements.
+
+Economy of the small setting is fully simulated
+
+Economic inputs are mostly imported
+
+Economy is sensitive to changes/disruptions in the supply of goods or performance of tasks
+
+Day/Night cycle, compressed time scale
+
+Characters need food, sleep, mental stimulation/wellness
+
+Certain roles/access to certain areas is dependent on cleanliness and dress code
+
+Starting locations of shops/services will be randomized among eligible "real estate" slots
+
+Starting locations of character/roles will also be randomized
+
+Starting stats and traits of characters randomized
+
+PVP is discouraged through game design, but always possible
+
+Players must deduce who is AI-controlled or player-controlled character
+
+
+#### Characters
 
 A character is defined uniquely by its Metahuman name and face
 
-Upon initialization, a character is automatically given each of the following elements, based on desired statistical distributions:
+Upon initialization, a character is automatically given a set of traits — both physical and personality.
 
 Metahuman body combo (Tall/Average/Short & Underweight/Medium/Overweight):
 
@@ -59,29 +122,8 @@ Metahuman body combo (Tall/Average/Short & Underweight/Medium/Overweight):
 
 > **Note:** Images are not exactly to scale (camera position/focal length changes).
 
-Personality traits
 
-Etc.
-
-
-
-All characters are controlled automatically by typical game AI performing daily routines and tasks
-
-AI character decisions are made based on randomized/probabilistic personality traits determined at round start — using Maslow's hierarchy, the biopsychosocial model, and the stress and coping model of human behaviour
-
-2-8 players are each assigned a single character at the beginning of a session, which they can choose to make small decisions for or take full control of at any time
-
-If control is usurped from AI, AI control does not return until a full night's rest (or medication)
-
-Tasks are difficult to perform manually
-
-(The player control is a metaphor for mental illness/psychosis/some other form of mind control)
-
-The first and only setting of the first version will be a small contemporary Martian gambling resort colony. This first environment will be used to discover and explore potential gameplay mechanics/elements.
-
-Economy of the small setting is fully simulated
-
-#### Food:
+#### Food
 
 |                      | Restaurant         | Cafeteria            | Home Cooking
 ---------------------: | :----------------- | :------------------- | :-----------
@@ -105,7 +147,7 @@ Economy of the small setting is fully simulated
 > 
 > Fashion-based access is subject to the taste and discretion of the character or robot granting access.
 
-#### Robots and weapons/amo:
+#### Robots and weapons/amo
 
 The physical security is all taken care of by extremely lethal humanoid robots armed with firearms and grenades
 
@@ -119,7 +161,7 @@ The rules of the colony will disallow any human from possessing weapons, but of 
 
 The rules in general are very selectively enforced — mostly as a way to keep the poor servants of the lower echelons of the colony in check
 
-#### General economic goods/services:
+#### General economic goods/services
 
 - cleaning supplies
   - personal hygiene contributes to access similar to dress-code
@@ -131,7 +173,7 @@ The rules in general are very selectively enforced — mostly as a way to keep t
 - household items/other entertainment goods and services
 - spa/makeup/hair styling
 
-#### Black market:
+#### Black market
 
 - drugs
   - allow players to require less sleep/food/etc., with side-effects
@@ -140,57 +182,10 @@ The rules in general are very selectively enforced — mostly as a way to keep t
   - drug labs from obscure input products
 - illegal imported weapons
 
-Economic inputs are mostly imported
 
-Gameplay involves roleplaying jobs and tasks to fulfill survival mechanics
+#### Character roles:
 
-Economy is sensitive to changes/disruptions in the supply of goods or performance of tasks
-
-Day/Night cycle, 7.5 mins/day
-
-Characters need food, sleep, mental stimulation/wellness
-
-Certain roles/access to certain areas is dependent on cleanliness and dress code
-
-Starting locations of shops/services will be randomized among eligible "real estate" slots
-
-Starting locations of character/roles will also be randomized
-
-Starting stats and traits of characters randomized
-
-PVP is discouraged through game design, but always possible
-
-In addition to completing tasks and interacting with other players and AI, players must also navigate the potentially treacherous environments, as well as avoid or overcome the AI guards. Players can choose to engage in combat, but weapons and ammunition are scarce and combat is very lethal.
-
-Main game mode Last One Standing:
-
-2-8 players in a session
-
-32 characters in a session
-
-Players must survive as long as possible
-
-If player character loses their life, player possesses the nearest non-player character and they lose a point
-
-Players are not identified
-
-Players must deduce who is AI-controlled or player-controlled character
-
-Last one standing, with the most points, wins
-
-Secondary game mode Team Target Elimination:
-
-Mechanics are the same as LOS, but the characters are divided into two teams. Each team has a VIP King, which the other team must eliminate.
-
-Third game mode Hit People:
-
-Mechanics are same as LOS, but each player is given a list of characters to eliminate. Some are AI characters, some are player characters. First to complete their list wins. (The list transcends character death?)
-
-Free/Casual RP mode:
-
-New characters join the setting as players die, so the economy/simulation is always maintained to some extent.
-
-#### Character roles and their chess counterparts:
+Loosely based on chess pieces
 
 Chess   | Echelons
 ------- | ---
