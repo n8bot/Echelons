@@ -12,7 +12,7 @@
 
 *Echelons of Deception and Survival* is a semi-competitive third-person roleplaying game with elements of social/urban survival, social stealth, social deduction, immersive sim, and battle-royale gameplay.
 
-Between two and eight players compete for survival in a small, contained economic simulation containing mostly NPC characters — up to 32 total including player characters.
+Between two and eight players compete for survival in a small, contained economic simulation populated with mostly NPC characters — up to 32 total including player characters.
 
 When a player character dies, the player does not respawn as that character. Instead, the player possesses some other existing character in the world.
 
