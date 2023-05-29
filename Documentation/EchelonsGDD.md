@@ -501,6 +501,11 @@ Player and Developer are called "Echelons" like houses in harry potter. Which Ec
 "I'm not even a Player, I'm just a user." "Don't say that." "I'm such a user."
 
 
+#### Robot NPC Guards are called UBots
+
+Ubot 101, 102, 103, 104, etc. Random hex number?
+
+
 ---
 
 ### Collections of Pre-existing Notes
