@@ -1,6 +1,5 @@
-# *Echelons of Deception and Survival*
+![*Echelons of Deception and Survival*](https://github.com/n8bot/Echelons/assets/22458343/026ded06-c639-4407-b21f-1d26da96124a)
 
-![2022-12-24-22-38-57-2-Echelon_Deception_and_Survival-1740460400-scale8 00-k_lms-v1-5-pruned-emaonly](https://user-images.githubusercontent.com/22458343/222296043-c3471d85-0686-4242-8762-5c27acfb7a25.png)
 
 >> ### *Echelons of Deception and Survival*
 >>>> #### *Official GitHub Repo*
