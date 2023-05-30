@@ -1,4 +1,4 @@
-![2022-12-24-22-38-57-2-Echelon_Deception_and_Survival-1740460400-scale8 00-k_lms-v1-5-pruned-emaonly](https://user-images.githubusercontent.com/22458343/222296043-c3471d85-0686-4242-8762-5c27acfb7a25.png)
+![2022-12-24-22-38-57-2-Echelon_Deception_and_Survival-1740460400-scale8 00-k_lms-v1-5-pruned-emaonly](https://user-images.githubusercontent.com/22458343/241926055-c2e17b6e-5231-44fd-96cb-abe3bc1f0308.png)
 
 >> ### *Echelons of Deception and Survival*
 >>>> #### *Game Design Document*
