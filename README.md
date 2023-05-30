@@ -1,5 +1,5 @@
 <p align="center">
-<img src=https://github.com/n8bot/Echelons/assets/22458343/026ded06-c639-4407-b21f-1d26da96124a>
+<img src=https://github.com/n8bot/Echelons/assets/22458343/c2e17b6e-5231-44fd-96cb-abe3bc1f0308>
 </p>
 <p align="center">
 <a href="https://www.youtube.com/watch?v=tjFhXySBIUQ">
