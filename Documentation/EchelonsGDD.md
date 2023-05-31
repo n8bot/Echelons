@@ -506,6 +506,18 @@ Player and Developer are called "Echelons" like houses in harry potter. Which Ec
 Ubot 101, 102, 103, 104, etc. Random hex number?
 
 
+#### MeatHuman After All
+
+Self-explanatory.
+
+
+#### Since the dawn of time man has yearned to destroy the sun...
+
+I will do the next best thing. Block it out.
+
+Wholesale steal that trope from the simpsons. Put it in.
+
+
 ---
 
 ### Collections of Pre-existing Notes
