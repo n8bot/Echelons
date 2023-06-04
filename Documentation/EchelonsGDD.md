@@ -518,7 +518,10 @@ I will do the next best thing. Block it out.
 Wholesale steal that trope from the simpsons. Put it in.
 
 
----
+#### Backpacks
+
+Backpacks can carry items, but are not allowed in many areas.
+
 
 ### Collections of Pre-existing Notes
 
