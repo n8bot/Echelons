@@ -523,6 +523,13 @@ Wholesale steal that trope from the simpsons. Put it in.
 Backpacks can carry items, but are not allowed in many areas.
 
 
+#### NPC MeatHumans think Player MeatHumans are sus
+
+The NPC feel that the player-controlled MeatHumans act sus... which, they do in a sense. The Player controlled MeatHumans notice the stiff and mechanical way the NPC MeatHumans move and act, because, well, yeah... they are NPC. But is that sus? Hmmm... Worker bees are not sus.
+
+
+---
+
 ### Collections of Pre-existing Notes
 
 Below is a collection of notes about the game.
