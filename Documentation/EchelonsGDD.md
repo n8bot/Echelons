@@ -528,6 +528,11 @@ Backpacks can carry items, but are not allowed in many areas.
 The NPC feel that the player-controlled MeatHumans act sus... which, they do in a sense. The Player controlled MeatHumans notice the stiff and mechanical way the NPC MeatHumans move and act, because, well, yeah... they are NPC. But is that sus? Hmmm... Worker bees are not sus.
 
 
+#### Designer/Developer User/Player
+
+Designer is the pejorative for dev, user for player.
+
+
 ---
 
 ### Collections of Pre-existing Notes
