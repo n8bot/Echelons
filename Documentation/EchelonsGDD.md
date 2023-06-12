@@ -533,6 +533,11 @@ The NPC feel that the player-controlled MeatHumans act sus... which, they do in 
 Designer is the pejorative for dev, user for player.
 
 
+#### Degenerate
+
+Degen is a term used to describe criminal/shady behaviour.
+
+
 ---
 
 ### Collections of Pre-existing Notes
