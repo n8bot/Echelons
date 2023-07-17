@@ -538,6 +538,11 @@ Designer is the pejorative for dev, user for player.
 Degen is a term used to describe criminal/shady behaviour.
 
 
+
+#### OODA Loop for NPC behaviour logic
+
+OODA loop is a concept that will be used when modelling the NPC behaviour logic.
+
 ---
 
 ### Collections of Pre-existing Notes
