@@ -19,6 +19,7 @@ The Unreal Engine versions supported are as follows:
 | ---------- | ------------------------------ |
 | 5.2.1      | :white_check_mark: *Supported* |
 | < 5.2.1    | :x: *Not supported*            |
+| > 5.2.1    | :x: *Not yet supported*        |
 
 
 ## Reporting a Vulnerability
