@@ -1,4 +1,4 @@
-![EchelonsItchWide](https://github.com/n8bot/Echelons/assets/22458343/f607a344-abb8-4192-8222-0d14d871dc1d)
+[![image](https://github.com/n8bot/Echelons/assets/22458343/6684b7f2-2b23-4eb0-8617-a7f49b44fbe1)](https://echelons.itch.io/echelons)
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=tjFhXySBIUQ">
