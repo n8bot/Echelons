@@ -8,6 +8,7 @@
 </p>
 
 >> ### *Echelons of Deception and Survival*
+
 >>>> #### *Official GitHub Repo*
 
 This is the official GitHub repository for the upcoming competitive online multiplayer game *Echelons of Deception and Survival*.
@@ -29,3 +30,7 @@ You are welcome to be involved.
 - [How to contribute](https://github.com/n8bot/Echelons/blob/main/.github/CONTRIBUTING.md)
 
 - [Details about the Project Configuration](https://github.com/n8bot/Echelons/wiki/Commission-New-Lyra-Starter-Game-Project)
+
+![Poster1](https://github.com/n8bot/Echelons/assets/22458343/10adf803-2a59-4e1f-a351-f33873c16b40)
+
+![Poster2](https://github.com/n8bot/Echelons/assets/22458343/6696ca09-12cf-473c-ad70-77c8210b7b64)
