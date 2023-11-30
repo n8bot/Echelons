@@ -1,6 +1,5 @@
-<p align="center">
-<img src=https://github.com/n8bot/Echelons/assets/22458343/c2e17b6e-5231-44fd-96cb-abe3bc1f0308>
-</p>
+![EchelonsItchWide](https://github.com/n8bot/Echelons/assets/22458343/f607a344-abb8-4192-8222-0d14d871dc1d)
+
 <p align="center">
 <a href="https://www.youtube.com/watch?v=tjFhXySBIUQ">
 <img src=https://user-images.githubusercontent.com/22458343/241268369-3e74631a-eae8-4fac-bf18-879d2cefa51a.png width=360><br />Watch teaser on YouTube</a>
