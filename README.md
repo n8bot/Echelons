@@ -1,5 +1,9 @@
 [![image](https://github.com/n8bot/Echelons/assets/22458343/6684b7f2-2b23-4eb0-8617-a7f49b44fbe1)](https://echelons.itch.io/echelons)
 
+### [Download now for free on itch.io](https://echelons.itch.io/echelons)
+
+> ***Note:*** Get it from the **itch.io app** for easiest updates and launching!
+
 <p align="center">
 <a href="https://www.youtube.com/watch?v=tjFhXySBIUQ">
 <img src=https://user-images.githubusercontent.com/22458343/241268369-3e74631a-eae8-4fac-bf18-879d2cefa51a.png width=360><br />Watch teaser on YouTube</a>
