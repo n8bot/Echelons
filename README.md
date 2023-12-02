@@ -42,6 +42,6 @@ You are welcome to be involved.
 ![Echelons002SS1](https://github.com/n8bot/Echelons/assets/22458343/420e3693-b0b4-422c-9246-3ebcb3555c77)
 ![Echelons002SS6](https://github.com/n8bot/Echelons/assets/22458343/166965bc-0e09-40b9-945a-d9915034d2ef)
 
-![Poster1](https://github.com/n8bot/Echelons/assets/22458343/10adf803-2a59-4e1f-a351-f33873c16b40)
+![Poster1b](https://github.com/n8bot/Echelons/assets/22458343/ee8fd374-f051-44fc-93ae-e703af5e854d)
 
 ![Poster2](https://github.com/n8bot/Echelons/assets/22458343/6696ca09-12cf-473c-ad70-77c8210b7b64)
