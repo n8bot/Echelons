@@ -2,7 +2,7 @@
 
 ### [Download now for free on itch.io](https://echelons.itch.io/echelons)
 
-> ***Note:*** Get it from the **itch.io app** for easiest updates and launching!
+> ***Note:*** Get it from the [**itch.io app**](https://itch.io/app) for easiest updates and launching!
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=tjFhXySBIUQ">
