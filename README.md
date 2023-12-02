@@ -1,4 +1,4 @@
-[![image](https://github.com/n8bot/Echelons/assets/22458343/6684b7f2-2b23-4eb0-8617-a7f49b44fbe1)](https://echelons.itch.io/echelons)
+[![EchelonsItchWidePlayNow3](https://github.com/n8bot/Echelons/assets/22458343/aa429ee7-3ddf-4c5e-989e-104aa7c7b89e)](https://echelons.itch.io/echelons)
 
 ### [Download now for free on itch.io](https://echelons.itch.io/echelons)
 
