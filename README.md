@@ -5,8 +5,8 @@
 > ***Note:*** Get it from the [**itch.io app**](https://itch.io/app) for easiest updates and launching!
 
 <p align="center">
-<a href="https://www.youtube.com/watch?v=tjFhXySBIUQ">
-<img src=https://user-images.githubusercontent.com/22458343/241268369-3e74631a-eae8-4fac-bf18-879d2cefa51a.png width=360><br />Watch teaser on YouTube</a>
+<a href="https://www.youtube.com/watch?v=Jhg9YbrqGOA">
+<img src=http://i3.ytimg.com/vi/Jhg9YbrqGOA/hqdefault.jpg width=360><br />Watch trailer on YouTube</a>
 
 </p>
 
