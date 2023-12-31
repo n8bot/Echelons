@@ -543,6 +543,12 @@ Degen is a term used to describe criminal/shady behaviour.
 
 OODA loop is a concept that will be used when modelling the NPC behaviour logic.
 
+
+#### Feeling of mass-production
+
+Manufactured goods have a different feeling to the producer than the consumer. The producer is swamped in parts, the process, and materials and the excess. The paint everywhere, metal chips, waste, dozens of parts all stacked together. This feels different than a single, finished, clean unified product in the hands of the consumer.
+
+
 ---
 
 ### Collections of Pre-existing Notes
